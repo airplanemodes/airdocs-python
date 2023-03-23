@@ -14,7 +14,7 @@ all(iterable)
 ```
 
 ## Examples
-*Iterable* can be array, set or tuple. If any of it's elements is set to `False`, `None` or `0` the function will return `False`.
+**Iterable** can be array, set or tuple. If any of it's elements is set to `False`, `None` or `0` the function will return `False`.
 
 ```python
 all([1, 2, 3]) # True

@@ -14,7 +14,7 @@ any(iterable)
 ```
 
 ## Examples
-If at least one element of *iterable* is not set to `False`, `None` or `0` the function will return `True`.
+If at least one element of **iterable** is not set to `False`, `None` or `0` the function will return `True`.
 
 ```python
 any([3, 5, 10]) # True

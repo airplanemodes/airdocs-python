@@ -8,13 +8,13 @@ abs(value)
 ```
 
 ## Examples
-Passing an integer and a floating point number as an argument:
+An integer and a floating point number as arguments:
 ```python
 abs(-10) # 10
 abs(-2.5) # 2.5
 ```
 
-Passing a variable:
+A variable as an argument:
 ```python
 x = -80
 abs(x) # 80
