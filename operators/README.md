@@ -1,7 +1,7 @@
-# Operations
-There is boolean operations - `or`, `and`, `not`.
+# Operators
+There are boolean operators - `or`, `and`, `not`.
 
-Comparsion operations:
+Comparsion operators:
 - `<` less than
 - `<=` less than or equal
 - `>` greater than
@@ -11,7 +11,7 @@ Comparsion operations:
 - `is` object identity
 - `is not` negated object identity
 
-Bitwise operations:
+Bitwise operators:
 - `|` bitwise or
 - `^` bitwise exclusive or
 - `&` bitwise and

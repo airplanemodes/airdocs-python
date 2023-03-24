@@ -1,5 +1,6 @@
 * [Introduction](/)
-* [Operations](/operations/)
+* [Data model](/data-model/)
+* [Operators](/operators/)
 * [Built-in types](/built-in-types/)
 * [Built-in functions](/built-in-functions/)
 * [Statements](/statements/)

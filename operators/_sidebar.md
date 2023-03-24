@@ -1,3 +1,20 @@
+- **Boolean**
 * [or](/operators/or.md)
 * [and](/operators/and.md)
 * [not](/operators/not.md)
+- **Comparsion**
+* [<](/operators/lt.md)
+* [<=](/operators/ltorequal.md)
+* [>](/operators/gt.md)
+* [>=](/operators/gtorequal.md)
+* [==](/operators/equal.md)
+* [!=](/operators/notequal.md)
+* [is](/operators/is.md)
+* [is not](/operators/isnot.md)
+- **Bitwise**
+* [|](/operators/bwor.md)
+* [^](/operators/bwexor.md)
+* [&](/operators/bwand.md)
+* [<<](/operators/bwshiftl.md)
+* [>>](/operators/bwshiftr.md)
+* [~](/operators/bwinvert.md)

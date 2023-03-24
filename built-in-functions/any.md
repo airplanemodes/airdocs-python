@@ -8,12 +8,12 @@ def all(iterable):
     return True
 ```
 
-## Syntax
+### Syntax
 ```python
 any(iterable)
 ```
 
-## Examples
+### Examples
 If at least one element of **iterable** is not set to `False`, `None` or `0` the function will return `True`.
 
 ```python

@@ -1,13 +1,13 @@
 # while
 The `while` statement is used for repeated execution as long as an expression is true.
 
-## Syntax
+### Syntax
 ```python
 while expression:
     statement
 ```
 
-## Examples
+### Examples
 ```python
 i = 1
 while i < 5:

@@ -8,12 +8,12 @@ def all(iterable):
     return True
 ```
 
-## Syntax
+### Syntax
 ```python
 all(iterable)
 ```
 
-## Examples
+### Examples
 **Iterable** can be array, set or tuple. If any of it's elements is set to `False`, `None` or `0` the function will return `False`.
 
 ```python
