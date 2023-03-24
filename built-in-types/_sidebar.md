@@ -1,0 +1,8 @@
+* [int](/built-in-types/int.md)
+* [float](/built-in-types/float.md)
+* [complex](/built-in-types/complex.md)
+* [list](/built-in-types/list.md)
+* [tuple](/built-in-types/tuple.md)
+* [range](/built-in-types/range.md)
+* [set](/built-in-types/set.md)
+* [dict](/built-in-types/dict.md)

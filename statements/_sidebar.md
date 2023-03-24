@@ -1,1 +1,2 @@
-* [for()](/statements/for.md)
+* [for](/statements/for.md)
+* [while](/statements/while.md)
