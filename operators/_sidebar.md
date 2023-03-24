@@ -1,3 +1,12 @@
+- **Arithmetic**
+* [+](/operators/addition.md)
+* [-](/operators/subtraction.md)
+* [*](/operators/multiplication.md)
+* [/](/operators/division.md)
+* [//](/operators/floordivision.md)
+* [%](/operators/remainder.md)
+* [@](/operators/matrixmulti.md)
+* [**](/operators/exponentiation.md)
 - **Boolean**
 * [or](/operators/or.md)
 * [and](/operators/and.md)
@@ -11,6 +20,9 @@
 * [!=](/operators/notequal.md)
 * [is](/operators/is.md)
 * [is not](/operators/isnot.md)
+- **Membership**
+* [in](/operators/in.md)
+* [not in](/operators/notin.md)
 - **Bitwise**
 * [|](/operators/bwor.md)
 * [^](/operators/bwexor.md)

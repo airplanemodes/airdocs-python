@@ -9,3 +9,4 @@
 * [set](/built-in-types/set.md)
 * [frozenset](/built-in-types/frozenset.md)
 * [dict](/built-in-types/dict.md)
+* [bytes](/built-in-types/bytes.md)

@@ -6,5 +6,6 @@
 * [format()](/built-in-functions/format.md)
 * [hex()](/built-in-functions/hex.md)
 * [len()](/built-in-functions/len.md)
+* [object()](/built-in-functions/object.md)
 * [range()](/built-in-functions/range.md)
 * [str()](/built-in-functions/str.md)

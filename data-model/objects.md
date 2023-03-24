@@ -29,3 +29,11 @@ d = []
 `c` and `d` are guaranteed to refer to two different, unique, newly created empty lists.
 
 ?> Note that `c = d = []` assigns the same object to both c and d.
+
+## Type objects
+Type objects represent the various object types. An object’s type is accessed by the built-in function `type()`. There are no special operations on types. The standard module types defines names for all standard built-in types.
+
+Types are written like this: `<class 'int'>`.
+
+## Null object
+This object is returned by functions that don’t explicitly return a value. It supports no special operations. There is exactly one null object, named `None` (a built-in name).
