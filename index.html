@@ -15,7 +15,23 @@
       name: 'Airdocs Python',
       repo: '',
       loadSidebar: true,
-      subMaxLevel: 2
+      subMaxLevel: 2,
+      plugins: [
+        function pageFooter(hook, vm) {
+            var footer = [
+                '<hr/>',
+                '<footer style="text-align: right; font-size: 8px">',
+                '<span">Copyright © 2023 Roy Elman</span>',
+                '<br>',
+                '<span">Copyright © 2001-2023 Python Software Foundation</span>',
+                '</footer>',
+            ].join('');
+
+            hook.afterEach((html) => {
+                return html + footer;
+            });
+        }
+      ],
     }
   </script>
   <!-- Docsify v4 + Prism Python -->

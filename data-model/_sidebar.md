@@ -1,1 +1,0 @@
-* [objects](/data-model/objects.md)
