@@ -1,9 +1,9 @@
 # Objects
 Objects are Python’s abstraction for data. All data in a Python program is represented by objects or by relations between objects.
 
-Every object has an *identity*, a **type** and a **value**. An object’s identity never changes once it has been created. You may think of it as the object’s address in memory. The `is` operator compares the identity of two objects. The `id()` function returns an integer representing its identity.
+Every object has an *identity*, a **type** and a **value**. An object’s identity never changes once it has been created. You may think of it as the object’s address in memory. The [`is`](/operators/is.md) operator compares the identity of two objects. The [`id()`](/built-in-functions/id.md) function returns an integer representing its identity.
 
-An object’s type determines the operations that the object supports (e.g., “does it have a length?”) and also defines the possible values for objects of that type. The `type()` function returns an object’s type (which is an object itself). Like its identity, an object’s type is also unchangeable.
+An object’s type determines the operations that the object supports (e.g., “does it have a length?”) and also defines the possible values for objects of that type. The [`type()`](/built-in-functions/type.md) function returns an object’s type (which is an object itself). Like its identity, an object’s type is also unchangeable.
 
 The value of some objects can change. Objects whose value can change are said to be *mutable*. Objects whose value is unchangeable once they are created are called *immutable*. An object’s mutability is determined by its type. For instance, numbers, strings and tuples are immutable, while dictionaries and lists are mutable.
 
@@ -31,7 +31,7 @@ d = []
 ?> Note that `c = d = []` assigns the same object to both c and d.
 
 ## Type objects
-Type objects represent the various object types. An object’s type is accessed by the built-in function `type()`. There are no special operations on types. The standard module types defines names for all standard built-in types.
+Type objects represent the various object types. An object’s type is accessed by the built-in function [`type()`](/built-in-functions/type.md). There are no special operations on types. The standard module types defines names for all standard built-in types.
 
 Types are written like this: `<class 'int'>`.
 

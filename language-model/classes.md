@@ -1,46 +1,15 @@
 # Classes
+The `object` class is the base class for all objects in Python. The `type` class is a subclass of `object`. All built-in types in Python, such as `int`, `float`, `bool`, and `str`, are subclasses of `type`.
 
-## `object.__new__()`
+```python
+# Getting list with all classes
+object.__subclasses__()
 
-## `object.__init__()`
+# Getting list with subclasses of int
+int.__subclasses__()
+type.__subclasses__(int)
+```
 
-## `object.__del__()`
+Class is defined by [`class`](/statements/class.md) statement and consist of **methods**.
 
-## `object.__repr__()`
-
-## `object.__str__()`
-
-## `object.__bytes__()`
-
-## `object.__format__()`
-
-## `object.__lt__()`
-## `object.__le__()`
-## `object.__eq__()`
-## `object.__ne__()`
-## `object.__gt__()`
-## `object.__ge__()`
-
-## `object.__hash__()`
-
-## `object.__bool__()`
-
-## `object.__getattr__()`
-
-## `object.__getattribute__()`
-
-## `object.__setattr__()`
-
-## `object.__delattr__()`
-
-## `object.__dir__()`
-
-## `object.__get__()`
-
-## `object.__set__()`
-
-## `object.__delete__()`
-
-## `object.__init_subclass__()`
-
-## `object.__set_name__()`
+Method is a function which is defined inside a class body. If called as an attribute of an instance of that class, the method will get the instance object as its first argument (which is usually called self).
