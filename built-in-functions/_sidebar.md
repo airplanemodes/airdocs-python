@@ -22,6 +22,8 @@
 * [min()](/built-in-functions/min.md)
 * [object()](/built-in-functions/object.md)
 * [open()](/built-in-functions/open.md)
+* [pow()](/built-in-functions/pow.md)
+* [print()](/built-in-functions/print.md)
 * [range()](/built-in-functions/range.md)
 * [round()](/built-in-functions/round.md)
 * [str()](/built-in-functions/str.md)

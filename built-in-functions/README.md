@@ -8,3 +8,9 @@ Special read-only attributes:
 - `__name__` is the function’s name.
 - `__self__` is set to `None` (but see the next item).
 - `__module__` is the name of the module the function was defined in or `None` if unavailable.
+
+```python
+print(print.__name__) # print
+print(print.__self__) # <module 'builtins' (built-in)>
+print(print.__module__) # builtins
+```
