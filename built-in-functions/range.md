@@ -8,8 +8,9 @@ For a negative step, the contents of the range are still determined by the formu
 A range object will be empty if `r[0]` does not meet the value constraint. Ranges do support negative indices, but these are interpreted as indexing from the end of the sequence determined by the positive indices.
 
 ### Syntax
-General syntax with default values:
 ```python
+range(stop)
+range(start=0, stop)
 range(start=0, stop, step=1)
 ```
 

@@ -1,4 +1,7 @@
+* [builtins](/modules/builtins.md)
 * [cmd](/modules/cmd.md)
 * [http](/modules/http.md)
 * [math](/modules/math.md)
+* [operator](/modules/operator.md)
+* [site](/modules/site.md)
 * [sys](/modules/sys.md)

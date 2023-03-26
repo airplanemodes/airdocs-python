@@ -5,4 +5,5 @@
 * [Built-in functions](/built-in-functions/)
 * [Statements](/statements/)
 * [Modules](/modules/)
+* [Command line](/command-line/)
 * [License](/license.md)

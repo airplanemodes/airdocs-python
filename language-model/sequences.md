@@ -1,7 +1,9 @@
 # Sequences
+These represent finite ordered sets indexed by non-negative numbers. The built-in function [`len()`](/built-in-functions/len.md) returns the number of items of a sequence. When the length of a sequence is **n**, the index set contains the numbers 0, 1, ..., **n**-1.
 
-# Accessing
-This feature allows to extract an element of a sequence. **i** defines an index.
+## Accessing
+This feature allows to select certain element of a sequence.
+- **i** is the index of an element.
 
 ### Syntax
 ```python
@@ -14,9 +16,7 @@ sequence[i]
 >>> currencies[2] # 'JPY'
 ```
 
----
-
-# Slicing
+## Slicing
 This feature allows to extract a portion of a sequence.
 - **start** is the index of the first element to include.
 - **stop** is the index of the first element to exclude.
@@ -27,7 +27,11 @@ This feature allows to extract a portion of a sequence.
 sequence[start:stop:step]
 ```
 
----
+### Examples
+```python
+drinks = ["tea", "coffee", "beer", "cola", "juice"]
+print(drinks[0:2]) # ['tea', 'coffee']
+```
 
 # Mutable sequences
 The following methods are defined on mutable sequence types.
@@ -38,7 +42,7 @@ Note that:
 - **x** is an arbitrary object that meets any type and value restrictions imposed by **mutable** (for example, `bytearray` only accepts integers that meet the value restriction `0 <= x <= 255`). 
 - **i** is an index of an element.
 
-## mutable.append(x)
+## mutable.append()
 Appends **x** to the end of the sequence.
 ```python
 mutable = [1, 2, 3]
@@ -62,7 +66,7 @@ new = mutable.copy()
 print(new) # [1, 2, 3]
 ```
 
-## mutable.extend(t)
+## mutable.extend()
 Extends **mutable** with the contents of **t**.
 ```python
 mutable = [1, 2, 3]
@@ -77,7 +81,7 @@ mutable += [4, 5]
 print(mutable) # [1, 2, 3, 4, 5]
 ```
 
-## mutable.insert(i, x)
+## mutable.insert()
 Inserts **x** into **mutable** at the index given by **i** (same as `mutable[i:i] = [x]`).
 ```python
 mutable = [10, 20, 40, 50]
@@ -85,7 +89,7 @@ mutable.insert(2, 30)
 print(mutable) # [10, 20, 30, 40, 50]
 ```
 
-## mutable.pop(i)
+## mutable.pop()
 Retrieves the item at index **i** and also removes it from **mutable**.
 ```python
 mutable = [1, 2, 3]
@@ -100,7 +104,7 @@ mutable.pop()
 print(mutable) # [1, 2]
 ```
 
-## mutable.remove(x)
+## mutable.remove()
 Removes the first item from **mutable** where `mutable[i]` is equal to **x**.
 ```python
 mutable = [1, 2, 4, 2, 1]
