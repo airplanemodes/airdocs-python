@@ -21,6 +21,7 @@
 * [max()](/built-in-functions/max.md)
 * [min()](/built-in-functions/min.md)
 * [object()](/built-in-functions/object.md)
+* [open()](/built-in-functions/open.md)
 * [range()](/built-in-functions/range.md)
 * [round()](/built-in-functions/round.md)
 * [str()](/built-in-functions/str.md)
