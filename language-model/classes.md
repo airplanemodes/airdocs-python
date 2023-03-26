@@ -10,6 +10,6 @@ int.__subclasses__()
 type.__subclasses__(int)
 ```
 
-Class is defined by [`class`](/statements/class.md) statement and consist of **methods**.
+Class is defined by [`class`](/statements/class.md) statement and contains **methods**.
 
 Method is a function which is defined inside a class body. If called as an attribute of an instance of that class, the method will get the instance object as its first argument (which is usually called self).

@@ -16,8 +16,7 @@ bin(255) # '0b11111111'
 
 The result string content is a valid Python expression:
 ```python
->>> 0b10
-2
+>>> 0b10 # 2
 ```
 ---
 !> The function will return `TypeError` in case of passing a non-integer value as an argument.

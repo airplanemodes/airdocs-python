@@ -21,8 +21,7 @@ hex(x) # '0x320'
 
 The result string content is a valid Python expression:
 ```python
->>> 0x10
-16
+>>> 0x10 # 16
 ```
 ---
 !> The function will return `TypeError` in case of passing a non-integer value as an argument.

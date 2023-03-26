@@ -1,6 +1,6 @@
 # Functions
 
-### Arguments
+## Arguments
 Argument is a value passed to a function (or method) when calling the function. There are two kinds of argument:
 - **keyword argument**: an argument preceded by an identifier (e.g. `name=`) in a function call or passed as a value in a dictionary preceded by `**`. For example, `3` and `5` are both keyword arguments in the following calls to `complex()`:
 ```python
