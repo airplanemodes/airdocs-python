@@ -44,7 +44,8 @@ iter(d)
 ```
 
 # Methods
-## d.clear()
+
+## dict.clear()
 Remove all items from the dictionary.
 ```python
 prices = {'cola': 8, 'coffee': 12}
@@ -52,15 +53,15 @@ prices.clear()
 print(prices) # {}
 ```
 
-## d.copy()
+## dict.copy()
 
-## d.get()
+## dict.get()
 
-## d.items()
+## dict.items()
 
-## d.keys()
+## dict.keys()
 
-## d.values()
+## dict.values()
 Return a new view of the dictionary’s values.
 ### Syntax
 ```python
@@ -72,7 +73,7 @@ d.values()
 >>> d.values() == d.values() # False
 ```
 
-## d.pop()
+## dict.pop()
 If **key** is in the dictionary, remove it and return its value, else return **default**. If **default** is not given and **key** is not in the dictionary, a `KeyError` is raised.
 ### Syntax
 ```python
@@ -80,9 +81,9 @@ d.pop(key)
 d.pop(key, default)
 ```
 
-## d.popitem()
+## dict.popitem()
 
-## d.update()
+## dict.update()
 Update the dictionary with the key/value pairs from **other**, overwriting existing keys. Return `None`.
 
 `update()` accepts either another dictionary object or an iterable of key/value pairs (as tuples or other iterables of length two). If keyword arguments are specified, the dictionary is then updated with those key/value pairs: `d.update(red=1, blue=2)`.
@@ -92,7 +93,7 @@ d.update()
 d.update(other)
 ```
 
-## d.setdefault()
+## dict.setdefault()
 If **key** is in the dictionary, return its value. If not, insert **key** with a value of **default** and return **default**. **default** defaults to `None`.
 ### Syntax
 ```python

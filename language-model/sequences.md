@@ -17,7 +17,8 @@ sequence[i]
 ```
 
 ## Slicing
-This feature allows to extract a portion of a sequence.
+Slice is an object usually containing a portion of a sequence. A slice is created using the subscript notation, `[]` with colons between numbers when several are given, such as in `variable_name[1:3:5]`. The bracket (subscript) notation uses slice objects internally.
+
 - **start** is the index of the first element to include.
 - **stop** is the index of the first element to exclude.
 - **step** is the interval between elements.
