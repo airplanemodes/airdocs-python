@@ -7,3 +7,5 @@ Tuples may be constructed in a number of ways:
 - Using a trailing comma for a singleton tuple: `a,` or `(a,)`.
 - Separating items with commas: `a, b, c` or `(a, b, c)`.
 - Using the type constructor: [`tuple()`](/built-in-functions/tuple.md).
+
+Tuples implement all of the common sequence operations.

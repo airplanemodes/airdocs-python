@@ -5,8 +5,6 @@ If no argument is given, the constructor creates a new empty tuple, `()`.
 
 Note that it is actually the comma which makes a tuple, not the parentheses. The parentheses are optional, except in the empty tuple case, or when they are needed to avoid syntactic ambiguity. For example, f(a, b, c) is a function call with three arguments, while f((a, b, c)) is a function call with a 3-tuple as the sole argument.
 
-Tuples implement all of the common sequence operations.
-
 ### Syntax
 ```python
 tuple()
