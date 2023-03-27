@@ -10,3 +10,7 @@ bytes(source=b'')
 bytes(source, encoding)
 bytes(source, encoding, errors)
 ```
+
+### Examples
+```python
+```

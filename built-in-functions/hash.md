@@ -7,3 +7,7 @@ Return the hash value of the **object** (if it has one). Hash values are integer
 ```python
 hash(object)
 ```
+
+### Examples
+```python
+```

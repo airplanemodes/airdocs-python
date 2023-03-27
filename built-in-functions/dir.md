@@ -17,3 +17,7 @@ The resulting list is sorted alphabetically.
 dir()
 dir(object)
 ```
+
+### Examples
+```python
+```

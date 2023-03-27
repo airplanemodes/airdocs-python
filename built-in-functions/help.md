@@ -8,3 +8,7 @@ Invoke the built-in help system. This function is intended for interactive use. 
 help()
 help(request)
 ```
+
+### Examples
+```python
+```

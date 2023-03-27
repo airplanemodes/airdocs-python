@@ -6,3 +6,7 @@ Return a new `frozenset` object, optionally with elements taken from **iterable*
 frozenset()
 frozenset(iterable=set())
 ```
+
+### Examples
+```python
+```

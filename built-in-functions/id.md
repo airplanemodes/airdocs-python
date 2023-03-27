@@ -5,3 +5,7 @@ Return the “identity” of an **object**. This is an integer which is guarante
 ```python
 id(object)
 ```
+
+### Examples
+```python
+```

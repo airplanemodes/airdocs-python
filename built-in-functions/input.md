@@ -8,3 +8,7 @@ input(prompt)
 ```
 
 !> When EOF is read, `EOFError` is raised.
+
+### Examples
+```python
+```

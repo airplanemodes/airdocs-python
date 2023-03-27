@@ -17,3 +17,7 @@ bytearray(source=b'')
 bytearray(source, encoding)
 bytearray(source, encoding, errors)
 ```
+
+### Examples
+```python
+```
