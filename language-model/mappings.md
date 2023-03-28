@@ -1,4 +1,7 @@
 # Mappings
+A mapping object maps hashable values to arbitrary objects. Mappings are mutable objects. There is currently only one standard mapping type, the dictionary.
+
+?> The extension modules `dbm.ndbm` and `dbm.gnu` provide additional examples of mapping types, as does the [`collections`](/modules/collections.md) module.
 
 ## Operations
 These are the operations that dictionaries support (and therefore, custom mapping types should support too):
