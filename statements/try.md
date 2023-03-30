@@ -30,6 +30,6 @@ finally:
 ```
 
 ### Examples
-Before an except clause’s suite is executed, the exception is stored in the [`sys`](/modules/sys.md) module, where it can be accessed from within the body of the except clause by calling `sys.exception()`. When leaving an exception handler, the exception stored in the sys module is reset to its previous value:
+Before an except clause’s suite is executed, the exception is stored in the [`sys`](/modules/sys.md) module, where it can be accessed from within the body of the except clause by calling `sys.exception()`. When leaving an exception handler, the exception stored in the [`sys`](/modules/sys.md) module is reset to its previous value:
 ```python
 ```
