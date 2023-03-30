@@ -3,4 +3,3 @@
 * [functions](/language-model/functions.md)
 * [sequences](/language-model/sequences.md)
 * [mappings](/language-model/mappings.md)
-* [exceptions](/language-model/exceptions.md)

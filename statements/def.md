@@ -8,7 +8,7 @@ A function definition is an executable statement. Its execution binds the functi
 ### Syntax
 ```python
 def name(parameters):
-    statements
+    suite
 ```
 
 ### Examples

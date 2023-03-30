@@ -4,6 +4,7 @@
 * [Built-in types](/built-in-types/)
 * [Built-in functions](/built-in-functions/)
 * [Statements](/statements/)
+* [Exceptions](/exceptions/)
 * [Modules](/modules/)
 * [Command line](/command-line/)
 * [License](/license.md)

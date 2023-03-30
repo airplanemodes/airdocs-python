@@ -4,7 +4,9 @@ The `for` statement is used to iterate over the elements of a sequence (such as 
 ### Syntax
 ```python
 for element in iterable:
-    statement
+    suite
+else:
+    suite
 ```
 
 ### Examples

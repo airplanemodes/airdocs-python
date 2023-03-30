@@ -4,7 +4,9 @@ The `while` statement is used for repeated execution as long as an expression is
 ### Syntax
 ```python
 while expression:
-    statement
+    suite
+else:
+    suite
 ```
 
 ### Examples
