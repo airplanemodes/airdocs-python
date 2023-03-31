@@ -1,5 +1,5 @@
 # Operators
-There are assignment operator: `=`.
+There is assignment operator: `=`.
 
 Arithmetic operators:
 - `+` addition
