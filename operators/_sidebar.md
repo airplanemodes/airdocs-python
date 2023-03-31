@@ -1,3 +1,5 @@
+- **Assignment**
+* [=](/operators/assignment.md)
 - **Arithmetic**
 * [+](/operators/addition.md)
 * [-](/operators/subtraction.md)

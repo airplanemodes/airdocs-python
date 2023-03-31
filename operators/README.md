@@ -1,5 +1,17 @@
 # Operators
-There are boolean operators - `or`, `and`, `not`.
+There are assignment operator: `=`.
+
+Arithmetic operators:
+- `+` addition
+- `-` subtraction
+- `*` multiplication
+- `/` division
+- `//` floor division
+- `%` modulo
+- `@` matrix multiplication
+- `**` exponentiation
+
+Boolean operators: `or`, `and`, `not`.
 
 Comparsion operators:
 - `<` less than
