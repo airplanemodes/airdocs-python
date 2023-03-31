@@ -5,8 +5,6 @@ The `while` statement is used for repeated execution as long as an expression is
 ```python
 while expression:
     suite
-else:
-    suite
 ```
 
 ### Examples

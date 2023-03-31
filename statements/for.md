@@ -5,8 +5,6 @@ The `for` statement is used to iterate over the elements of a sequence (such as 
 ```python
 for element in iterable:
     suite
-else:
-    suite
 ```
 
 ### Examples
