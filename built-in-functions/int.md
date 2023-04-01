@@ -13,7 +13,7 @@ A base-n integer string contains digits, each representing a value from 0 to n-1
 
 ### Syntax
 ```python
-int(x)
+int()
 int(x=0)
 int(x, base=10)
 ```
