@@ -1,4 +1,5 @@
 # def
+
 A `def` definition defines a user-defined function object.
 
 A function definition is an executable statement. Its execution binds the function name in the current local namespace to a function object (a wrapper around the executable code for the function). This function object contains a reference to the current global namespace as the global namespace to be used when the function is called.

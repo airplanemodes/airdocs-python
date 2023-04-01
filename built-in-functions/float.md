@@ -1,4 +1,5 @@
 # float()
+
 Return a floating point number constructed from a number or string **x**.
 
 If the argument is a string, it should contain a decimal number, optionally preceded by a sign, and optionally embedded in whitespace. The optional sign may be `'+'` or `'-'`. A `'+'` sign has no effect on the value produced. The argument may also be a string representing a NaN (not-a-number), or positive or negative infinity.

@@ -1,4 +1,5 @@
 # Objects
+
 Objects are Python’s abstraction for data. All data in a Python program is represented by objects or by relations between objects.
 
 Every object has an *identity*, a **type** and a **value**. An object’s identity never changes once it has been created. You may think of it as the object’s address in memory. The [`is`](/operators/is.md) operator compares the identity of two objects. The [`id()`](/built-in-functions/id.md) function returns an integer representing its identity.

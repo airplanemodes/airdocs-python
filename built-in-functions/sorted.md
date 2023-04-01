@@ -1,4 +1,5 @@
 # sorted()
+
 Return a new sorted list from the items in **iterable**.
 
 Has two optional arguments which must be specified as keyword arguments.

@@ -1,4 +1,5 @@
 # del
+
 Deletion is recursively defined very similar to the way assignment is defined. Rather than spelling it out in full details, here are some hints.
 
 Deletion of a target list recursively deletes each target, from left to right.

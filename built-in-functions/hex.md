@@ -1,4 +1,5 @@
 # hex()
+
 Convert an integer number to a lowercase hexadecimal string prefixed with “0x”. If **x** is not a Python `int` object, it has to define an `__index__()` method that returns an integer.
 
 ### Syntax

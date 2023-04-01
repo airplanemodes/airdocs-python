@@ -1,4 +1,5 @@
 # int()
+
 Return an integer object constructed from a number or string **x**, or return `0` if no arguments are given.
 
 - If **x** defines `__int__()`, `int(x)` returns `x.__int__()`.

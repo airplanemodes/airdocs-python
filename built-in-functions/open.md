@@ -1,4 +1,5 @@
 # open()
+
 Open **file** and return a corresponding `file object`.
 
 **file** is a `path-like object` giving the pathname (absolute or relative to the current working directory) of the file to be opened or an integer file descriptor of the file to be wrapped.
@@ -52,7 +53,9 @@ A custom opener can be used by passing a callable as **opener**. The underlying 
 The newly created file is non-inheritable.
 
 ### Syntax
+
 ```python
+open(file)
 open(file, mode, buffering, encoding, errors, newline, closefd, opener)
 ```
 

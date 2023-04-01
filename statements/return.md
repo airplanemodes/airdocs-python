@@ -1,4 +1,5 @@
 # return
+
 `return` may only occur syntactically nested in a function definition, not within a nested class definition.
 
 If an expression list is present, it is evaluated, else `None` is substituted.

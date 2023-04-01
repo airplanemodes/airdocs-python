@@ -1,4 +1,5 @@
 # global
+
 The `global` statement is a declaration which holds for the entire current code block. It means that the listed identifiers are to be interpreted as globals. It would be impossible to assign to a global variable without `global`, although free variables may refer to globals without being declared global.
 
 Names listed in a `global` statement must not be used in the same code block textually preceding that `global` statement.

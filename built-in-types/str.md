@@ -1,4 +1,5 @@
-# Text sequence type
+# str
+
 Textual data in Python is handled with `str` objects, or **strings**. Strings are immutable sequences of Unicode code points. String literals are written in a variety of ways:
 - Single quotes: `'allows embedded "double" quotes'`
 - Double quotes: `"allows embedded 'single' quotes"`

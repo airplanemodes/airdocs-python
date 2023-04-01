@@ -1,4 +1,5 @@
 # type()
+
 With one argument, return the type of an **object**. The return value is a type object and generally the same object as returned by `object.__class__`.
 
 With three arguments, return a new type object. This is essentially a dynamic form of the `class` statement.

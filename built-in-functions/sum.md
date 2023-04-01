@@ -1,4 +1,5 @@
 # sum()
+
 Sums **start** and the items of an **iterable** from left to right and returns the total. The **iterable**’s items are normally numbers, and the **start** value is not allowed to be a string.
 
 ### Syntax

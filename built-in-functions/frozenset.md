@@ -1,4 +1,5 @@
 # frozenset()
+
 Return a new `frozenset` object, optionally with elements taken from **iterable**.
 
 ### Syntax

@@ -1,4 +1,5 @@
 # range()
+
 The arguments to the range constructor must be integers (either built-in `int` or any object that implements the `__index__()` special method). If the step argument is omitted, it defaults to 1. If the start argument is omitted, it defaults to 0.
 
 For a positive step, the contents of a range `r` are determined by the formula `r[i] = start + step*i` where `i >= 0` and `r[i] < stop`.

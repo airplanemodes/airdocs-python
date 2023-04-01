@@ -1,4 +1,5 @@
 # set()
+
 Return a new set object, optionally with elements taken from **iterable**. If **iterable** is not specified, a new empty set is returned.
 
 ### Syntax

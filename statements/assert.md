@@ -1,4 +1,5 @@
 # assert
+
 Assert statements are a convenient way to insert debugging assertions into a program.
 
 ### Syntax

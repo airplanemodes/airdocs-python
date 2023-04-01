@@ -1,4 +1,5 @@
 # list
+
 Lists are mutable sequences, typically used to store collections of homogeneous items (where the precise degree of similarity will vary by application).
 
 Lists may be constructed in several ways:

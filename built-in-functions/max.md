@@ -1,4 +1,5 @@
 # max()
+
 Return the largest item in an **iterable** or the largest of two or more arguments.
 
 If one positional argument is provided, it should be an iterable. The largest item in the iterable is returned. If two or more positional arguments are provided, the largest of the positional arguments is returned.

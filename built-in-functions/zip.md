@@ -1,4 +1,5 @@
 # zip()
+
 Iterate over several iterables in parallel, producing tuples with an item from each one.
 
 ### Syntax

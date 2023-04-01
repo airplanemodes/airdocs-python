@@ -1,4 +1,5 @@
 # print()
+
 Print **objects** to the text stream **file**, separated by **sep** and followed by **end**. **sep**, **end**, **file**, and **flush**, if present, must be given as keyword arguments.
 
 All non-keyword arguments are converted to strings like [`str()`](/built-in-functions/str.md) does and written to the stream, separated by **sep** and followed by **end**. Both **sep** and **end** must be strings. They can also be `None`, which means to use the default values. If no **objects** are given, `print()` will just write **end**.

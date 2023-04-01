@@ -1,4 +1,5 @@
 # vars()
+
 Return the `__dict__` attribute for a module, class, instance, or any other object with a `__dict__` attribute.
 
 Without an argument, `vars()` acts like [`locals()`](/built-in-functions/locals.md).

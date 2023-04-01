@@ -1,4 +1,5 @@
 # tuple()
+
 The constructor builds a tuple whose items are the same and in the same order as **iterable**’s items. **iterable** may be either a sequence, a container that supports iteration, or an iterator object. If **iterable** is already a tuple, it is returned unchanged.
 
 If no argument is given, the constructor creates a new empty tuple, `()`.

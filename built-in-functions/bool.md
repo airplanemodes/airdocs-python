@@ -1,4 +1,5 @@
 # bool()
+
 Return a Boolean value, i.e. one of `True` or `False`. **x** is converted using the standard truth testing procedure. If **x** is false or omitted, this returns `False`. Otherwise, it returns `True`.
 
 ### Syntax

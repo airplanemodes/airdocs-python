@@ -1,4 +1,5 @@
 # AttributeError
+
 Raised when an attribute reference or assignment fails. 
 ?> When an object does not support attribute references or attribute assignments at all, [`TypeError`](/exceptions/TypeError.md) is raised.
 

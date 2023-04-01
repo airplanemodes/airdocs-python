@@ -1,4 +1,5 @@
 # raise
+
 If no expressions are present, `raise` re-raises the exception that is currently being handled, which is also known as the active exception. If there isn’t currently an active exception, a `RuntimeError` exception is raised indicating that this is an error.
 
 Otherwise, `raise` evaluates the first expression as the exception object. It must be either a subclass or an instance of `BaseException`. If it is a class, the exception instance will be obtained when needed by instantiating the class with no arguments.

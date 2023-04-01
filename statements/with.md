@@ -1,4 +1,5 @@
 # with
+
 The `with` statement is used to wrap the execution of a block with methods defined by a context manager.
 
 The execution of the `with` statement with one “item” proceeds as follows:
@@ -14,4 +15,10 @@ The execution of the `with` statement with one “item” proceeds as follows:
 ```python
 with expression as target:
     suite
+```
+
+### Examples
+```python
+with open("hello.txt", "w") as file:
+    file.write("Hello World!")
 ```
