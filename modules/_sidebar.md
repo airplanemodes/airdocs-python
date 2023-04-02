@@ -36,7 +36,7 @@
 * [heapq](/modules/heapq.md)
 * [hmac](/modules/hmac.md)
 * [html](/modules/html.md)
-* [http](/modules/http.md)
+* [http](/modules/http/)
 * [idlelib](/modules/idlelib.md)
 * [imaplib](/modules/imaplib.md)
 * [importlib](/modules/importlib.md)
