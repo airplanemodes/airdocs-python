@@ -3,7 +3,7 @@
 * [complex](/built-in-types/complex.md)
 * [str](/built-in-types/str.md)
 * [bool](/built-in-types/bool.md)
-* [list](/built-in-types/list.md)
+* [list](/built-in-types/list/)
 * [tuple](/built-in-types/tuple.md)
 * [range](/built-in-types/range.md)
 * [dict](/built-in-types/dict.md)

@@ -35,91 +35,9 @@ drinks = ["tea", "coffee", "beer", "cola", "juice"]
 print(drinks[0:2]) # ['tea', 'coffee']
 ```
 
-# Mutable sequences
-The following methods are defined on mutable sequence types.
-
-Note that:
-- **mutable** is an instance of a mutable sequence type.
-- **t** is any iterable object.
-- **x** is an arbitrary object that meets any type and value restrictions imposed by **mutable** (for example, `bytearray` only accepts integers that meet the value restriction `0 <= x <= 255`). 
-- **i** is an index of an element.
-
-## mutable.append()
-Appends **x** to the end of the sequence.
-```python
-mutable = [1, 2, 3]
-mutable.append(4)
-print(mutable) # [1, 2, 3, 4]
-```
-
-## mutable.clear()
-Removes all items from **mutable** (same as `del mutable[:]`).
-```python
-mutable = [1, 2, 3]
-mutable.clear()
-print(mutable) # []
-```
-
-## mutable.copy()
-Creates a shallow copy of **mutable** (same as `mutable[:]`).
-```python
-mutable = [1, 2, 3]
-new = mutable.copy()
-print(new) # [1, 2, 3]
-```
-
-## mutable.extend()
-Extends **mutable** with the contents of **t**.
-```python
-mutable = [1, 2, 3]
-mutable.extend([4, 5])
-print(mutable) # [1, 2, 3, 4, 5]
-```
-
-The same result can be achieved by using `+=` operator.
-```python
-mutable = [1, 2, 3]
-mutable += [4, 5]
-print(mutable) # [1, 2, 3, 4, 5]
-```
-
-## mutable.insert()
-Inserts **x** into **mutable** at the index given by **i** (same as `mutable[i:i] = [x]`).
-```python
-mutable = [10, 20, 40, 50]
-mutable.insert(2, 30)
-print(mutable) # [10, 20, 30, 40, 50]
-```
-
-## mutable.pop()
-Retrieves the item at index **i** and also removes it from **mutable**.
-```python
-mutable = [1, 2, 3]
-mutable.pop(1)
-print(mutable) # [1, 3]
-```
-
-If **i** is not given it retrieves the last item and also removes it from **mutable**. 
-```python
-mutable = [1, 2, 3]
-mutable.pop()
-print(mutable) # [1, 2]
-```
-
-## mutable.remove()
-Removes the first item from **mutable** where `mutable[i]` is equal to **x**.
-```python
-mutable = [1, 2, 4, 2, 1]
-mutable.remove(2)
-print(mutable) # [1, 4, 2, 1]
-```
-
-## mutable.reverse()
-Reverses the items of **mutable** in place.
-```python
-mutable = [1, 2, 3]
-mutable.reverse()
-print(mutable) # [3, 2, 1]
-```
-
 # Immutable sequences
+The only operation that immutable sequence types generally implement that is not also implemented by mutable sequence types is support for the [`hash()`](/built-in-functions/hash.md) built-in.
+
+This support allows immutable sequences, such as [`tuple`](/built-in-types/tuple.md) instances, to be used as [`dict`](/built-in-types/dict.md) keys and stored in [`set`](/built-in-types/set.md) and [`frozenset`](/built-in-types/frozenset.md) instances.
+
+Attempting to hash an immutable sequence that contains unhashable values will result in [`TypeError`](/exceptions/TypeError.md).
