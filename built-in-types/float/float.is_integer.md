@@ -1,0 +1,1 @@
+# float.is_integer()

@@ -1,0 +1,15 @@
+[**<class 'dict'>**](/built-in-types/dict/)
+
+* [`dict.clear()`](/built-in-types/dict/dict.clear.md)
+* [`dict.copy()`](/built-in-types/dict/dict.copy.md)
+* [`dict.fromkeys()`](/built-in-types/dict/dict.fromkeys.md)
+* [`dict.get()`](/built-in-types/dict/dict.get.md)
+* [`dict.items()`](/built-in-types/dict/dict.items.md)
+* [`dict.keys()`](/built-in-types/dict/dict.keys.md)
+* [`dict.pop()`](/built-in-types/dict/dict.pop.md)
+* [`dict.popitem()`](/built-in-types/dict/dict.popitem.md)
+* [`dict.setdefault()`](/built-in-types/dict/dict.setdefault.md)
+* [`dict.update()`](/built-in-types/dict/dict.update.md)
+* [`dict.values()`](/built-in-types/dict/dict.values.md)
+
+[**back to types**](/built-in-types/)
