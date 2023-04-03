@@ -1,6 +1,13 @@
 # list.insert()
 
-Inserts **x** into list at the index given by **i** (same as `numbers[i:i] = [x]`).
+`>>> list.insert.__doc__`: Insert **object** before **index**.
+
+### Syntax
+```python
+list.insert(index, object)
+```
+
+### Example
 
 ```python
 numbers = [10, 20, 40, 50]

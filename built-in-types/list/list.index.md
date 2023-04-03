@@ -1,6 +1,6 @@
 # list.index()
 
-Return an index of the first occurrence of **x** in **sequence** (at or after index **i** and before index **j**).
+`>>> list.index.__doc__`: Return first index of value. Raises [`ValueError`](/exceptions/ValueError.md) if the value is not present.
 
 ### Syntax
 
@@ -10,7 +10,7 @@ sequence.index(x, i)
 sequence.index(x, i, j)
 ```
 
-### Examples
+### Example
 
 ```python
 numbers = [1, 2, 3]

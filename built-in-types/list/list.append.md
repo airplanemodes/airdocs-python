@@ -1,6 +1,6 @@
 # list.append()
 
-Appends **x** to the end of the list.
+`>>> list.append.__doc__`: Append object to the end of the list.
 
 ```python
 numbers = [1, 2, 3]

@@ -1,6 +1,6 @@
 # list.copy()
 
-Creates a shallow copy of list (same as `numbers[:]`).
+`>>> list.copy.__doc__`: Return a shallow copy of the list.
 
 ```python
 numbers = [1, 2, 3]

@@ -1,6 +1,6 @@
 # list.clear()
 
-Removes all items from list (same as `del numbers[:]`).
+`>>> list.clear.__doc__`: Removes all items from list.
 
 ```python
 numbers = [1, 2, 3]

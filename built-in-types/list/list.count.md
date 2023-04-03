@@ -1,6 +1,13 @@
 # list.count()
 
-Return a total number of occurrences of **x** in list.
+`>>> list.count.__doc__`: Return number of occurrences of **value**.
+
+### Syntax
+```python
+list.count(value)
+```
+
+### Example
 
 ```python
 numbers = [1, 1, 1, 1, 2]

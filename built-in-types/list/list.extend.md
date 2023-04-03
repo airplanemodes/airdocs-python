@@ -1,6 +1,13 @@
 # list.extend()
 
-Extends list with the contents of **t**.
+`>>> list.extend.__doc__`: Extend list by appending elements from the **iterable**.
+
+### Syntax
+```python
+list.extend(iterable)
+```
+
+### Examples
 
 ```python
 numbers = [1, 2, 3]
