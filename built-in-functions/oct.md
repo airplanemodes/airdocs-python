@@ -2,7 +2,7 @@
 
 Convert an integer number to an octal string prefixed with “`0o`”.
 
-If **x** is not a Python [`int`](/built-in-types/int.md) object, it has to define an `__index__()` method that returns an integer.
+If **x** is not a Python [`int`](/built-in-types/int/) object, it has to define an `__index__()` method that returns an integer.
 
 ### Syntax
 

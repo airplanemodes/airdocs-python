@@ -38,6 +38,6 @@ print(drinks[0:2]) # ['tea', 'coffee']
 # Immutable sequences
 The only operation that immutable sequence types generally implement that is not also implemented by mutable sequence types is support for the [`hash()`](/built-in-functions/hash.md) built-in.
 
-This support allows immutable sequences, such as [`tuple`](/built-in-types/tuple.md) instances, to be used as [`dict`](/built-in-types/dict.md) keys and stored in [`set`](/built-in-types/set.md) and [`frozenset`](/built-in-types/frozenset.md) instances.
+This support allows immutable sequences, such as [`tuple`](/built-in-types/tuple.md) instances, to be used as [`dict`](/built-in-types/dict/) keys and stored in [`set`](/built-in-types/set/) and [`frozenset`](/built-in-types/frozenset.md) instances.
 
 Attempting to hash an immutable sequence that contains unhashable values will result in [`TypeError`](/exceptions/TypeError.md).

@@ -16,8 +16,8 @@ list(iterable)
 ### Examples
 
 ```python
-list("abc") # ['a', 'b', 'c']
-list((1, 2, 3)) # [1, 2, 3]
+>>> list("abc") # ['a', 'b', 'c']
+>>> list((1, 2, 3)) # [1, 2, 3]
 ```
 
 Making a copy using `[:]`:

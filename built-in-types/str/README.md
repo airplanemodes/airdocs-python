@@ -9,6 +9,6 @@ Triple quoted strings may span multiple lines - all associated whitespace will b
 
 String literals that are part of a single expression and have only whitespace between them will be implicitly converted to a single string literal. That is, `("spam " "eggs") == "spam eggs"`.
 
-Strings may also be created from other objects using the `str` constructor.
+Strings may also be created from other objects using the [`str`](/built-in-functions/str.md) constructor.
 
 Since there is no separate “character” type, indexing a string produces strings of length 1. That is, for a non-empty string **s**, `s[0] == s[0:1]`.

@@ -88,7 +88,7 @@ Print the Python version number and exit. When given twice (`-VV`), print more i
 ## Miscellaneous options
 
 ### -b
-Issue a warning when comparing [`bytes`](/built-in-types/bytes.md) or [`bytearray`](/built-in-types/bytearray.md) with [`str`](/built-in-types/str.md) or [`bytes`](/built-in-types/bytes.md) with [`int`](/built-in-types/int.md). Issue an error when the option is given twice (`-bb`).
+Issue a warning when comparing [`bytes`](/built-in-types/bytes.md) or [`bytearray`](/built-in-types/bytearray.md) with [`str`](/built-in-types/str/) or [`bytes`](/built-in-types/bytes.md) with [`int`](/built-in-types/int/). Issue an error when the option is given twice (`-bb`).
 
 ### -B
 If given, Python won’t try to write `.pyc` files on the import of source modules. 
