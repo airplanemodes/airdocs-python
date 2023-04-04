@@ -1,7 +1,7 @@
 [**<class 'module'>**](/modules/)
 
 * [`abc`](/modules/abc.md)
-* [`array`](/modules/array.md)
+* [`array`](/modules/array/)
 * [`ast`](/modules/ast.md)
 * [`asyncio`](/modules/asyncio.md)
 * [`base64`](/modules/base64.md)
