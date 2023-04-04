@@ -61,7 +61,7 @@
 * [`netrc`](/modules/netrc.md)
 * [`numbers`](/modules/numbers.md)
 * [`operator`](/modules/operator.md)
-* [`os`](/modules/os.md)
+* [`os`](/modules/os/)
 * [`pathlib`](/modules/pathlib.md)
 * [`pkgutil`](/modules/pkgutil.md)
 * [`platform`](/modules/platform.md)

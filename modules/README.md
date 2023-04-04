@@ -83,7 +83,7 @@
 - [`secrets`](/modules/secrets.md) - Generate secure random numbers for managing secrets.
 
 ### Generic operating system services
-- [`os`](/modules/os.md) - Miscellaneous operating system interfaces.
+- [`os`](/modules/os/) - Miscellaneous operating system interfaces.
 - [`io`](/modules/io.md) - Core tools for working with streams.
 - [`time`](/modules/time.md) - Time access and conversions.
 - [`argparser`](/modules/argparser.md) - Parser for command-line options, arguments and sub-commands.
