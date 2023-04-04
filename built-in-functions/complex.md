@@ -7,6 +7,7 @@ Return a complex number with the value **real** + **imag** * 1j or convert a str
 !> When converting from a string, the string must not contain whitespace around the central `+` or `-` operator. For example, `complex('1+2j')` is fine, but `complex('1 + 2j')` raises [`ValueError`](/exceptions/ValueError.md).
 
 ### Syntax
+
 ```python
 complex()
 complex(real=0, imag=0)
@@ -14,5 +15,6 @@ complex(string)
 ```
 
 ### Examples
+
 ```python
 ```

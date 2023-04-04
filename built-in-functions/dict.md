@@ -7,6 +7,7 @@ If no positional argument is given, an empty dictionary is created. If a positio
 If keyword arguments are given, the keyword arguments and their values are added to the dictionary created from the positional argument. If a key being added is already present, the value from the keyword argument replaces the value from the positional argument.
 
 ### Syntax
+
 ```python
 dict()
 dict(**kwarg)
@@ -15,12 +16,14 @@ dict(iterable, **kwarg)
 ```
 
 ### Examples
+
 ```python
 prices = dict()
 print(prices) # {}
 ```
 
 The following examples all return a dictionary equal to `{"one": 1, "two": 2, "three": 3}`:
+
 ```python
 >>> a = dict(one=1, two=2, three=3)
 >>> b = {'one': 1, 'two': 2, 'three': 3}

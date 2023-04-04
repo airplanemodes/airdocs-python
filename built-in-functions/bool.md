@@ -1,14 +1,19 @@
 # bool()
 
-Return a Boolean value, i.e. one of `True` or `False`. **x** is converted using the standard truth testing procedure. If **x** is false or omitted, this returns `False`. Otherwise, it returns `True`.
+`>>> bool.__doc__`: Returns `True` when the argument **x** is true, `False` otherwise.
+
+The builtins `True` and `False` are the only two instances of the class [`bool`](/built-in-types/bool.md).
+
+The class [`bool`](/built-in-types/bool.md) is a subclass of the class [`int`](/built-in-types/int/), and cannot be subclassed.
 
 ### Syntax
-General syntax with a default value:
+
 ```python
 bool(x=False)
 ```
 
 ### Examples
+
 ```python
 bool(1) # True
 bool(-2) # True

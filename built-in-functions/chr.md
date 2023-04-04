@@ -7,11 +7,13 @@ The valid range for the argument is from 0 through 1,114,111 (0x10FFFF in base 1
 !> [`ValueError`](/exceptions/ValueError.md) will be raised if **i** is outside that range.
 
 ### Syntax
+
 ```python
 chr(i)
 ```
 
 ### Examples
+
 ```python
 chr(97) # 'a'
 chr(8364) # '€'

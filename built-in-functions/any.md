@@ -1,6 +1,9 @@
 # any()
 
-Return `True` if any element of the iterable is true. If the iterable is empty, return `False`. Equivalent to:
+Return `True` if any element of the **iterable** is true. If the **iterable** is empty, return `False`.
+
+Equivalent to:
+
 ```python
 def all(iterable):
     for element in iterable:
@@ -10,11 +13,13 @@ def all(iterable):
 ```
 
 ### Syntax
+
 ```python
 any(iterable)
 ```
 
 ### Examples
+
 If at least one element of **iterable** is not set to `False`, `None` or `0` the function will return `True`.
 
 ```python

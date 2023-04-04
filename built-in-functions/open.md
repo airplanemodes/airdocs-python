@@ -34,7 +34,7 @@ The default mode is `'r'` (which means open for reading in text mode, a synonym 
 ?> See the [`codecs`](/modules/codecs.md) module for the list of supported encodings.
 
 **errors** is an optional string that specifies how encoding and decoding errors are to be handled—this cannot be used in binary mode. A variety of standard error handlers are available (listed under [Error handlers](/modules/codecs.md)), though any error handling name that has been registered with `codecs.register_error()` is also valid. The standard names include:
-- `'strict'` to raise a `ValueError` exception if there is an encoding error. The default value of `None` has the same effect.
+- `'strict'` to raise a [`ValueError`](/exceptions/ValueError.md) exception if there is an encoding error. The default value of `None` has the same effect.
 - `'ignore'` ignores errors. Note that ignoring encoding errors can lead to data loss.
 - `'replace'` causes a replacement marker (such as `'?'`) to be inserted where there is malformed data.
 - `'surrogateescape'` will represent any incorrect bytes as low surrogate code units ranging from U+DC80 to U+DCFF. These surrogate code units will then be turned back into the same bytes when the `surrogateescape` error handler is used when writing data. This is useful for processing files in an unknown encoding.
@@ -59,4 +59,4 @@ open(file)
 open(file, mode, buffering, encoding, errors, newline, closefd, opener)
 ```
 
-!> If the file cannot be opened, an `OSError` is raised.
+!> If the file cannot be opened, an [`OSError`](/exceptions/OSError.md) is raised.

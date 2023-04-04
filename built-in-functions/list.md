@@ -7,18 +7,21 @@ The constructor builds a list whose items are the same and in the same order as 
 If no argument is given, the constructor creates a new empty list, `[]`.
 
 ### Syntax
+
 ```python
 list()
 list(iterable)
 ```
 
 ### Examples
+
 ```python
-list('abc') # ['a', 'b', 'c']
+list("abc") # ['a', 'b', 'c']
 list((1, 2, 3)) # [1, 2, 3]
 ```
 
 Making a copy using `[:]`:
+
 ```python
 numbers = [5, 10, 20, 40]
 nums = numbers[:]

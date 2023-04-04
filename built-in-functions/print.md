@@ -9,6 +9,7 @@ The **file** argument must be an object with a `write(string)` method. If it is 
 Whether the output is buffered is usually determined by **file**, but if the **flush** keyword argument is true, the stream is forcibly flushed.
 
 ### Syntax
+
 ```python
 print(objects)
 print(*objects, sep=' ', end='\n', file=None, flush=False)

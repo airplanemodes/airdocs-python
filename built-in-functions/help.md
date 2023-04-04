@@ -5,11 +5,13 @@ Invoke the built-in help system. This function is intended for interactive use. 
 ?> This function is added to the built-in namespace by the [`site`](/modules/site.md) module.
 
 ### Syntax
+
 ```python
 help()
 help(request)
 ```
 
 ### Examples
+
 ```python
 ```

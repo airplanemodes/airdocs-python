@@ -7,12 +7,15 @@ The default **format_spec** is an empty string which usually gives the same effe
 A call to `format(value, format_spec)` is translated to `type(value).__format__(value, format_spec)` which bypasses the instance dictionary when searching for the value’s `__format__()` method.
 
 ### Syntax
+
 ```python
 format(value, format_spec='')
 ```
 
 ### Examples
-Converting IPv4 address string into binary form using `for` and `while` loops:
+
+Converting IPv4 address string into binary form using [`for`](/statements/for.md) and [`while`](/statements/while.md) loops:
+
 ```python
 ip_address = "192.168.55.1"
 ip_binary = ip_address.split('.')
@@ -22,5 +25,7 @@ for i in range(len(ip_binary)):
         ip_binary[i] = "0" + ip_binary[i]
 print(".".join(ip_binary)) # 11000000.10101000.00110111.00000001
 ```
+
 ---
+
 !> A `TypeError` exception is raised if the method search reaches object and the **format_spec** is non-empty, or if either the **format_spec** or the return value are not strings.

@@ -3,13 +3,15 @@
 Iterate over several iterables in parallel, producing tuples with an item from each one.
 
 ### Syntax
+
 ```python
 zip()
 zip(iterables)
 zip(*iterables, strict=False)
 ```
 
-### Examples
+### Example
+
 ```python
 for item in zip([1, 2, 3], ['sugar', 'spice', 'everything nice']):
     print(item)

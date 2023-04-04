@@ -5,6 +5,7 @@ Return a new “bytes” object which is an immutable sequence of integers in th
 Accordingly, constructor arguments are interpreted as for [`bytearray()`](/built-in-functions/bytearray.md).
 
 ### Syntax
+
 ```python
 bytes()
 bytes(source=b'')
@@ -13,5 +14,6 @@ bytes(source, encoding, errors)
 ```
 
 ### Examples
+
 ```python
 ```

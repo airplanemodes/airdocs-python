@@ -9,11 +9,13 @@ If no argument is given, `0.0` is returned.
 ?> For a general Python object `x`, `float(x)` delegates to `x.__float__()`. If `__float__()` is not defined then it falls back to `__index__()`.
 
 ### Syntax
+
 ```python
 float()
 float(x=0.0)
 ```
 
 ### Examples
+
 ```python
 ```

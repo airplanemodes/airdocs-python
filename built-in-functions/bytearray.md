@@ -12,6 +12,7 @@ The optional **source** parameter can be used to initialize the array in a few d
 Without an argument, an array of size 0 is created.
 
 ### Syntax
+
 ```python
 bytearray()
 bytearray(source=b'')
@@ -20,5 +21,6 @@ bytearray(source, encoding, errors)
 ```
 
 ### Examples
+
 ```python
 ```

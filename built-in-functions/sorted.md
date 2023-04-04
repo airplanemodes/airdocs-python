@@ -1,15 +1,12 @@
 # sorted()
 
-Return a new sorted list from the items in **iterable**.
+`sorted.__doc__`: Return a new list containing all items from the **iterable** in ascending order.
 
-Has two optional arguments which must be specified as keyword arguments.
-
-**key** specifies a function of one argument that is used to extract a comparison key from each element in **iterable** (for example, `key=str.lower`). The default value is `None` (compare the elements directly).
-
-**reverse** is a boolean value. If set to `True`, then the list elements are sorted as if each comparison were reversed.
+A custom **key** function can be supplied to customize the sort order, and the **reverse** flag can be set to request the result in descending order.
 
 ### Syntax
+
 ```python
 sorted(iterable)
-sorted(iterable, /, *, key=None, reverse=False)
+sorted(iterable, key=None, reverse=False)
 ```
