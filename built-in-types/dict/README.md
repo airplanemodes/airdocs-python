@@ -17,3 +17,7 @@ Dictionaries can be created by several means:
 ```
 - Use a dict comprehension: `{}`, `{x: x ** 2 for x in range(10)}`.
 - Use the type constructor: [`dict()`](/built-in-functions/dict.md).
+
+### Dictionary view objects
+
+The objects returned by [`dict.keys()`](/built-in-types/dict/dict.keys.md), [`dict.values()`](/built-in-types/dict/dict.values.md) and [`dict.items()`](/built-in-types/dict/dict.items.md) are `view` objects. They provide a dynamic view on the dictionary’s entries, which means that when the dictionary changes, the view reflects these changes.
