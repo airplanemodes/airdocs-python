@@ -16,7 +16,7 @@
 * [`codeop`](/modules/codeop.md)
 * [`collections`](/modules/collections/)
 * [`colorsys`](/modules/colorsys.md)
-* [`copy`](/modules/copy.md)
+* [`copy`](/modules/copy/)
 * [`ctype`](/modules/ctype.md)
 * [`curses`](/modules/curses.md)
 * [`dataclasses`](/modules/dataclasses.md)
