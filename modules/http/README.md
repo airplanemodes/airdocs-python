@@ -5,7 +5,3 @@
 - `http.server`
 - `http.cookies`
 - `http.cookiesjar`
-
-## http.HTTPStatus
-
-## http.HTTPMethod
