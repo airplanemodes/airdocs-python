@@ -1,4 +1,4 @@
-# ceil()
+# math.ceil()
 
 Return the ceiling of **x**, the smallest integer greater than or equal to **x**.
 

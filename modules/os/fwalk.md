@@ -1,1 +1,1 @@
-# fwalk()
+# os.fwalk()

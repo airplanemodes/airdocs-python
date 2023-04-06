@@ -1,1 +1,1 @@
-# supports_unicode_filenames()
+# os.path.supports_unicode_filenames()

@@ -1,1 +1,1 @@
-# getmtime()
+# os.path.getmtime()

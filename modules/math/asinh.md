@@ -1,1 +1,1 @@
-# asinh()
+# math.asinh()

@@ -1,1 +1,1 @@
-# fsync()
+# os.fsync()

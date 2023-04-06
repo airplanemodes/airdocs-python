@@ -1,4 +1,4 @@
-[**os.path**](/modules/os/path/)
+[**`>>> import os.path`**](/modules/os/path/)
 
 * [`abspath()`](/modules/os/path/abspath.md)
 * [`basename()`](/modules/os/path/basename.md)

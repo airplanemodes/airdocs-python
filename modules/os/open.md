@@ -1,1 +1,1 @@
-# open()
+# os.open()

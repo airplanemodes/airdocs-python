@@ -1,1 +1,1 @@
-# get_exec_path()
+# os.get_exec_path()

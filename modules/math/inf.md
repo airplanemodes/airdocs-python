@@ -1,1 +1,1 @@
-# inf
+# math.inf

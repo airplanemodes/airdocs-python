@@ -1,1 +1,1 @@
-# removexattr()
+# os.removexattr()

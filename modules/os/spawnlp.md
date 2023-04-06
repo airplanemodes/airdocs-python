@@ -1,1 +1,1 @@
-# spawnlp()
+# os.spawnlp()

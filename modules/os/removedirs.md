@@ -1,1 +1,1 @@
-# removedirs()
+# os.removedirs()

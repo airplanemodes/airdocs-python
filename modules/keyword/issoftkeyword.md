@@ -1,4 +1,4 @@
-# issoftkeyword()
+# keyword.issoftkeyword()
 
 Return `True` if **s** is a Python soft keyword.
 

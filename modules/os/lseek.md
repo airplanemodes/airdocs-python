@@ -1,1 +1,1 @@
-# lseek()
+# os.lseek()

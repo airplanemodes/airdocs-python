@@ -1,1 +1,1 @@
-# pow()
+# math.pow()

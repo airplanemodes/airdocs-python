@@ -1,1 +1,1 @@
-# perm()
+# math.perm()

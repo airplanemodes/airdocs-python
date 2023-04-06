@@ -1,1 +1,1 @@
-# sysconf()
+# os.sysconf()

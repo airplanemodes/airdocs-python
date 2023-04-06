@@ -1,1 +1,1 @@
-# nice()
+# os.nice()

@@ -1,1 +1,1 @@
-# sendfile()
+# os.sendfile()

@@ -1,1 +1,1 @@
-# tcsetpgrp()
+# os.tcsetpgrp()

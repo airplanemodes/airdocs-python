@@ -1,1 +1,1 @@
-# dist()
+# math.dist()

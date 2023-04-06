@@ -1,1 +1,1 @@
-# tan()
+# math.tan()

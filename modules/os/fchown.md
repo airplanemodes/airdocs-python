@@ -1,1 +1,1 @@
-# fchown()
+# os.fchown()

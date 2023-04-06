@@ -1,1 +1,1 @@
-# samestat()
+# os.path.samestat()

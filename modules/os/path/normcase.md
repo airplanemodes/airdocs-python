@@ -1,1 +1,1 @@
-# normcase()
+# os.path.normcase()

@@ -1,1 +1,1 @@
-# execvp()
+# os.execvp()

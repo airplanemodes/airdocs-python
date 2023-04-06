@@ -1,1 +1,1 @@
-# sync()
+# os.sync()

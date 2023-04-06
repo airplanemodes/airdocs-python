@@ -1,1 +1,1 @@
-# setpgrp()
+# os.setpgrp()

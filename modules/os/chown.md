@@ -1,1 +1,1 @@
-# chown()
+# os.chown()

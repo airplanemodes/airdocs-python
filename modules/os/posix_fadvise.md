@@ -1,1 +1,1 @@
-# posix_fadvise()
+# os.posix_fadvise()

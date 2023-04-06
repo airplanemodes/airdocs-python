@@ -1,1 +1,1 @@
-# sin()
+# math.sin()

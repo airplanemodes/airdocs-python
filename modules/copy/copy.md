@@ -1,4 +1,4 @@
-# copy()
+# copy.copy()
 
 Return a shallow copy of **x**.
 

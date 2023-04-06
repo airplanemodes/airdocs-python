@@ -1,1 +1,1 @@
-# cbrt()
+# math.cbrt()

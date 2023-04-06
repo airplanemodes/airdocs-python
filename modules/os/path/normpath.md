@@ -1,1 +1,1 @@
-# normpath()
+# os.path.normpath()

@@ -1,1 +1,1 @@
-# acosh()
+# math.acosh()

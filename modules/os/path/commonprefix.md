@@ -1,1 +1,1 @@
-# commonprefix()
+# os.path.commonprefix()

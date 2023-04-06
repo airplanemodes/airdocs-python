@@ -1,1 +1,1 @@
-# expanduser()
+# os.path.expanduser()

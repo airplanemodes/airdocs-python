@@ -1,1 +1,1 @@
-# pathconf()
+# os.pathconf()

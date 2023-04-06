@@ -1,1 +1,1 @@
-# fstatvfs()
+# os.fstatvfs()

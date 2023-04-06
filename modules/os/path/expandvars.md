@@ -1,1 +1,1 @@
-# expandvars()
+# os.path.expandvars()

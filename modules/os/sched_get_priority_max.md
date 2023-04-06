@@ -1,1 +1,1 @@
-# sched_get_priority_max()
+# os.sched_get_priority_max()

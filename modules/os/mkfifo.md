@@ -1,1 +1,1 @@
-# mkfifo()
+# os.mkfifo()

@@ -1,1 +1,1 @@
-# plock()
+# os.plock()

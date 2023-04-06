@@ -1,1 +1,1 @@
-# fstat()
+# os.fstat()

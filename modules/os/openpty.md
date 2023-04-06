@@ -1,1 +1,1 @@
-# openpty()
+# os.openpty()

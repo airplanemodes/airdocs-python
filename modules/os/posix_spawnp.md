@@ -1,1 +1,1 @@
-# posix_spawnp()
+# os.posix_spawnp()

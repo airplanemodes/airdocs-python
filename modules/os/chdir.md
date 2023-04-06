@@ -1,1 +1,1 @@
-# chdir()
+# os.chdir()

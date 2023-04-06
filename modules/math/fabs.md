@@ -1,4 +1,4 @@
-# fabs()
+# math.fabs()
 
 Return the absolute value of **x**.
 

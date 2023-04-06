@@ -1,1 +1,1 @@
-# sameopenfile()
+# os.path.sameopenfile()

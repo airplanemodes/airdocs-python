@@ -1,1 +1,1 @@
-# utime()
+# os.utime()

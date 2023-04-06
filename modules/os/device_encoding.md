@@ -1,1 +1,1 @@
-# device_encoding()
+# os.device_encoding()

@@ -1,1 +1,1 @@
-# getegid()
+# os.getegid()

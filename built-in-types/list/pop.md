@@ -1,8 +1,11 @@
 # list.pop()
 
-`>>> list.pop.__doc__`: Remove and return item at **index** (default last). Raises [`IndexError`](/exceptions/IndexError.md) if list is empty or **index** is out of range.
+`>>> list.pop.__doc__`: Remove and return item at **index** (default last).
+
+Raises [`IndexError`](/exceptions/IndexError.md) if list is empty or **index** is out of range.
 
 ### Syntax
+
 ```python
 list.pop()
 list.pop(index)

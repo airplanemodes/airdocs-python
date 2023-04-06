@@ -1,1 +1,1 @@
-# setsid()
+# os.setsid()

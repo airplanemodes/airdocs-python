@@ -1,1 +1,1 @@
-# getloadavg()
+# os.getloadavg()

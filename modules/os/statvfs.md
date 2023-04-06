@@ -1,1 +1,1 @@
-# statvfs()
+# os.statvfs()

@@ -1,1 +1,1 @@
-# getlogin()
+# os.getlogin()

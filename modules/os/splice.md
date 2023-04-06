@@ -1,1 +1,1 @@
-# splice()
+# os.splice()

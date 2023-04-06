@@ -11,6 +11,6 @@ Raises an auditing event `array.__new__` with arguments `typecode`, `initializer
 ### Syntax
 
 ```python
-array(typecode)
-array(typecode, initializer)
+array.array(typecode)
+array.array(typecode, initializer)
 ```

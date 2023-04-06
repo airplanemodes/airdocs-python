@@ -1,1 +1,1 @@
-# access()
+# os.access()

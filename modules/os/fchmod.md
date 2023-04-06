@@ -1,1 +1,1 @@
-# fchmod()
+# os.fchmod()

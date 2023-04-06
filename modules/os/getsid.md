@@ -1,1 +1,1 @@
-# getsid()
+# os.getsid()

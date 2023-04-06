@@ -1,1 +1,1 @@
-# getgroups()
+# os.getgroups()

@@ -1,1 +1,1 @@
-# chflags()
+# os.chflags()

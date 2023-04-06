@@ -1,4 +1,4 @@
-# copysign()
+# math.copysign()
 
 Return a float with the magnitude (absolute value) of **x** but the sign of **y**.
 

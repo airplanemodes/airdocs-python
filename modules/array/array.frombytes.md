@@ -5,5 +5,5 @@ Appends items from the **string**, interpreting the string as an array of machin
 ### Syntax
 
 ```python
-array.frombytes(string)
+array.array.frombytes(string)
 ```

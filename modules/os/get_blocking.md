@@ -1,1 +1,1 @@
-# get_blocking()
+# os.get_blocking()

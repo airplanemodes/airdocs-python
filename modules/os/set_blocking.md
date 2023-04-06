@@ -1,1 +1,1 @@
-# set_blocking()
+# os.set_blocking()

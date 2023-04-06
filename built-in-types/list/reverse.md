@@ -3,11 +3,12 @@
 `>>> list.reverse.__doc__`: Reverse **IN PLACE**.
 
 ### Syntax
+
 ```python
 list.reverse()
 ```
 
-### Example
+### Examples
 
 ```python
 numbers = [1, 2, 3]

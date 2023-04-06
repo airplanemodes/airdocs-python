@@ -1,1 +1,1 @@
-# set_inheritable()
+# os.set_inheritable()

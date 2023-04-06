@@ -1,1 +1,1 @@
-# frexp()
+# math.frexp()

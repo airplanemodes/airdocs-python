@@ -1,4 +1,4 @@
-# deepcopy()
+# copy.deepcopy()
 
 Return a deep copy of **x**.
 

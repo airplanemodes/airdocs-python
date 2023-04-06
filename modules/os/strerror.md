@@ -1,1 +1,1 @@
-# strerror()
+# os.strerror()

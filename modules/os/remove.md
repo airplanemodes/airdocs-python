@@ -1,1 +1,1 @@
-# remove()
+# os.remove()

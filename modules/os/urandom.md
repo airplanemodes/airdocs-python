@@ -1,1 +1,1 @@
-# urandom()
+# os.urandom()

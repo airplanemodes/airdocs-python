@@ -1,1 +1,1 @@
-# setresgid()
+# os.setresgid()

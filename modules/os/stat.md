@@ -1,1 +1,1 @@
-# stat()
+# os.stat()

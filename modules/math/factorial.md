@@ -1,4 +1,4 @@
-# factorial()
+# math.factorial()
 
 Return **n** factorial as an integer.
 

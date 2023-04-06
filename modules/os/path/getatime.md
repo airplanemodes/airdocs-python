@@ -1,1 +1,1 @@
-# getatime()
+# os.path.getatime()

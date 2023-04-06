@@ -1,1 +1,1 @@
-# waitstatus_to_exitcode()
+# os.waitstatus_to_exitcode()

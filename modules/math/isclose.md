@@ -1,1 +1,1 @@
-# isclose()
+# math.isclose()

@@ -1,1 +1,1 @@
-# sinh()
+# math.sinh()

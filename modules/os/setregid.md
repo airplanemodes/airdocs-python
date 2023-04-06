@@ -1,1 +1,1 @@
-# setregid()
+# os.setregid()

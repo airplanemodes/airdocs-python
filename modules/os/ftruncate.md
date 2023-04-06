@@ -1,1 +1,1 @@
-# ftruncate()
+# os.ftruncate()

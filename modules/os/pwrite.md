@@ -1,1 +1,1 @@
-# pwrite()
+# os.pwrite()

@@ -1,1 +1,1 @@
-# chmod()
+# os.chmod()

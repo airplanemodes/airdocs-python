@@ -1,1 +1,1 @@
-# lockf()
+# os.lockf()

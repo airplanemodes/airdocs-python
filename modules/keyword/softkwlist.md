@@ -1,4 +1,4 @@
-# softkwlist
+# keyword.softkwlist
 
 Sequence containing all the soft keywords defined for the interpreter.
 

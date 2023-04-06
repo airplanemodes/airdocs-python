@@ -1,1 +1,1 @@
-# cos()
+# math.cos()

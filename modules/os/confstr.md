@@ -1,1 +1,1 @@
-# confstr()
+# os.confstr()

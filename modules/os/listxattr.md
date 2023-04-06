@@ -1,1 +1,1 @@
-# listxattr()
+# os.listxattr()

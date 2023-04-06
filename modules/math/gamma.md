@@ -1,1 +1,1 @@
-# gamma()
+# math.gamma()

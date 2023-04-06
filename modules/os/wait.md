@@ -1,1 +1,1 @@
-# wait()
+# os.wait()

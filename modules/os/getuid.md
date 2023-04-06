@@ -1,1 +1,1 @@
-# getuid()
+# os.getuid()

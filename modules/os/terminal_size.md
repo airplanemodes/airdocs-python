@@ -1,1 +1,1 @@
-# terminal_size()
+# os.terminal_size()

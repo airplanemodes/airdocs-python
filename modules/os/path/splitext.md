@@ -1,1 +1,1 @@
-# splitext()
+# os.path.splitext()

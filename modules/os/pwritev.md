@@ -1,1 +1,1 @@
-# pwritev()
+# os.pwritev()

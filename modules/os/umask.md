@@ -1,1 +1,1 @@
-# umask()
+# os.umask()

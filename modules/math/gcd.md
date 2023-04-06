@@ -1,1 +1,1 @@
-# gcd()
+# math.gcd()

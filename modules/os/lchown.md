@@ -1,1 +1,1 @@
-# lchown()
+# os.lchown()

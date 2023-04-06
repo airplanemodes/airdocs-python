@@ -1,1 +1,1 @@
-# truncate()
+# os.truncate()

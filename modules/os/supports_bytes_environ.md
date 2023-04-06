@@ -1,1 +1,1 @@
-# supports_bytes_environ()
+# os.supports_bytes_environ()

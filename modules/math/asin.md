@@ -1,1 +1,1 @@
-# asin()
+# math.asin()

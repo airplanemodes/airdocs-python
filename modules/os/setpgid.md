@@ -1,1 +1,1 @@
-# setpgid()
+# os.setpgid()

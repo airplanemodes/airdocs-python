@@ -1,1 +1,1 @@
-# getxattr()
+# os.getxattr()

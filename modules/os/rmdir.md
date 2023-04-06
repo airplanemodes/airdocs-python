@@ -1,1 +1,1 @@
-# rmdir()
+# os.rmdir()

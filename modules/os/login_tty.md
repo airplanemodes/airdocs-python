@@ -1,1 +1,1 @@
-# login_tty()
+# os.login_tty()

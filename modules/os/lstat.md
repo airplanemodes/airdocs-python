@@ -1,1 +1,1 @@
-# lstat()
+# os.lstat()

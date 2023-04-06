@@ -1,1 +1,1 @@
-# fspath()
+# os.fspath()

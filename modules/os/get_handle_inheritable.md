@@ -1,1 +1,1 @@
-# get_handle_inheritable()
+# os.get_handle_inheritable()

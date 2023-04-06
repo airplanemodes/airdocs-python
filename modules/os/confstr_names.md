@@ -1,1 +1,1 @@
-# confstr_names()
+# os.confstr_names()

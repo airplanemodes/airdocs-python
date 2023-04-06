@@ -1,1 +1,1 @@
-# readlink()
+# os.readlink()

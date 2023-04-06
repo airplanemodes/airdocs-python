@@ -1,1 +1,1 @@
-# getppid()
+# os.getppid()

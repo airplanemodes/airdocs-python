@@ -1,1 +1,1 @@
-# fdopen()
+# os.fdopen()

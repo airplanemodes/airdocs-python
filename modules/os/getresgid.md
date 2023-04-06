@@ -1,1 +1,1 @@
-# getresgid()
+# os.getresgid()

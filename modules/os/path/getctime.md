@@ -1,1 +1,1 @@
-# getctime()
+# os.path.getctime()

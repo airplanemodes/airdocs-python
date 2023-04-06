@@ -1,1 +1,1 @@
-# fpathconf()
+# os.fpathconf()

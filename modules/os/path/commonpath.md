@@ -1,1 +1,1 @@
-# commonpath()
+# os.path.commonpath()

@@ -1,1 +1,1 @@
-# isinf()
+# math.isinf()

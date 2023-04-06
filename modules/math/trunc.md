@@ -1,1 +1,1 @@
-# trunc()
+# math.trunc()

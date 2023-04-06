@@ -1,4 +1,4 @@
-# kwlist
+# keyword.kwlist
 
 Sequence containing all the keywords defined for the interpreter.
 

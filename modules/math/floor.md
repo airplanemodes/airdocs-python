@@ -1,4 +1,4 @@
-# floor()
+# math.floor()
 
 Return the floor of **x**, the largest integer less than or equal to **x**.
 

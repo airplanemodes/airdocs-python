@@ -1,1 +1,1 @@
-# forkpty()
+# os.forkpty()

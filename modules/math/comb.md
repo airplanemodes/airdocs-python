@@ -1,4 +1,4 @@
-# comb()
+# math.comb()
 
 Return the number of ways to choose **k** items from **n** items without repetition and without order.
 

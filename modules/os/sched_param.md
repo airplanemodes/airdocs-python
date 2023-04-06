@@ -1,1 +1,1 @@
-# sched_param()
+# os.sched_param()

@@ -1,1 +1,1 @@
-# add_dll_directory()
+# os.add_dll_directory()

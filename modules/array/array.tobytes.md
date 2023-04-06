@@ -7,5 +7,5 @@ Convert the array to an array of machine values and return the bytes representat
 ### Syntax
 
 ```python
-array.tobytes()
+array.array.tobytes()
 ```

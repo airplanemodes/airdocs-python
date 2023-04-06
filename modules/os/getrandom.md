@@ -1,1 +1,1 @@
-# getrandom()
+# os.getrandom()

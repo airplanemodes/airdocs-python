@@ -1,1 +1,1 @@
-# setgroups()
+# os.setgroups()

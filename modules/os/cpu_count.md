@@ -1,1 +1,1 @@
-# cpu_count()
+# os.cpu_count()

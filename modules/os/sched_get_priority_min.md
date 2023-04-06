@@ -1,1 +1,1 @@
-# sched_get_priority_min()
+# os.sched_get_priority_min()

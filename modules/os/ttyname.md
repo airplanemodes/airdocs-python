@@ -1,1 +1,1 @@
-# ttyname()
+# os.ttyname()

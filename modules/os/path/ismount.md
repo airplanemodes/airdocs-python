@@ -1,1 +1,1 @@
-# ismount()
+# os.path.ismount()

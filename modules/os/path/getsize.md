@@ -1,1 +1,1 @@
-# getsize()
+# os.path.getsize()

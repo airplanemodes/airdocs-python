@@ -1,1 +1,1 @@
-# isfinite()
+# math.isfinite()

@@ -1,1 +1,1 @@
-# times()
+# os.times()

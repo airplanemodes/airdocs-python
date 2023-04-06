@@ -1,1 +1,1 @@
-# tcgetpgrp()
+# os.tcgetpgrp()

@@ -1,1 +1,1 @@
-# atan()
+# math.atan()

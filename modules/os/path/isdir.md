@@ -1,1 +1,1 @@
-# isdir()
+# os.path.isdir()

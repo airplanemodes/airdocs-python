@@ -3,6 +3,7 @@
 `>>> list.extend.__doc__`: Extend list by appending elements from the **iterable**.
 
 ### Syntax
+
 ```python
 list.extend(iterable)
 ```

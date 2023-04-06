@@ -1,1 +1,1 @@
-# lchflags()
+# os.lchflags()

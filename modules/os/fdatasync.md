@@ -1,1 +1,1 @@
-# fdatasync()
+# os.fdatasync()

@@ -1,1 +1,1 @@
-# fsum()
+# math.fsum()

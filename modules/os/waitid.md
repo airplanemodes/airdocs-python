@@ -1,1 +1,1 @@
-# waitid()
+# os.waitid()

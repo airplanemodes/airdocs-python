@@ -1,1 +1,1 @@
-# kill()
+# os.kill()

@@ -1,4 +1,4 @@
-# HTTPConnection()
+# http.client.HTTPConnection()
 
 ### Syntax
 

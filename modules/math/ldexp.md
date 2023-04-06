@@ -1,1 +1,1 @@
-# ldexp()
+# math.ldexp()

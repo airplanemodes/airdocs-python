@@ -1,1 +1,1 @@
-# acos()
+# math.acos()

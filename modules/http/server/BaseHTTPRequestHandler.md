@@ -1,4 +1,4 @@
-# BaseHTTPRequestHandler()
+# http.server.BaseHTTPRequestHandler()
 
 This class is used to handle the HTTP requests that arrive at the server. By itself, it cannot respond to any actual HTTP requests. It must be subclassed to handle each request method (e.g. GET or POST). `BaseHTTPRequestHandler` provides a number of class and instance variables, and methods for use by subclasses.
 

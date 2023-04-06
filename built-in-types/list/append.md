@@ -3,11 +3,12 @@
 `>>> list.append.__doc__`: Append object to the end of the list.
 
 ### Syntax
+
 ```python
 list.append(object)
 ```
 
-### Example
+### Examples
 
 ```python
 numbers = [1, 2, 3]

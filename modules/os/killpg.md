@@ -1,1 +1,1 @@
-# killpg()
+# os.killpg()

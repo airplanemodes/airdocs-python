@@ -1,1 +1,1 @@
-# mknod()
+# os.mknod()

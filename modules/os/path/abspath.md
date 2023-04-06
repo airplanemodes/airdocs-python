@@ -1,4 +1,4 @@
-# abspath()
+# os.path.abspath()
 
 `>>> os.path.abspath.__doc__`: Return an absolute path.
 

@@ -1,1 +1,1 @@
-# isfile()
+# os.path.isfile()

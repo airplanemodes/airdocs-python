@@ -1,1 +1,1 @@
-# lgamma()
+# math.lgamma()

@@ -1,1 +1,1 @@
-# initgroups()
+# os.initgroups()

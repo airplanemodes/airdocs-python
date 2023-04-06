@@ -1,1 +1,1 @@
-# lcm()
+# math.lcm()

@@ -1,1 +1,1 @@
-# tanh()
+# math.tanh()

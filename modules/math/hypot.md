@@ -1,1 +1,1 @@
-# hypot()
+# math.hypot()

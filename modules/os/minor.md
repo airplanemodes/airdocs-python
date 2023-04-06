@@ -1,1 +1,1 @@
-# minor()
+# os.minor()

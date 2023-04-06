@@ -5,9 +5,9 @@
 ### Syntax
 
 ```python
-sequence.index(x)
-sequence.index(x, i)
-sequence.index(x, i, j)
+list.index(x)
+list.index(x, i)
+list.index(x, i, j)
 ```
 
 ### Example

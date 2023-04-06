@@ -1,1 +1,1 @@
-# isatty()
+# os.isatty()

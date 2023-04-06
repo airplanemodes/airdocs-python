@@ -1,1 +1,1 @@
-# getpriority()
+# os.getpriority()

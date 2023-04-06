@@ -1,1 +1,1 @@
-# symlink()
+# os.symlink()

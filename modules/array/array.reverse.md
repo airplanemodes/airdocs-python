@@ -5,5 +5,5 @@ Reverse the order of the items in the array.
 ### Syntax
 
 ```python
-array.reverse()
+array.array.reverse()
 ```

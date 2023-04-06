@@ -1,1 +1,1 @@
-# sched_yield()
+# os.sched_yield()

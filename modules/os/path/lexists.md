@@ -1,1 +1,1 @@
-# lexists()
+# os.path.lexists()

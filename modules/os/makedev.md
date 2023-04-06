@@ -1,1 +1,1 @@
-# makedev()
+# os.makedev()

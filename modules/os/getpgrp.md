@@ -1,1 +1,1 @@
-# getpgrp()
+# os.getpgrp()

@@ -1,1 +1,1 @@
-# pread()
+# os.pread()

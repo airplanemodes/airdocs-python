@@ -1,1 +1,1 @@
-# log1p()
+# math.log1p()

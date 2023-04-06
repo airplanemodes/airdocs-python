@@ -1,1 +1,1 @@
-# setegid()
+# os.setegid()

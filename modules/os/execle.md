@@ -1,1 +1,1 @@
-# execle()
+# os.execle()

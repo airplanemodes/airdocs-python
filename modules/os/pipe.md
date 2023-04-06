@@ -1,1 +1,1 @@
-# pipe()
+# os.pipe()

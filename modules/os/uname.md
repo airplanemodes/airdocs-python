@@ -1,1 +1,1 @@
-# uname()
+# os.uname()

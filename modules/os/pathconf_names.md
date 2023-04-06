@@ -1,1 +1,1 @@
-# pathconf_names()
+# os.pathconf_names()

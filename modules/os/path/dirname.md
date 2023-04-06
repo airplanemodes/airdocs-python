@@ -1,1 +1,1 @@
-# dirname()
+# os.path.dirname()

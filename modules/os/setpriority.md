@@ -1,1 +1,1 @@
-# setpriority()
+# os.setpriority()

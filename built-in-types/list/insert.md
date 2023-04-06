@@ -3,11 +3,12 @@
 `>>> list.insert.__doc__`: Insert **object** before **index**.
 
 ### Syntax
+
 ```python
 list.insert(index, object)
 ```
 
-### Example
+### Examples
 
 ```python
 numbers = [10, 20, 40, 50]

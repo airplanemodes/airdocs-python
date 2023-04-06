@@ -1,1 +1,1 @@
-# setuid()
+# os.setuid()

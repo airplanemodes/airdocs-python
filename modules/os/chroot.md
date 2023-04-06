@@ -1,1 +1,1 @@
-# chroot()
+# os.chroot()

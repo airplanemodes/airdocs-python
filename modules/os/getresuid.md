@@ -1,1 +1,1 @@
-# getresuid()
+# os.getresuid()

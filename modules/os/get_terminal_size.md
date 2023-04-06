@@ -1,1 +1,1 @@
-# get_terminal_size()
+# os.get_terminal_size()

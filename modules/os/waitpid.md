@@ -1,1 +1,1 @@
-# waitpid()
+# os.waitpid()

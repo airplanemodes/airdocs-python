@@ -1,4 +1,4 @@
-# basename()
+# os.path.basename()
 
 `>>> os.path.basename.__doc__`: Returns the final component of a pathname.
 

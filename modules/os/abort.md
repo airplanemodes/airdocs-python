@@ -1,1 +1,1 @@
-# abort()
+# os.abort()

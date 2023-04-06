@@ -1,1 +1,1 @@
-# isabs()
+# os.path.isabs()

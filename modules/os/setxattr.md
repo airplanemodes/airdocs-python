@@ -1,1 +1,1 @@
-# setxattr()
+# os.setxattr()

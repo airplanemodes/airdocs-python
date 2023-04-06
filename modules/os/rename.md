@@ -1,1 +1,1 @@
-# rename()
+# os.rename()

@@ -1,1 +1,1 @@
-# exp()
+# math.exp()

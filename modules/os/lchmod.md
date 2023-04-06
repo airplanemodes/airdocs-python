@@ -1,1 +1,1 @@
-# lchmod()
+# os.lchmod()

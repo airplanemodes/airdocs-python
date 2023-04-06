@@ -1,1 +1,1 @@
-# getpgid()
+# os.getpgid()

@@ -1,1 +1,1 @@
-# write()
+# os.write()

@@ -1,1 +1,1 @@
-# sysconf_names()
+# os.sysconf_names()

@@ -1,1 +1,1 @@
-# cosh()
+# math.cosh()

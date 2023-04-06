@@ -1,1 +1,1 @@
-# ctermid()
+# os.ctermid()

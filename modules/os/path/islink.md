@@ -1,1 +1,1 @@
-# islink()
+# os.path.islink()

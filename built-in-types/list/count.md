@@ -3,11 +3,12 @@
 `>>> list.count.__doc__`: Return number of occurrences of **value**.
 
 ### Syntax
+
 ```python
 list.count(value)
 ```
 
-### Example
+### Examples
 
 ```python
 numbers = [1, 1, 1, 1, 2]

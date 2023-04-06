@@ -1,1 +1,1 @@
-# realpath()
+# os.path.realpath()

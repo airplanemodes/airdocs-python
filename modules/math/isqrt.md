@@ -1,1 +1,1 @@
-# isqrt()
+# math.isqrt()

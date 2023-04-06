@@ -1,1 +1,1 @@
-# scandir()
+# os.scandir()

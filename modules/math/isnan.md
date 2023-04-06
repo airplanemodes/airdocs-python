@@ -1,1 +1,1 @@
-# isnan()
+# math.isnan()

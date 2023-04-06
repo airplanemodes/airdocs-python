@@ -1,1 +1,1 @@
-# posix_fallocate()
+# os.posix_fallocate()

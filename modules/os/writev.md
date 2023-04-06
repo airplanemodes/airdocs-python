@@ -1,1 +1,1 @@
-# writev()
+# os.writev()
