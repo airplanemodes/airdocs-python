@@ -45,8 +45,8 @@
 ### Functional programming modules
 
 - [`itertools`](/modules/itertools/) - Functions creating iterators for efficient looping.
-- [`functools`](/modules/functools.md) - Higher-order functions and operations on callable objects.
-- [`operator`](/modules/operator.md) - Standard operators as functions.
+- [`functools`](/modules/functools/) - Higher-order functions and operations on callable objects.
+- [`operator`](/modules/operator/) - Standard operators as functions.
 
 ### File and directory access
 
