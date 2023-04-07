@@ -127,11 +127,11 @@
 
 ### Internet data handling
 
-- [`email`](/modules/email.md) - An email and MIME handling package.
+- [`email`](/modules/email/) - An email and MIME handling package.
 - [`json`](/modules/json/) - JSON encoder and decoder.
 - [`mailbox`](/modules/mailbox.md) - Manipulate mailboxes in various formats.
 - [`mimetypes`](/modules/mimetypes.md) - Map filenames to MIME types.
-- [`base64`](/modules/base64.md) - Base16, Base32, Base64, Base85 data encodings.
+- [`base64`](/modules/base64/) - Base16, Base32, Base64, Base85 data encodings.
 - [`binascii`](/modules/binascii.md) - Convert between binary and ASCII.
 - [`quopri`](/modules/quopri.md) - Encode and decode MIME quoted-printable data.
 

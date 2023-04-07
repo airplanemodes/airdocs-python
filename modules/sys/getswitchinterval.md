@@ -1,0 +1,1 @@
+# sys.getswitchinterval()

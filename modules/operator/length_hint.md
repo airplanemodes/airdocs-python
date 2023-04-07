@@ -1,0 +1,1 @@
+# operator.length_hint()
