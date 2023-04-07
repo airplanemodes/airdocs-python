@@ -1,0 +1,1 @@
+# HMAC.digest_size

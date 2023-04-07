@@ -2,7 +2,7 @@
 
 ### Text processing services
 
-- [`string`](/modules/string.md) - Common string operations.
+- [`string`](/modules/string/) - Common string operations.
 - [`re`](/modules/re/) - Regular expression operations.
 - [`difflib`](/modules/difflib.md) - Helpers for computing deltas.
 - [`textwrap`](/modules/textwrap.md) - Text wrapping and filling.
@@ -71,8 +71,8 @@
 
 ### Data compression and archiving
 
-- [`zlib`](/modules/zlib.md) - Compression compatible with gzip.
-- [`gzip`](/modules/gzip.md) - Support for gzip files.
+- [`zlib`](/modules/zlib/) - Compression compatible with gzip.
+- [`gzip`](/modules/gzip/) - Support for gzip files.
 - [`bz2`](/modules/bz2.md) - Support for bzip2 compression.
 - [`lzma`](/modules/lzma.md) - Compression using the LZMA algorithm.
 - [`zipfile`](/modules/zipfile.md) - Work with ZIP archives.
@@ -89,7 +89,7 @@
 ### Cryptographic services
 
 - [`hashlib`](/modules/hashlib.md) - Secure hashes and message digests.
-- [`hmac`](/modules/hmac.md) - Keyed-hashing for message authentication.
+- [`hmac`](/modules/hmac/) - Keyed-hashing for message authentication.
 - [`secrets`](/modules/secrets.md) - Generate secure random numbers for managing secrets.
 
 ### Generic operating system services
