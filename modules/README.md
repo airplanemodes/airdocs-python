@@ -39,7 +39,7 @@
 - [`cmath`](/modules/cmath/) — Mathematical functions for complex numbers.
 - [`decimal`](/modules/decimal.md) — Decimal fixed point and floating point arithmetic.
 - [`fractions`](/modules/fractions.md) — Rational numbers.
-- [`random`](/modules/random.md) — Generate pseudo-random numbers.
+- [`random`](/modules/random/) — Generate pseudo-random numbers.
 - [`statistics`](/modules/statistics.md) — Mathematical statistics functions.
 
 ### Functional programming modules
@@ -76,7 +76,7 @@
 - [`bz2`](/modules/bz2.md) - Support for bzip2 compression.
 - [`lzma`](/modules/lzma.md) - Compression using the LZMA algorithm.
 - [`zipfile`](/modules/zipfile.md) - Work with ZIP archives.
-- [`tarfile`](/modules/tarfile.md) - Read and write tar archive files.
+- [`tarfile`](/modules/tarfile/) - Read and write tar archive files.
 
 ### File formats
 
@@ -88,9 +88,9 @@
 
 ### Cryptographic services
 
-- [`hashlib`](/modules/hashlib.md) - Secure hashes and message digests.
+- [`hashlib`](/modules/hashlib/) - Secure hashes and message digests.
 - [`hmac`](/modules/hmac/) - Keyed-hashing for message authentication.
-- [`secrets`](/modules/secrets.md) - Generate secure random numbers for managing secrets.
+- [`secrets`](/modules/secrets/) - Generate secure random numbers for managing secrets.
 
 ### Generic operating system services
 
