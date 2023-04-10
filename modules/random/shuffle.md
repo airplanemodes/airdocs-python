@@ -11,3 +11,11 @@ Note that even for small `len(x)`, the total number of permutations of **x** can
 ```python
 random.shuffle(x)
 ```
+
+### Examples
+
+```python
+>>> numbers = [1, 2, 3, 4, 5]
+>>> random.shuffle(numbers)
+>>> numbers # [1, 2, 5, 3, 4]
+```

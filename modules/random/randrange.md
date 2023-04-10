@@ -11,3 +11,20 @@ random.randrange(stop)
 random.randrange(start, stop)
 random.randrange(start, stop, step)
 ```
+
+### Examples
+
+Random integer from 0 to 99:
+
+```python
+>>> random.randrange(100) # 78
+>>> random.randrange(100) # 30
+```
+
+Even integer from 0 to 10:
+
+```python
+>>> random.randrange(0, 11, 2) # 4
+>>> random.randrange(0, 11, 2) # 10
+>>> random.randrange(0, 11, 2) # 8
+```

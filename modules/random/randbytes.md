@@ -9,3 +9,11 @@ Generate **n** random bytes.
 ```python
 random.randbytes(n)
 ```
+
+### Examples
+
+```python
+>>> random.randbytes(2) # b'\x03\x1a'
+>>> random.randbytes(4) # b'\xc7\xd7\x9a<'
+>>> random.randbytes(4) # b'*\x07\xa8\xd9'
+```

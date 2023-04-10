@@ -17,3 +17,12 @@ For a given seed, the [`choices()`](/modules/random/choices.md) function with eq
 ```python
 random.choices(population, weights=None, *, cum_weights=None, k=1)
 ```
+
+### Examples
+
+Six roulette wheel spins:
+
+```python
+>>> random.choices(['red', 'black', 'green'], [18, 18, 2], k=6)
+# ['black', 'green', 'red', 'red', 'black', 'red']
+```

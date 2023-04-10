@@ -9,3 +9,10 @@ If **sequence** is empty, raises [`IndexError`](/exceptions/IndexError.md).
 ```python
 random.choice(sequence)
 ```
+
+### Examples
+
+```python
+>>> fruits = ["apple", "kiwi", "banana", "orange", "peach"]
+>>> random.choice(fruits) # 'peach'
+```

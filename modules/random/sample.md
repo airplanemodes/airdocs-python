@@ -17,3 +17,10 @@ If the sample size is larger than the **population** size, a [`ValueError`](/exc
 ```python
 random.sample(population, k, *, counts=None)
 ```
+
+### Examples
+
+```python
+>>> numbers = [10, 20, 30, 40, 50]
+>>> random.sample(numbers, 2) # [50, 30]
+```
