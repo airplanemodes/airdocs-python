@@ -4,7 +4,7 @@
 
 Return the value of the environment variable **key** as a string if it exists, or **default** if it doesn’t.
 
-**key** is a string. Note that since `getenv()` uses `os.environ`, the mapping of `getenv()` is similarly also captured on import, and the function may not reflect future environment changes.
+**key** is a string. Note that since `getenv()` uses [`os.environ`](/modules/os/environ.md), the mapping of `getenv()` is similarly also captured on import, and the function may not reflect future environment changes.
 
 On Unix, keys and values are decoded with [`sys.getfilesystemencoding()`](/modules/sys/getfilesystemencoding.md) and `'surrogateescape'` error handler. Use [`os.getenvb()`](/modules/os/getenvb.md) if you would like to use a different encoding.
 

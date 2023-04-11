@@ -46,7 +46,7 @@
 * [`setsid()`](/modules/os/setsid.md)
 * [`setuid()`](/modules/os/setuid.md)
 * [`strerror()`](/modules/os/strerror.md)
-* [`supports_bytes_environ()`](/modules/os/supports_bytes_environ.md)
+* [`supports_bytes_environ`](/modules/os/supports_bytes_environ.md)
 * [`umask()`](/modules/os/umask.md)
 * [`uname()`](/modules/os/uname.md)
 * [`unsetenv()`](/modules/os/unsetenv.md)
