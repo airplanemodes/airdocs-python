@@ -13,13 +13,16 @@ In a generator function, the `return` statement indicates that the generator is 
 In an asynchronous generator function, an empty `return` statement indicates that the asynchronous generator is done and will cause [`StopAsyncIteration`](/exceptions/StopAsyncIteration.md) to be raised. A non-empty `return` statement is a syntax error in an asynchronous generator function.
 
 ### Syntax
+
 ```python
 return
 return expression
 ```
 
 ### Examples
-With expression:
+
+With the expression:
+
 ```python
 def add(a, b):
     return a + b
@@ -27,12 +30,15 @@ def add(a, b):
 print(add(10, 20)) # 30
 ```
 
-Without expression:
+Without an expression:
+
 ```python
 def sub(a, b):
     return
 
 print(sub(50, 10)) # None
 ```
+
 ---
+
 !> Using `return` outside of a function will cause [`SyntaxError`](/exceptions/SyntaxError.md).

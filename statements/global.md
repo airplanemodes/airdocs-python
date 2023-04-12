@@ -7,6 +7,7 @@ Names listed in a `global` statement must not be used in the same code block tex
 Names listed in a `global` statement must not be defined as formal parameters, or as targets in [`with`](/statements/with.md) statements or `except` clauses, or in a [`for`](/statements/for.md) target list, [`class`](/statements/class.md) definition, function definition, [`import`](/statements/import.md) statement, or variable annotation.
 
 ### Syntax
+
 ```python
 global identifier
 ```

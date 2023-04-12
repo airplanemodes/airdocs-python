@@ -3,13 +3,16 @@
 The `while` statement is used for repeated execution as long as an expression is true.
 
 ### Syntax
+
 ```python
 while expression:
     suite
 ```
 
 ### Examples
-Using loop counter:
+
+Using a loop counter:
+
 ```python
 i = 1
 while i < 5:
@@ -19,10 +22,9 @@ while i < 5:
 # Output: 1 2 3 4
 ```
 
-Using optional `else` clause:
-```python
-# The Collatz conjecture
+The Collatz conjecture, using optional `else` clause:
 
+```python
 number = 87298
 
 while number != 1:

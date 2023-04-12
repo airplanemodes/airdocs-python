@@ -2256,7 +2256,7 @@ body .sidebar {
     --sidebar-nav-strong-border-width: 0 0 1px 0;
     --sidebar-nav-strong-font-size: smaller;
     --sidebar-nav-strong-margin: 2em -25px 0.75em 0;
-    --sidebar-nav-strong-padding: 0.25em 0 0.75em 0;
+    --sidebar-nav-strong-padding: 2.25em 0 0.75em 0;
     --sidebar-nav-strong-text-transform: uppercase;
     --sidebar-nav-link-border-color: transparent;
     --sidebar-nav-link-border-color--active: var(--theme-color);

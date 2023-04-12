@@ -7,6 +7,7 @@ Names listed in a `nonlocal` statement, unlike those listed in a [`global`](/sta
 Names listed in a `nonlocal` statement must not collide with pre-existing bindings in the local scope.
 
 ### Syntax
+
 ```python
 nonlocal identifier
 ```

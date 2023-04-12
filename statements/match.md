@@ -5,6 +5,7 @@ A match statement takes an expression and compares its value to successive patte
 The last block: the “variable name” `_` acts as a *wildcard* and never fails to match. If no case matches, none of the branches is executed.
 
 ### Syntax
+
 ```python
 match expression:
     case value1:
@@ -16,7 +17,9 @@ match expression:
 ```
 
 ### Examples
+
 The simplest form compares a subject value against one or more literals:
+
 ```python
 def http_error(status):
     match status:
@@ -31,12 +34,14 @@ def http_error(status):
 ```
 
 Several literals in a single pattern can be conbined using `|` (“or”):
+
 ```python
 case 401 | 403 | 404:
     return "Not allowed"
 ```
 
 Patterns can look like unpacking assignments, and can be used to bind variables:
+
 ```python
 # point is an (x, y) tuple
 match point:
@@ -51,9 +56,11 @@ match point:
     case _:
         raise ValueError("Not a point")
 ```
+
 Study that one carefully! The first pattern has two literals, and can be thought of as an extension of the literal pattern shown above. But the next two patterns combine a literal and a variable, and the variable *binds* a value from the subject (`point`). The fourth pattern captures two values, which makes it conceptually similar to the unpacking assignment `(x, y) = point`.
 
 If you are using classes to structure your data you can use the class name followed by an argument list resembling a constructor, but with the ability to capture attributes into variables:
+
 ```python
 class Point:
     x: int
@@ -74,6 +81,7 @@ def where_is(point):
 ```
 
 Patterns can be arbitrarily nested. For example, if we have a short list of points, we could match it like this:
+
 ```python
 match points:
     case []:
@@ -89,6 +97,7 @@ match points:
 ```
 
 We can add an [`if`](/statements/if.md) clause to a pattern, known as a “guard”. If the guard is false, `match` goes on to try the next case block. Note that value capture happens before the guard is evaluated:
+
 ```python
 match point:
     case Point(x, y) if x == y:

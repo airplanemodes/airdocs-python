@@ -19,6 +19,7 @@ The optional `else` clause is executed if the control flow leaves the try suite,
 If `finally` is present, it specifies a ‘cleanup’ handler. The **try clause** is executed, including any **except** and **else clauses**. If an exception occurs in any of the clauses and is not handled, the exception is temporarily saved. The **finally clause** is executed. If there is a saved exception it is re-raised at the end of the **finally clause**. If the **finally clause** raises another exception, the saved exception is set as the context of the new exception. If the **finally clause** executes a [`return`](/statements/return.md), [`break`](/statements/break.md) or [`continue`](/statements/continue.md) statement, the saved exception is discarded.
 
 ### Syntax
+
 ```python
 try:
     suite
@@ -31,6 +32,8 @@ finally:
 ```
 
 ### Examples
-Before an except clause’s suite is executed, the exception is stored in the [`sys`](/modules/sys.md) module, where it can be accessed from within the body of the except clause by calling `sys.exception()`. When leaving an exception handler, the exception stored in the [`sys`](/modules/sys.md) module is reset to its previous value:
+
+Before an except clause’s suite is executed, the exception is stored in the [`sys`](/modules/sys.md) module, where it can be accessed from within the body of the except clause by calling [`sys.exception()`](/modules/sys/exception.md). When leaving an exception handler, the exception stored in the [`sys`](/modules/sys.md) module is reset to its previous value:
+
 ```python
 ```

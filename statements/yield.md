@@ -5,6 +5,7 @@ A `yield` statement is semantically equivalent to a yield expression. The `yield
 Yield expressions and statements are only used when defining a generator function, and are only used in the body of the generator function. Using `yield` in a function definition is sufficient to cause that definition to create a generator function instead of a normal function.
 
 ### Syntax
+
 ```python
 yield expression
 yield from expression

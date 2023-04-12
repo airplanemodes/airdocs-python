@@ -1,4 +1,5 @@
 - **Simple**
+
 * [`assert`](/statements/assert.md)
 * [`pass`](/statements/pass.md)
 * [`del`](/statements/del.md)
@@ -10,7 +11,9 @@
 * [`import`](/statements/import.md)
 * [`global`](/statements/global.md)
 * [`nonlocal`](/statements/nonlocal.md)
+
 - **Compound**
+
 * [`if`](/statements/if.md)
 * [`while`](/statements/while.md)
 * [`for`](/statements/for.md)
