@@ -7,8 +7,8 @@
 - **Process methods**
 
 * [`ctermid()`](/modules/os/ctermid.md)
-* [`environ()`](/modules/os/environ.md)
-* [`environb()`](/modules/os/environb.md)
+* [`environ`](/modules/os/environ.md)
+* [`environb`](/modules/os/environb.md)
 * [`fsencode()`](/modules/os/fsencode.md)
 * [`fsdecode()`](/modules/os/fsdecode.md)
 * [`fspath()`](/modules/os/fspath.md)
@@ -134,7 +134,7 @@
 * [`minor()`](/modules/os/minor.md)
 * [`makedev()`](/modules/os/makedev.md)
 * [`pathconf()`](/modules/os/pathconf.md)
-* [`pathconf_names()`](/modules/os/pathconf_names.md)
+* [`pathconf_names`](/modules/os/pathconf_names.md)
 * [`readlink()`](/modules/os/readlink.md)
 * [`remove()`](/modules/os/remove.md)
 * [`removedirs()`](/modules/os/removedirs.md)
