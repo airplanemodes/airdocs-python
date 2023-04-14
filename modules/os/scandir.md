@@ -6,7 +6,7 @@ The entries are yielded in arbitrary order, and the special entries `'.'` and `'
 
 Using `scandir()` instead of [`listdir()`](/modules/os/listdir.md) can significantly increase the performance of code that also needs file type or file attribute information, because [`os.DirEntry`](/modules/os/DirEntry/) objects expose this information if the operating system provides it when scanning a directory. All [`os.DirEntry`](/modules/os/DirEntry/) methods may perform a system call, but [`is_dir()`](/modules/os/DirEntry/is_dir.md) and [`is_file()`](/modules/os/DirEntry/is_file.md) usually only require a system call for symbolic links. [`os.DirEntry.stat()`](/modules/os/DirEntry/stat.md) always requires a system call on Unix but only requires one for symbolic links on Windows.
 
-**path** may be a path-like object. If **path** is of type [`bytes`](/built-in-types/bytes/) (directly or indirectly through the `PathLike` interface), the type of the `name` and `path` attributes of each [`os.DirEntry`](/modules/os/DirEntry/) will be bytes. In all other circumstances, they will be of type [`str`](/built-in-types/str/).
+**path** may be a path-like object. If **path** is of type [`bytes`](/built-in-types/bytes/) (directly or indirectly through the [`PathLike`](/modules/os/PathLike.md) interface), the type of the `name` and `path` attributes of each [`os.DirEntry`](/modules/os/DirEntry/) will be bytes. In all other circumstances, they will be of type [`str`](/built-in-types/str/).
 
 This function can also support specifying a file descriptor. The file descriptor must refer to a directory.
 

@@ -224,11 +224,11 @@
 - **Miscellaneous System Information**
 
 * [`confstr()`](/modules/os/confstr.md)
-* [`confstr_names()`](/modules/os/confstr_names.md)
+* [`confstr_names`](/modules/os/confstr_names.md)
 * [`cpu_count()`](/modules/os/cpu_count.md)
 * [`getloadavg()`](/modules/os/getloadavg.md)
 * [`sysconf()`](/modules/os/sysconf.md)
-* [`sysconf_names()`](/modules/os/sysconf_names.md)
+* [`sysconf_names`](/modules/os/sysconf_names.md)
 
 - **Random numbers**
 

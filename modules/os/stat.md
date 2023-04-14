@@ -1,6 +1,6 @@
 # os.stat()
 
-Get the status of a file or a file descriptor. Perform the equivalent of a `stat()` system call on the given **path**. **path** may be specified as either a string or bytes – directly or indirectly through the `PathLike` interface – or as an open file descriptor. Return a [`stat_result`](/modules/os/stat_result/) object.
+Get the status of a file or a file descriptor. Perform the equivalent of a `stat()` system call on the given **path**. **path** may be specified as either a string or bytes – directly or indirectly through the [`PathLike`](/modules/os/PathLike.md) interface – or as an open file descriptor. Return a [`stat_result`](/modules/os/stat_result/) object.
 
 This function normally follows symlinks. To stat a symlink add the argument `follow_symlinks=False`, or use [`lstat()`](/modules/os/lstat.md).
 

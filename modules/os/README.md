@@ -15,3 +15,5 @@ Notes on the availability of these functions:
 - All functions accepting path or file names accept both bytes and string objects, and result in an object of the same type, if a path or file name is returned.
 - On VxWorks, os.popen, os.fork, os.execv and os.spawn*p* are not supported.
 - On WebAssembly platforms `wasm32-emscripten` and `wasm32-wasi`, large parts of the `os` module are not available or behave differently. API related to processes (e.g. [`fork()`](/modules/os/fork.md), [`execve()`](/modules/os/execve.md)), signals (e.g. [`kill()`](/modules/os/kill.md), [`wait()`](/modules/os/wait.md)), and resources (e.g. [`nice()`](/modules/os/nice.md)) are not available. Others like [`getuid()`](/modules/os/getuid.md) and [`getpid()`](/modules/os/getpid.md) are emulated or stubs.
+
+?> All functions in this module raise [`OSError`](/exceptions/OSError.md) (or subclasses thereof) in the case of invalid or inaccessible file names and paths, or other arguments that have the correct type, but are not accepted by the operating system.
