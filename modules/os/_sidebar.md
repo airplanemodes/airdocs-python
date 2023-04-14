@@ -144,7 +144,7 @@
 * [`rmdir()`](/modules/os/rmdir.md)
 * [`scandir()`](/modules/os/scandir.md)
 * [`stat()`](/modules/os/stat.md)
-* [`stat_result()`](/modules/os/stat_result.md)
+* [`stat_result`](/modules/os/stat_result/)
 * [`statvfs()`](/modules/os/statvfs.md)
 * [`symlink()`](/modules/os/symlink.md)
 * [`sync()`](/modules/os/sync.md)

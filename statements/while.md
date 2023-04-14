@@ -25,14 +25,15 @@ while i < 5:
 The Collatz conjecture, using optional `else` clause:
 
 ```python
-number = 87298
+from random import randint
+number = randint(1000, 10000)
 
 while number != 1:
     if number % 2 == 0:
-        print("Number is even: " + str(int(number)) + ", dividing.")
-        number = number / 2
+        print("Number is even: " + str(number) + ", dividing.")
+        number = int(number / 2)
     else:
-        print("Number is odd: " + str(int(number)) + ", multiplying.")
+        print("Number is odd: " + str(number) + ", multiplying.")
         number = number * 3 + 1
 else:
     print("Number is 1.")
