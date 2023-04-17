@@ -235,4 +235,16 @@
 * [`getrandom()`](/modules/os/getrandom.md)
 * [`urandom()`](/modules/os/urandom.md)
 
+- **Path constants**
+
+* [`curdir`](/modules/os/curdir.md)
+* [`pardir`](/modules/os/pardir.md)
+* [`sep`](/modules/os/sep.md)
+* [`altsep`](/modules/os/altsep.md)
+* [`extsep`](/modules/os/extsep.md)
+* [`pathsep`](/modules/os/pathsep.md)
+* [`defpath`](/modules/os/defpath.md)
+* [`linesep`](/modules/os/linesep.md)
+* [`devnull`](/modules/os/devnull.md)
+
 [**back to modules**](/modules/)

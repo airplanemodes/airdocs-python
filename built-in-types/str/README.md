@@ -1,6 +1,11 @@
 # str
 
-Textual data in Python is handled with `str` objects, or **strings**. Strings are immutable sequences of Unicode code points. String literals are written in a variety of ways:
+Textual data in Python is handled with `str` objects, or **strings**.
+
+Strings are immutable sequences of Unicode code points.
+
+String literals are written in a variety of ways:
+
 - Single quotes: `'allows embedded "double" quotes'`
 - Double quotes: `"allows embedded 'single' quotes"`
 - Triple quoted: `'''Three single quotes'''`, `"""Three double quotes"""`

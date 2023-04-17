@@ -9,3 +9,9 @@ Also available via [`os.path`](/modules/os/path/).
 ```python
 os.defpath
 ```
+
+### Examples
+
+```python
+>>> os.defpath # '/bin:/usr/bin'
+```

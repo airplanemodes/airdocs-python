@@ -29,6 +29,6 @@
 * [`split()`](/modules/os/path/split.md)
 * [`splitdrive()`](/modules/os/path/splitdrive.md)
 * [`splitext()`](/modules/os/path/splitext.md)
-* [`supports_unicode_filenames()`](/modules/os/path/supports_unicode_filenames.md)
+* [`supports_unicode_filenames`](/modules/os/path/supports_unicode_filenames.md)
 
 [**back to os**](/modules/os/)
