@@ -1,0 +1,6 @@
+# curses.isendwin()
+### Syntax
+
+```python
+
+```

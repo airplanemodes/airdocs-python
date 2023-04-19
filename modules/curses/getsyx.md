@@ -1,0 +1,6 @@
+# curses.getsyx()
+### Syntax
+
+```python
+
+```

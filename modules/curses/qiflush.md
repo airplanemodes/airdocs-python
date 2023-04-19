@@ -1,0 +1,6 @@
+# curses.qiflush()
+### Syntax
+
+```python
+
+```

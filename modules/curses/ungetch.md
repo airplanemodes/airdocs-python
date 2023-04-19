@@ -1,0 +1,6 @@
+# curses.ungetch()
+### Syntax
+
+```python
+
+```

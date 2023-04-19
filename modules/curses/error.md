@@ -1,0 +1,6 @@
+# curses.error()
+### Syntax
+
+```python
+
+```

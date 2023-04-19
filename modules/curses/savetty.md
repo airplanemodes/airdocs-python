@@ -1,0 +1,6 @@
+# curses.savetty()
+### Syntax
+
+```python
+
+```

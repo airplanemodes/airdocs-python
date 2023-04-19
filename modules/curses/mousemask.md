@@ -1,0 +1,6 @@
+# curses.mousemask()
+### Syntax
+
+```python
+
+```

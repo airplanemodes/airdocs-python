@@ -1,0 +1,6 @@
+# curses.tigetnum()
+### Syntax
+
+```python
+
+```

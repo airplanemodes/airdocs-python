@@ -1,0 +1,6 @@
+# curses.noecho()
+### Syntax
+
+```python
+
+```

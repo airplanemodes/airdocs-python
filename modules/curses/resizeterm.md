@@ -1,0 +1,6 @@
+# curses.resizeterm()
+### Syntax
+
+```python
+
+```

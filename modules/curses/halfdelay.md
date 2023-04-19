@@ -1,0 +1,6 @@
+# curses.halfdelay()
+### Syntax
+
+```python
+
+```

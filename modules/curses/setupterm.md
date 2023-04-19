@@ -1,0 +1,6 @@
+# curses.setupterm()
+### Syntax
+
+```python
+
+```

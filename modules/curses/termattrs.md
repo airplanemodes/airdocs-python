@@ -1,0 +1,6 @@
+# curses.termattrs()
+### Syntax
+
+```python
+
+```

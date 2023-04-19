@@ -1,0 +1,6 @@
+# curses.nl()
+### Syntax
+
+```python
+
+```

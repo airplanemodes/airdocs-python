@@ -1,0 +1,6 @@
+# curses.meta()
+### Syntax
+
+```python
+
+```

@@ -1,0 +1,6 @@
+# curses.setsyx()
+### Syntax
+
+```python
+
+```

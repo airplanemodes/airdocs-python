@@ -1,0 +1,6 @@
+# curses.getwin()
+### Syntax
+
+```python
+
+```

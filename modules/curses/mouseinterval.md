@@ -1,0 +1,6 @@
+# curses.mouseinterval()
+### Syntax
+
+```python
+
+```

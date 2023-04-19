@@ -1,0 +1,6 @@
+# curses.typeahead()
+### Syntax
+
+```python
+
+```

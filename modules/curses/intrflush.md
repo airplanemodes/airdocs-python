@@ -1,0 +1,6 @@
+# curses.intrflush()
+### Syntax
+
+```python
+
+```

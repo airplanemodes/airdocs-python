@@ -1,0 +1,6 @@
+# curses.unctrl()
+### Syntax
+
+```python
+
+```

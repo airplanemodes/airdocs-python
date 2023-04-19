@@ -1,0 +1,6 @@
+# curses.resetty()
+### Syntax
+
+```python
+
+```

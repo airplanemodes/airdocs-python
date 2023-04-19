@@ -1,0 +1,6 @@
+# curses.longname()
+### Syntax
+
+```python
+
+```

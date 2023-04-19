@@ -1,0 +1,6 @@
+# curses.newpad()
+### Syntax
+
+```python
+
+```

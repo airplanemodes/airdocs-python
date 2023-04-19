@@ -1,0 +1,6 @@
+# curses.ungetmouse()
+### Syntax
+
+```python
+
+```

@@ -1,0 +1,6 @@
+# curses.termname()
+### Syntax
+
+```python
+
+```

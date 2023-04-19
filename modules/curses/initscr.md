@@ -1,0 +1,6 @@
+# curses.initscr()
+### Syntax
+
+```python
+
+```

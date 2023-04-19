@@ -1,0 +1,6 @@
+# curses.tparm()
+### Syntax
+
+```python
+
+```

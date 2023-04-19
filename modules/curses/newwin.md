@@ -1,0 +1,6 @@
+# curses.newwin()
+### Syntax
+
+```python
+
+```

@@ -1,0 +1,6 @@
+# curses.napms()
+### Syntax
+
+```python
+
+```

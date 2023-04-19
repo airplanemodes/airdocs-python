@@ -1,0 +1,6 @@
+# curses.keyname()
+### Syntax
+
+```python
+
+```

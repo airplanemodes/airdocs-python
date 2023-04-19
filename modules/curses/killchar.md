@@ -1,0 +1,6 @@
+# curses.killchar()
+### Syntax
+
+```python
+
+```

@@ -1,0 +1,6 @@
+# curses.tigetflag()
+### Syntax
+
+```python
+
+```

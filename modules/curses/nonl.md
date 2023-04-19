@@ -1,0 +1,6 @@
+# curses.nonl()
+### Syntax
+
+```python
+
+```

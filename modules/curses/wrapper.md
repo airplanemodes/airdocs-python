@@ -1,0 +1,6 @@
+# curses.wrapper()
+### Syntax
+
+```python
+
+```

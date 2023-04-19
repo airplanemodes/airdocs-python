@@ -1,0 +1,6 @@
+# curses.noqiflush()
+### Syntax
+
+```python
+
+```

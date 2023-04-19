@@ -1,0 +1,6 @@
+# curses.nocbreak()
+### Syntax
+
+```python
+
+```
