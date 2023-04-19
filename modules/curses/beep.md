@@ -1,6 +1,6 @@
 # curses.beep()
 
-`curses.beep.__doc__`: Emit a short attention sound.
+`>>> curses.beep.__doc__`: Emit a short attention sound.
 
 ### Syntax
 
