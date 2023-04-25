@@ -14,7 +14,7 @@
 * [`echo()`](/modules/curses/echo.md)
 * [`endwin()`](/modules/curses/endwin.md)
 * [`erasechar()`](/modules/curses/erasechar.md)
-* [`error()`](/modules/curses/error.md)
+* [`error`](/modules/curses/error.md)
 * [`filter()`](/modules/curses/filter.md)
 * [`flash()`](/modules/curses/flash.md)
 * [`flushinp()`](/modules/curses/flushinp.md)
@@ -32,7 +32,6 @@
 * [`init_color()`](/modules/curses/init_color.md)
 * [`init_pair()`](/modules/curses/init_pair.md)
 * [`initscr()`](/modules/curses/initscr.md)
-* [`intrflush()`](/modules/curses/intrflush.md)
 * [`is_term_resized()`](/modules/curses/is_term_resized.md)
 * [`isendwin()`](/modules/curses/isendwin.md)
 * [`keyname()`](/modules/curses/keyname.md)
@@ -42,7 +41,7 @@
 * [`mouseinterval()`](/modules/curses/mouseinterval.md)
 * [`mousemask()`](/modules/curses/mousemask.md)
 * [`napms()`](/modules/curses/napms.md)
-* [`ncurses_version()`](/modules/curses/ncurses_version.md)
+* [`ncurses_version`](/modules/curses/ncurses_version.md)
 * [`newpad()`](/modules/curses/newpad.md)
 * [`newwin()`](/modules/curses/newwin.md)
 * [`nl()`](/modules/curses/nl.md)
@@ -81,8 +80,11 @@
 * [`update_lines_cols()`](/modules/curses/update_lines_cols.md)
 * [`use_default_colors()`](/modules/curses/use_default_colors.md)
 * [`use_env()`](/modules/curses/use_env.md)
-* [`version()`](/modules/curses/version.md)
-* [`window()`](/modules/curses/window.md)
+* [`version`](/modules/curses/version.md)
 * [`wrapper()`](/modules/curses/wrapper.md)
+
+- **Window objects**
+
+* [`_curses.window`](/modules/curses/window/)
 
 [**back to modules**](/modules/)

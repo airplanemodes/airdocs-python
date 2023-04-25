@@ -1,6 +1,0 @@
-# curses.window()
-### Syntax
-
-```python
-
-```

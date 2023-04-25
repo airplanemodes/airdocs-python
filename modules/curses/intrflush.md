@@ -1,6 +1,0 @@
-# curses.intrflush()
-### Syntax
-
-```python
-
-```
