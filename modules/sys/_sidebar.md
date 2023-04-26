@@ -50,6 +50,7 @@
 * [`version_info`](/modules/sys/version_info.md)
 * [`warnoptions`](/modules/sys/warnoptions.md)
 * [`winver`](/modules/sys/winver.md)
+* [`_xoptions`](/modules/sys/_xoptions.md)
 
 - **Methods**
 
