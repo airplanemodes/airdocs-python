@@ -21,7 +21,7 @@
 * [`derwin()`](/modules/curses/window/derwin.md)
 * [`echochar()`](/modules/curses/window/echochar.md)
 * [`enclose()`](/modules/curses/window/enclose.md)
-* [`encoding()`](/modules/curses/window/encoding.md)
+* [`encoding`](/modules/curses/window/encoding.md)
 * [`erase()`](/modules/curses/window/erase.md)
 * [`get_wch()`](/modules/curses/window/get_wch.md)
 * [`getbegyx()`](/modules/curses/window/getbegyx.md)

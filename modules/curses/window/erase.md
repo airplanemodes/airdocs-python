@@ -1,6 +1,6 @@
 # window.erase()
 
-
+Clear the window.
 
 ### Syntax
 

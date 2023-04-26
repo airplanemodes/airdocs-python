@@ -1,9 +1,9 @@
 # window.attroff()
 
-
+Remove attribute **attr** from the “background” set applied to all writes to the current window.
 
 ### Syntax
 
 ```python
-window.attroff()
+window.attroff(attr)
 ```

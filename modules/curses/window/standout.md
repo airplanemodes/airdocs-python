@@ -1,6 +1,6 @@
 # window.standout()
 
-
+Turn on attribute `A_STANDOUT`.
 
 ### Syntax
 
