@@ -1,4 +1,4 @@
-# array.index()
+# array.array.index()
 
 Return the smallest **i** such that **i** is the index of the first occurrence of **x** in the array. 
 

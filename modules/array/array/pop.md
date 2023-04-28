@@ -1,4 +1,4 @@
-# array.pop()
+# array.array.pop()
 
 Removes the item with the index **i** from the array and returns it.
 

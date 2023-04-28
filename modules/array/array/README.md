@@ -1,4 +1,4 @@
-# array()
+# array.array()
 
 A new array whose items are restricted by **typecode**, and initialized from the optional **initializer** value, which must be a list, a bytes-like object, or iterable over elements of the appropriate type.
 

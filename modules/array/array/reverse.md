@@ -1,4 +1,4 @@
-# array.reverse()
+# array.array.reverse()
 
 Reverse the order of the items in the array.
 

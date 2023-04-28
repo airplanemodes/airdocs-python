@@ -1,4 +1,4 @@
-# array.fromunicode()
+# array.array.fromunicode()
 
 Extends this array with data from the given unicode **string**.
 

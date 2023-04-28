@@ -1,4 +1,4 @@
-# array.byteswap()
+# array.array.byteswap()
 
 “Byteswap” all items of the array.
 

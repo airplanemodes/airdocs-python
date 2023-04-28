@@ -1,4 +1,4 @@
-# array.buffer_info()
+# array.array.buffer_info()
 
 Return a tuple `(address, length)` giving the current memory address and the length in elements of the buffer used to hold array’s contents.
 

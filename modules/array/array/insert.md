@@ -1,4 +1,4 @@
-# array.insert()
+# array.array.insert()
 
 Insert a new item with value **x** in the array before position **i**.
 

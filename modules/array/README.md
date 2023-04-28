@@ -28,14 +28,6 @@ The actual representation of values is determined by the machine architecture (s
 
 When an array object is printed or converted to a string, it is represented as `array(typecode, initializer)`. The **initializer** is omitted if the array is empty, otherwise it is a string if the **typecode** is `'u'`, otherwise it is a list of numbers. The string is guaranteed to be able to be converted back to an array with the same type and value using [`eval()`](/built-in-functions/eval.md), so long as the array class has been imported using `from array import array`.
 
-### Attributes
-
-`>>> array.typecodes`: A string with all available type codes.
-
-`>>> array.array.typecode`: The typecode character used to create the array.
-
-`>>> array.array.itemsize`: The length in bytes of one array item in the internal representation.
-
 ### Examples
 
 ```python

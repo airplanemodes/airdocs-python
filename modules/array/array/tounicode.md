@@ -1,4 +1,4 @@
-# array.tounicode()
+# array.array.tounicode()
 
 Convert the array to a unicode string.
 

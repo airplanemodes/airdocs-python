@@ -1,4 +1,4 @@
-# array.fromlist()
+# array.array.fromlist()
 
 Append items from the **list**.
 

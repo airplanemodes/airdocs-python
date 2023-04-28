@@ -1,4 +1,4 @@
-# array.remove()
+# array.array.remove()
 
 Remove the first occurrence of **x** from the array.
 

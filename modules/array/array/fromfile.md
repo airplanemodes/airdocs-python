@@ -1,4 +1,4 @@
-# array.fromfile()
+# array.array.fromfile()
 
 Read **n** items (as machine values) from the file object **f** and append them to the end of the array. 
 

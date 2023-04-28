@@ -1,4 +1,4 @@
-# array.tolist()
+# array.array.tolist()
 
 Convert the array to an ordinary list with the same items.
 

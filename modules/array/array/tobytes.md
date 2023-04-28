@@ -1,4 +1,4 @@
-# array.tobytes()
+# array.array.tobytes()
 
 Convert the array to an array of machine values and return the bytes representation.
 

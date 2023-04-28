@@ -1,4 +1,4 @@
-# array.extend()
+# array.array.extend()
 
 Append items from **iterable** to the end of the array.
 
