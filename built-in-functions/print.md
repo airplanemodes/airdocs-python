@@ -14,3 +14,13 @@ Whether the output is buffered is usually determined by **file**, but if the **f
 print(objects)
 print(*objects, sep=' ', end='\n', file=None, flush=False)
 ```
+
+### Examples
+
+Using formatted string:
+
+```python
+>>> a = 10
+>>> b = 20
+>>> print(f'The sum is {a + b}') # The sum is 30
+```
