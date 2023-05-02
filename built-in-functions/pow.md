@@ -12,3 +12,9 @@ For [`int`](/built-in-types/int/) operands **base** and **exp**, if **mod** is p
 pow(base, exp)
 pow(base, exp, mod=None)
 ```
+
+### Examples
+
+```python
+>>> pow(4, 2) # 16
+```

@@ -37,5 +37,14 @@ from module import identifier as identifier
 
 ### Examples
 
+Import [`math`](/modules/math/) module:
+
 ```python
+import math
+```
+
+Import [`choice`](/modules/random/choice.md) function from [`random`](/modules/random/) module:
+
+```python
+from random import choice
 ```

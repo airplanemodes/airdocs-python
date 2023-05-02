@@ -13,3 +13,8 @@ If a subclass overrides the constructor, it must make sure it invokes the base c
 ```python
 multiprocessing.Process(group=None, target=None, name=None, args=(), kwargs={}, *, daemon=None)
 ```
+
+### Examples
+
+```python
+```
