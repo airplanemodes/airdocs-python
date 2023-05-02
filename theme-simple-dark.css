@@ -1862,8 +1862,8 @@ body .sidebar {
 }
 
 .sidebar .search .clear-button {
-    margin: 0;
-    padding: 0 10px;
+    margin: 7px 0 0 0;
+    padding: 0 5px 0 10px;
     border: none;
     line-height: 1;
     background: rgba(0, 0, 0, 0);
