@@ -3,7 +3,6 @@
 * [`clear()`](/modules/collections/Counter/clear.md)
 * [`copy()`](/modules/collections/Counter/copy.md)
 * [`elements()`](/modules/collections/Counter/elements.md)
-* [`fromkeys()`](/modules/collections/Counter/fromkeys.md)
 * [`get()`](/modules/collections/Counter/get.md)
 * [`items()`](/modules/collections/Counter/items.md)
 * [`keys()`](/modules/collections/Counter/keys.md)
