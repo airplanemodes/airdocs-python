@@ -1,6 +1,6 @@
 # str.maketrans()
 
-This static method returns a translation table usable for [`str.translate()`](/built-in-types/str/str.translate.md).
+This static method returns a translation table usable for [`str.translate()`](/built-in-types/str/translate.md).
 
 If there is only one argument, it must be a dictionary mapping Unicode ordinals (integers) or characters (strings of length 1) to Unicode ordinals, strings (of arbitrary lengths) or `None`. Character keys will then be converted to ordinals.
 
