@@ -7,5 +7,5 @@ This method is a stub in [`Cmd`](/modules/cmd/Cmd/). It exists to be overridden 
 ### Syntax
 
 ```python
-cmd.Cmd.postcmd(stop. line)
+cmd.Cmd.postcmd(stop, line)
 ```

@@ -3,6 +3,7 @@
 
 
 ### Syntax
+
 ```python
 cmd.Cmd.get_names()
 ```

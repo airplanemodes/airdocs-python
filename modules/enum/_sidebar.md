@@ -1,7 +1,5 @@
 [**`>>> import enum`**](/modules/enum/)
 
-- **Classes**
-
 * [`EnumType()`](/modules/enum/EnumType.md)
 * [`Enum()`](/modules/enum/Enum.md)
 * [`IntEnum()`](/modules/enum/IntEnum.md)
