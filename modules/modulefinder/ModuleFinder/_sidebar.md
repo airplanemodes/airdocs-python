@@ -1,4 +1,4 @@
-[**<class 'modulefinder.ModuleFinder'>**](/modules/modulefinder/)
+[**<class 'modulefinder.ModuleFinder'>**](/modules/modulefinder/ModuleFinder/)
 
 * [`report()`](/modules/modulefinder/ModuleFinder/report.md)
 * [`run_script()`](/modules/modulefinder/ModuleFinder/run_script.md)
