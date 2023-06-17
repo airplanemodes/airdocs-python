@@ -13,7 +13,7 @@ ftplib.FTP(host='', user='', passwd='', acct='', timeout=None, source_address=No
 The `FTP` class supports the [`with`](/statements/with.md) statement, e.g.:
 
 ```python
-from ftplib import FTP
+>>> from ftplib import FTP
 >>> with FTP("ftp1.at.proftpd.org") as ftp:
 ...     ftp.login()
 ...     ftp.dir()
