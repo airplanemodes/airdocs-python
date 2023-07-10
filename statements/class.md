@@ -20,14 +20,23 @@ class SubClassName(ClassName):
 ### Examples
 
 ```python
-class Car:
-    def __init__(self, model, color):
-        self.model = model
-        self.color = color
-    
-    def ride(self):
-        pass
+# Class creation
+class Point():
+    def __init__(self):
+        self.x = 0
+        self.y = 0
 
-    def stop(self):
-        pass
+# Initialization of two instances
+a = Point()
+b = Point()
+
+# Attribute access and modification
+print(a.x, a.y) # 0 0
+print(b.x, b.y) # 0 0
+
+a.x = 10; a.y = 5
+b.x = 2; b.y = -1
+
+print(a.x, a.y) # 10 5
+print(b.x, b.y) # 2 -1
 ```
