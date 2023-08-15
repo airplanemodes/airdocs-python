@@ -12,4 +12,8 @@
 * [`update()`](/built-in-types/dict/update.md)
 * [`values()`](/built-in-types/dict/values.md)
 
+- **View objects**
+
+* [`view`](/built-in-types/dict/view.md)
+
 [**back to types**](/built-in-types/)

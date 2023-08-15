@@ -1,6 +1,6 @@
 # dict.keys()
 
-Return a new `view` of the dictionary’s keys.
+Return a new [`view`](/built-in-types/dict/view.md) of the dictionary’s keys.
 
 ### Syntax
 
