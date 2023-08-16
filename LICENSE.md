@@ -1,7 +1,9 @@
 # License
+
 **MIT LICENSE FOR AIRDOCS PYTHON**
+
 ```
-Copyright (c) 2023 Roy Elman
+Copyright (c) 2023 Roy Alman
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -23,6 +25,7 @@ SOFTWARE.
 ```
 
 **PSF LICENSE AGREEMENT FOR PYTHON 3.11.2**
+
 ```
 1. This LICENSE AGREEMENT is between the Python Software Foundation ("PSF"), and
    the Individual or Organization ("Licensee") accessing and otherwise using Python
@@ -68,6 +71,7 @@ SOFTWARE.
 ```
 
 **ZERO-CLAUSE BSD LICENSE FOR CODE IN THE PYTHON 3.11.2 DOCUMENTATION**
+
 ```
 Permission to use, copy, modify, and/or distribute this software for any
 purpose with or without fee is hereby granted.
