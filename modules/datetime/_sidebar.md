@@ -2,12 +2,12 @@
 
 - **Types**
 
-* [`date`](/modules/datetime/date.md)
-* [`time`](/modules/datetime/time.md)
-* [`datetime`](/modules/datetime/datetime.md)
-* [`timedelta`](/modules/datetime/timedelta.md)
-* [`tzinfo`](/modules/datetime/tzinfo.md)
-* [`timezone`](/modules/datetime/timezone.md)
+* [`date()`](/modules/datetime/date/)
+* [`time()`](/modules/datetime/time/)
+* [`datetime()`](/modules/datetime/datetime/)
+* [`timedelta()`](/modules/datetime/timedelta/)
+* [`tzinfo()`](/modules/datetime/tzinfo/)
+* [`timezone()`](/modules/datetime/timezone/)
 
 - **Constants**
 
