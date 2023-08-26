@@ -6,4 +6,8 @@
 * [`max`](/modules/datetime/timedelta/max.md)
 * [`resolution`](/modules/datetime/timedelta/resolution.md)
 
+- **Methods**
+
+* [`total_seconds()`](/modules/datetime/timedelta/total_seconds.md)
+
 [**back to datetime**](/modules/datetime/)
