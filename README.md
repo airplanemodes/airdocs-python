@@ -1,8 +1,8 @@
 # Introduction
 
-> An awesome project.
+> An awesome project with simple navigation.
 
-The Python documentation that feels like an air and really easy to navigate through it.
+The Python documentation that feels like an air.
 
 ### Installation
 
