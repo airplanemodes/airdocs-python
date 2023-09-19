@@ -12,6 +12,15 @@ All arguments are required. Arguments must be integers, in the following ranges:
 
 If an argument outside those ranges is given, [`ValueError`](/exceptions/ValueError.md) is raised.
 
+Supported operations:
+
+| Operation                   | Result                                                                     |
+| --------------------------- | -------------------------------------------------------------------------- |
+| `date2 = date1 + timedelta` | **date2** will be `timedelta.days` days after **date1**.                   |
+| `date2 = date1 - timedelta` | Computes **date2** such that `date2 + timedelta == date1`.                 |
+| `timedelta = date1 - date2` |                                                                            |
+| `date1 < date2`             | **date1** is considered less than **date2** when **date1** precedes **date2** in time. |
+
 ### Syntax
 
 ```python
