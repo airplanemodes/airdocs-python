@@ -7,4 +7,4 @@
 * [Exceptions](/exceptions/)
 * [Modules](/modules/)
 * [Command line](/command-line/)
-* [License](/license.md)
+* [License](/LICENSE.md)
