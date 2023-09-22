@@ -6,5 +6,5 @@
 * [Statements](/statements/)
 * [Exceptions](/exceptions/)
 * [Modules](/modules/)
-* [Command line](/command-line/)
+* [Command line](/cli/)
 * [License](/LICENSE.md)
