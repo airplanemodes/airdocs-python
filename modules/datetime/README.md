@@ -2,7 +2,7 @@
 
 **Basic date and time types.**
 
-> Source code: [`Lib/datetime.py`](https://github.com/python/cpython/tree/3.11/Lib/datetime.py)
+> Source code: [`Lib/datetime.py`](https://github.com/python/cpython/tree/3.12/Lib/datetime.py)
 
 The `datetime` module supplies classes for manipulating dates and times.
 

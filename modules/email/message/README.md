@@ -2,7 +2,7 @@
 
 **Representing an email message.**
 
-> Source code: [`Lib/email/message.py`](https://github.com/python/cpython/tree/3.11/Lib/email/message.py)
+> Source code: [`Lib/email/message.py`](https://github.com/python/cpython/tree/3.12/Lib/email/message.py)
 
 The central class in the [`email`](/modules/email/) package is the [`EmailMessage`](/modules/email/message/EmailMessage/) class, imported from the `email.message` module. It is the base class for the [`email`](/modules/email/) object model. [`EmailMessage`](/modules/email/message/EmailMessage/) provides the core functionality for setting and querying header fields, for accessing message bodies, and for creating or modifying structured messages.
 

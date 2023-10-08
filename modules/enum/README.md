@@ -2,7 +2,7 @@
 
 **Support for enumerations.**
 
-> Source code: [`Lib/enum.py`](https://github.com/python/cpython/tree/3.11/Lib/enum.py)
+> Source code: [`Lib/enum.py`](https://github.com/python/cpython/tree/3.12/Lib/enum.py)
 
 An enumeration:
 

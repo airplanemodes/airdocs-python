@@ -2,7 +2,7 @@
 
 **Logging facility for Python.**
 
-> Source code: [`Lib/logging/__init__.py`](https://github.com/python/cpython/tree/3.11/Lib/logging/__init__.py)
+> Source code: [`Lib/logging/__init__.py`](https://github.com/python/cpython/tree/3.12/Lib/logging/__init__.py)
 
 This module defines functions and classes which implement a flexible event logging system for applications and libraries.
 

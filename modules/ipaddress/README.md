@@ -2,7 +2,7 @@
 
 **IPv4/IPv6 manipulation library.**
 
-> Source code: [`Lib/ipaddress.py`](https://github.com/python/cpython/tree/3.11/Lib/ipaddress.py)
+> Source code: [`Lib/ipaddress.py`](https://github.com/python/cpython/tree/3.12/Lib/ipaddress.py)
 
 This module provides the capabilities to create, manipulate and operate on IPv4 and IPv6 addresses and networks.
 

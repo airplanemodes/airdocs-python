@@ -36,7 +36,6 @@
 * [`decimal`](/modules/decimal/)
 * [`difflib`](/modules/difflib/)
 * [`dis`](/modules/dis/)
-* [`distutils`](/modules/distutils/)
 * [`doctest`](/modules/doctest/)
 * [`email`](/modules/email/)
 * [`enum`](/modules/enum/)

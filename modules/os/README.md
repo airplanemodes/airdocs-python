@@ -2,7 +2,7 @@
 
 **Miscellaneous operating system interfaces.**
 
-> Source code: [`Lib/os.py`](https://github.com/python/cpython/tree/3.11/Lib/os.py)
+> Source code: [`Lib/os.py`](https://github.com/python/cpython/tree/3.12/Lib/os.py)
 
 This module provides a portable way of using operating system dependent functionality.
 

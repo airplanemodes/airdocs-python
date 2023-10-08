@@ -2,7 +2,7 @@
 
 **FTP protocol client.**
 
-> Source code: [`Lib/ftplib.py`](https://github.com/python/cpython/tree/3.11/Lib/ftplib.py)
+> Source code: [`Lib/ftplib.py`](https://github.com/python/cpython/tree/3.12/Lib/ftplib.py)
 
 This module defines the class [`FTP`](/modules/ftplib/FTP/) and a few related items. The [`FTP`](/modules/ftplib/FTP/) class implements the client side of the FTP protocol. You can use this to write Python programs that perform a variety of automated FTP jobs, such as mirroring other FTP servers. It is also used by the module [`urllib.request`](/modules/urllib/request.md) to handle URLs that use FTP. For more information on FTP (File Transfer Protocol), see internet [**RFC 959**](https://datatracker.ietf.org/doc/html/rfc959.html).
 

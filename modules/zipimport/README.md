@@ -2,7 +2,7 @@
 
 **Import modules from Zip archives.**
 
-> Source code: [`Lib/zipimport.py`](https://github.com/python/cpython/tree/3.11/Lib/zipimport.py)
+> Source code: [`Lib/zipimport.py`](https://github.com/python/cpython/tree/3.12/Lib/zipimport.py)
 
 This module adds the ability to import Python modules (`*.py`, `*.pyc`) and packages from ZIP-format archives. It is usually not needed to use the `zipimport` module explicitly. It is automatically used by the built-in [`import`](/statements/import.md) mechanism for [`sys.path`](/modules/sys/path.md) items that are paths to ZIP archives.
 

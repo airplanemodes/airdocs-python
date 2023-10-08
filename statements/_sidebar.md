@@ -11,6 +11,7 @@
 * [`import`](/statements/import.md)
 * [`global`](/statements/global.md)
 * [`nonlocal`](/statements/nonlocal.md)
+* [`type`](/statements/type.md)
 
 - **Compound**
 

@@ -3,7 +3,7 @@
 **Low-level networking interface.**
 
 > **Availability:** not Emscripten, not WASI.  
-> Source code: [`Lib/socket.py`](https://github.com/python/cpython/tree/3.11/Lib/socket.py).
+> Source code: [`Lib/socket.py`](https://github.com/python/cpython/tree/3.12/Lib/socket.py).
 
 This module provides access to the BSD socket interface. It is available on all modern Unix systems, Windows, MacOS, and probably additional platforms.
 
