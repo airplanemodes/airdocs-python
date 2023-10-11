@@ -1,5 +1,11 @@
 [**`>>> import curses`**](/modules/curses/)
 
+- **Window object**
+
+* [`_curses.window`](/modules/curses/window/)
+
+- **Functions**
+
 * [`baudrate()`](/modules/curses/baudrate.md)
 * [`beep()`](/modules/curses/beep.md)
 * [`can_change_color()`](/modules/curses/can_change_color.md)
@@ -82,9 +88,5 @@
 * [`use_env()`](/modules/curses/use_env.md)
 * [`version`](/modules/curses/version.md)
 * [`wrapper()`](/modules/curses/wrapper.md)
-
-- **Window objects**
-
-* [`_curses.window`](/modules/curses/window/)
 
 [**back to modules**](/modules/)
