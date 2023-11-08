@@ -45,7 +45,6 @@
 * [`ENOMSG`](/modules/errno/ENOMSG.md)
 * [`EIDRM`](/modules/errno/EIDRM.md)
 * [`ECHRNG`](/modules/errno/ECHRNG.md)
-
 * [`EL2NSYNC`](/modules/errno/EL2NSYNC.md)
 * [`EL3HLT`](/modules/errno/EL3HLT.md)
 * [`EL3RST`](/modules/errno/EL3RST.md)
@@ -61,22 +60,17 @@
 * [`EBADSLT`](/modules/errno/EBADSLT.md)
 * [`EDEADLOCK`](/modules/errno/EDEADLOCK.md)
 * [`EBFONT`](/modules/errno/EBFONT.md)
-
 * [`ENOSTR`](/modules/errno/ENOSTR.md)
 * [`ENODATA`](/modules/errno/ENODATA.md)
 * [`ETIME`](/modules/errno/ETIME.md)
 * [`ENOSR`](/modules/errno/ENOSR.md)
-
 * [`ENONET`](/modules/errno/ENONET.md)
 * [`ENOPKG`](/modules/errno/ENOPKG.md)
-
 * [`EREMOTE`](/modules/errno/EREMOTE.md)
 * [`ENOLINK`](/modules/errno/ENOLINK.md)
-
 * [`EADV`](/modules/errno/EADV.md)
 * [`ESRMNT`](/modules/errno/ESRMNT.md)
 * [`ECOMM`](/modules/errno/ECOMM.md)
-
 * [`EPROTO`](/modules/errno/EPROTO.md)
 * [`EMULTIHOP`](/modules/errno/EMULTIHOP.md)
 
