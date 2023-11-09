@@ -73,12 +73,9 @@
 * [`ECOMM`](/modules/errno/ECOMM.md)
 * [`EPROTO`](/modules/errno/EPROTO.md)
 * [`EMULTIHOP`](/modules/errno/EMULTIHOP.md)
-
 * [`EDOTDOT`](/modules/errno/EDOTDOT.md)
-
 * [`EBADMSG`](/modules/errno/EBADMSG.md)
 * [`EOVERFLOW`](/modules/errno/EOVERFLOW.md)
-
 * [`ENOTUNIQ`](/modules/errno/ENOTUNIQ.md)
 * [`EBADFD`](/modules/errno/EBADFD.md)
 * [`EREMCHG`](/modules/errno/EREMCHG.md)
@@ -87,12 +84,9 @@
 * [`ELIBSCN`](/modules/errno/ELIBSCN.md)
 * [`ELIBMAX`](/modules/errno/ELIBMAX.md)
 * [`ELIBEXEC`](/modules/errno/ELIBEXEC.md)
-
 * [`EILSEQ`](/modules/errno/EILSEQ.md)
-
 * [`ERESTART`](/modules/errno/ERESTART.md)
 * [`ESTRPIPE`](/modules/errno/ESTRPIPE.md)
-
 * [`EUSERS`](/modules/errno/EUSERS.md)
 * [`ENOTSOCK`](/modules/errno/ENOTSOCK.md)
 * [`EDESTADDRREQ`](/modules/errno/EDESTADDRREQ.md)
@@ -124,21 +118,17 @@
 * [`EALREADY`](/modules/errno/EALREADY.md)
 * [`EINPROGRESS`](/modules/errno/EINPROGRESS.md)
 * [`ESTALE`](/modules/errno/ESTALE.md)
-
 * [`EUCLEAN`](/modules/errno/EUCLEAN.md)
 * [`ENOTNAM`](/modules/errno/ENOTNAM.md)
 * [`ENAVAIL`](/modules/errno/ENAVAIL.md)
 * [`EISNAM`](/modules/errno/ENSNAM.md)
 * [`EREMOTEIO`](/modules/errno/EREMOTEIO.md)
-
 * [`EDQUOT`](/modules/errno/EDQUOT.md)
 * [`EQFULL`](/modules/errno/EQFULL.md)
-
 * [`ENOTCAPABLE`](/modules/errno/ENOTCAPABLE.md)
 * [`ECANCELED`](/modules/errno/ECANCELED.md)
 * [`EOWNERDEAD`](/modules/errno/EOWNERDEAD.md)
 * [`ENOTRECOVERABLE`](/modules/errno/ENOTRECOVERABLE.md)
-
 * [`EAUTH`](/modules/errno/EAUTH.md)
 * [`EBADARCH`](/modules/errno/EBADARCH.md)
 * [`EBADEXEC`](/modules/errno/EBADEXEC.md)
