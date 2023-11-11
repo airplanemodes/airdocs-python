@@ -1,6 +1,6 @@
 # errno.ENOTBLK
 
-
+Block device required.
 
 ### Syntax
 

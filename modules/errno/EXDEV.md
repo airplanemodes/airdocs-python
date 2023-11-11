@@ -1,6 +1,6 @@
 # errno.EXDEV
 
-
+Cross-device link.
 
 ### Syntax
 

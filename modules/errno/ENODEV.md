@@ -1,6 +1,6 @@
 # errno.ENODEV
 
-
+No such device.
 
 ### Syntax
 

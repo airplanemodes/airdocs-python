@@ -1,6 +1,6 @@
 # errno.EBADF
 
-
+Bad file number.
 
 ### Syntax
 

@@ -1,6 +1,6 @@
 # errno.ENOMEM
 
-
+Out of memory.
 
 ### Syntax
 
