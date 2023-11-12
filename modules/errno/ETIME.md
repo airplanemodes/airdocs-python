@@ -1,6 +1,6 @@
 # errno.ETIME
 
-
+Timer expired.
 
 ### Syntax
 

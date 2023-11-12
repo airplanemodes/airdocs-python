@@ -1,6 +1,6 @@
 # errno.EMULTIHOP
 
-
+Multihop attempted.
 
 ### Syntax
 

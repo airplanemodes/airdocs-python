@@ -1,6 +1,6 @@
 # errno.ETXTBSY
 
-
+Text file busy.
 
 ### Syntax
 

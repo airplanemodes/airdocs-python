@@ -1,6 +1,6 @@
 # errno.EL3RST
 
-
+Level 3 reset.
 
 ### Syntax
 

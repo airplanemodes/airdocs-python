@@ -1,6 +1,6 @@
 # errno.ENOCSI
 
-
+No CSI structure available.
 
 ### Syntax
 

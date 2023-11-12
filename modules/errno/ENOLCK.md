@@ -1,6 +1,6 @@
 # errno.ENOLCK
 
-
+No record locks available.
 
 ### Syntax
 

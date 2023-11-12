@@ -1,6 +1,6 @@
 # errno.ENODATA
 
-
+No data available.
 
 ### Syntax
 

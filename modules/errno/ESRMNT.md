@@ -1,6 +1,6 @@
 # errno.ESRMNT
 
-
+Srmount error.
 
 ### Syntax
 

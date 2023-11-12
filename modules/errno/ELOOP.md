@@ -1,6 +1,6 @@
 # errno.ELOOP
 
-
+Too many symbolic links encountered.
 
 ### Syntax
 

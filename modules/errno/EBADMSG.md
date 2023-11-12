@@ -1,6 +1,6 @@
 # errno.EBADMSG
 
-
+Not a data message.
 
 ### Syntax
 

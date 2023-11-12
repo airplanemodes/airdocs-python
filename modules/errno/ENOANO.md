@@ -1,6 +1,6 @@
 # errno.ENOANO
 
-
+No anode.
 
 ### Syntax
 

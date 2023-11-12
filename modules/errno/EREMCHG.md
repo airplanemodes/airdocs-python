@@ -1,6 +1,6 @@
 # errno.EREMCHG
 
-
+Remote address changed.
 
 ### Syntax
 

@@ -1,6 +1,6 @@
 # errno.ENOPKG
 
-
+Package not installed.
 
 ### Syntax
 

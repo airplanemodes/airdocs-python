@@ -1,6 +1,6 @@
 # errno.EUNATCH
 
-
+Protocol driver not attached.
 
 ### Syntax
 

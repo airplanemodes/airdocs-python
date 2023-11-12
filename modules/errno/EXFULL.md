@@ -1,6 +1,6 @@
 # errno.EXFULL
 
-
+Exchange full.
 
 ### Syntax
 

@@ -1,6 +1,6 @@
 # errno.EFBIG
 
-
+File too large.
 
 ### Syntax
 

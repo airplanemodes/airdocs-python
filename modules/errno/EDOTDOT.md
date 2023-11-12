@@ -1,6 +1,6 @@
 # errno.EDOTDOT
 
-
+RFS specific error.
 
 ### Syntax
 

@@ -1,6 +1,6 @@
 # errno.EL2NSYNC
 
-
+Level 2 not synchronized.
 
 ### Syntax
 

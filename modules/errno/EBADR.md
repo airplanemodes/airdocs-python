@@ -1,6 +1,6 @@
 # errno.EBADR
 
-
+Invalid request descriptor.
 
 ### Syntax
 

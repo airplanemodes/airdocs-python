@@ -1,6 +1,6 @@
 # errno.EROFS
 
-
+Read-only file system.
 
 ### Syntax
 

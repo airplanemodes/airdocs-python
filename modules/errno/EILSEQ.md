@@ -1,6 +1,6 @@
 # errno.EILSEQ
 
-
+Illegal byte sequence.
 
 ### Syntax
 

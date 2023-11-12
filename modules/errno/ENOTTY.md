@@ -1,6 +1,6 @@
 # errno.ENOTTY
 
-
+Not a typewriter.
 
 ### Syntax
 

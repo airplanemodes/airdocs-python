@@ -1,6 +1,6 @@
 # errno.ENOTUNIQ
 
-
+Name not unique on network.
 
 ### Syntax
 

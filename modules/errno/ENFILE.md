@@ -1,6 +1,6 @@
 # errno.ENFILE
 
-
+File table overflow.
 
 ### Syntax
 

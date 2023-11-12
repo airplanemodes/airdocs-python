@@ -1,6 +1,6 @@
 # errno.ESPIPE
 
-
+Illegal seek.
 
 ### Syntax
 

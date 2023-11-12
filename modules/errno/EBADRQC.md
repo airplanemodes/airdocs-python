@@ -1,6 +1,6 @@
 # errno.EBADRQC
 
-
+Invalid request code.
 
 ### Syntax
 

@@ -1,6 +1,6 @@
 # errno.ECHRNG
 
-
+Channel number out of range.
 
 ### Syntax
 

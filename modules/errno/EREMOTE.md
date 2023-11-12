@@ -1,6 +1,6 @@
 # errno.EREMOTE
 
-
+Object is remote.
 
 ### Syntax
 

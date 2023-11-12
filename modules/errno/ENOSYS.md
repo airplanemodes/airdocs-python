@@ -1,6 +1,6 @@
 # errno.ENOSYS
 
-
+Function not implemented.
 
 ### Syntax
 

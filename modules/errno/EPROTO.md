@@ -1,6 +1,6 @@
 # errno.EPROTO
 
-
+Protocol error.
 
 ### Syntax
 

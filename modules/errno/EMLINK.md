@@ -1,6 +1,6 @@
 # errno.EMLINK
 
-
+Too many links.
 
 ### Syntax
 

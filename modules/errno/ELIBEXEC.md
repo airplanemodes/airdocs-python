@@ -1,6 +1,6 @@
 # errno.ELIBEXEC
 
-
+Cannot exec a shared library directly.
 
 ### Syntax
 

@@ -1,6 +1,6 @@
 # errno.EBADSLT
 
-
+Invalid slot.
 
 ### Syntax
 

@@ -1,6 +1,6 @@
 # errno.ENOSR
 
-
+Out of streams resources.
 
 ### Syntax
 

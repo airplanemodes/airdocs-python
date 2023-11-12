@@ -1,6 +1,6 @@
 # errno.ENAMETOOLONG
 
-
+File name too long.
 
 ### Syntax
 

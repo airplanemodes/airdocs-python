@@ -1,6 +1,6 @@
 # errno.EADV
 
-
+Advertise error.
 
 ### Syntax
 

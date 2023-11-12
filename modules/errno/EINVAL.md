@@ -1,6 +1,6 @@
 # errno.EINVAL
 
-
+Invalid argument.
 
 ### Syntax
 

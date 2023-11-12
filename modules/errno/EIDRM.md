@@ -1,6 +1,6 @@
 # errno.EIDRM
 
-
+Identifier removed.
 
 ### Syntax
 
