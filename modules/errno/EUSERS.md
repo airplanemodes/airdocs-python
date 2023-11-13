@@ -1,6 +1,6 @@
 # errno.EUSERS
 
-
+Too many users.
 
 ### Syntax
 

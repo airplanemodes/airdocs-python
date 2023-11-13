@@ -1,6 +1,6 @@
 # errno.EOPNOTSUPP
 
-
+Operation not supported on transport endpoint.
 
 ### Syntax
 

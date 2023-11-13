@@ -1,6 +1,6 @@
 # errno.ENETUNREACH
 
-
+Network is unreachable.
 
 ### Syntax
 

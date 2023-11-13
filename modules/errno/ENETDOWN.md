@@ -1,6 +1,6 @@
 # errno.ENETDOWN
 
-
+Network is down.
 
 ### Syntax
 

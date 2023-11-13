@@ -1,6 +1,6 @@
 # errno.ESOCKTNOSUPPORT
 
-
+Socket type not supported.
 
 ### Syntax
 

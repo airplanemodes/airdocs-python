@@ -1,6 +1,6 @@
 # errno.ENOTSUP
 
-
+Operation not supported.
 
 ### Syntax
 

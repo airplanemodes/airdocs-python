@@ -1,6 +1,6 @@
 # errno.ESTRPIPE
 
-
+Streams pipe error.
 
 ### Syntax
 

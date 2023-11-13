@@ -1,6 +1,6 @@
 # errno.ENOBUFS
 
-
+No buffer space available.
 
 ### Syntax
 

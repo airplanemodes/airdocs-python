@@ -1,6 +1,6 @@
 # errno.ENOPROTOOPT
 
-
+Protocol not available.
 
 ### Syntax
 

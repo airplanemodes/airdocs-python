@@ -1,6 +1,6 @@
 # errno.EDESTADDRREQ
 
-
+Destination address required.
 
 ### Syntax
 

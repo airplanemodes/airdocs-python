@@ -1,6 +1,6 @@
 # errno.EPROTONOSUPPORT
 
-
+Protocol not supported.
 
 ### Syntax
 

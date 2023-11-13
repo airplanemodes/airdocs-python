@@ -1,6 +1,6 @@
 # errno.EMSGSIZE
 
-
+Message too long.
 
 ### Syntax
 
