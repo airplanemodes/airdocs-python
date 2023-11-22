@@ -177,7 +177,7 @@
 * [`execve()`](/modules/os/execve.md)
 * [`execvp()`](/modules/os/execvp.md)
 * [`execvpe()`](/modules/os/execvpe.md)
-* [`exit()`](/modules/os/exit.md)
+* [`_exit()`](/modules/os/_exit.md)
 * [`fork()`](/modules/os/fork.md)
 * [`forkpty()`](/modules/os/forkpty.md)
 * [`kill()`](/modules/os/kill.md)
@@ -206,6 +206,26 @@
 * [`wait3()`](/modules/os/wait3.md)
 * [`wait4()`](/modules/os/wait4.md)
 * [`waitstatus_to_exitcode()`](/modules/os/waitstatus_to_exitcode.md)
+
+- **Exit codes**
+
+* [`EX_OK`](/modules/os/EX_OK.md)
+* [`EX_USAGE`](/modules/os/EX_USAGE.md)
+* [`EX_DATAERR`](/modules/os/EX_DATAERR.md)
+* [`EX_NOINPUT`](/modules/os/EX_NOINPUT.md)
+* [`EX_NOUSER`](/modules/os/EX_NOUSER.md)
+* [`EX_NOHOST`](/modules/os/EX_NOHOST.md)
+* [`EX_UNAVAILABLE`](/modules/os/EX_UNAVAILABLE.md)
+* [`EX_SOFTWARE`](/modules/os/EX_SOFTWARE.md)
+* [`EX_OSERR`](/modules/os/EX_OSERR.md)
+* [`EX_OSFILE`](/modules/os/EX_OSFILE.md)
+* [`EX_CANTCREAT`](/modules/os/EX_CANTCREAT.md)
+* [`EX_IOERR`](/modules/os/EX_IOERR.md)
+* [`EX_TEMPFAIL`](/modules/os/EX_TEMPFAIL.md)
+* [`EX_PROTOCOL`](/modules/os/EX_PROTOCOL.md)
+* [`EX_NOPERM`](/modules/os/EX_NOPERM.md)
+* [`EX_CONFIG`](/modules/os/EX_CONFIG.md)
+* [`EX_NOTFOUND`](/modules/os/EX_NOTFOUND.md)
 
 - **Interface to scheduler**
 
