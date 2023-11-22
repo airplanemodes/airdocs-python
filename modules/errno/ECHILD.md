@@ -2,7 +2,7 @@
 
 No child processes.
 
-This error is mapped to the exception [`ChildProcessError`](../../exceptions/ChildProcessError.md).
+This error is mapped to the exception [`ChildProcessError`](/exceptions/ChildProcessError.md).
 
 ### Syntax
 

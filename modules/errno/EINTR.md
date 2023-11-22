@@ -2,7 +2,7 @@
 
 Interrupted system call.
 
-This error is mapped to the exception [`InterruptedError`](../../exceptions/InterruptedError.md).
+This error is mapped to the exception [`InterruptedError`](/exceptions/InterruptedError.md).
 
 ### Syntax
 

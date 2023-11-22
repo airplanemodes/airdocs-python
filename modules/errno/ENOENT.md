@@ -2,7 +2,7 @@
 
 No such file or directory.
 
-This error is mapped to the exception [`FileNotFoundError`](../../exceptions/FileNotFoundError.md).
+This error is mapped to the exception [`FileNotFoundError`](/exceptions/FileNotFoundError.md).
 
 ### Syntax
 

@@ -2,7 +2,7 @@
 
 Connection reset by peer.
 
-This error is mapped to the exception [`ConnectionResetError`](../../exceptions/ConnectionResetError.md).
+This error is mapped to the exception [`ConnectionResetError`](/exceptions/ConnectionResetError.md).
 
 ### Syntax
 

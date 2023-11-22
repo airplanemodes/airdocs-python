@@ -1,6 +1,6 @@
 # errno.EREMOTEIO
 
-
+Remote I/O error.
 
 ### Syntax
 

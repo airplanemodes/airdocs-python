@@ -2,7 +2,7 @@
 
 No such process.
 
-This error is mapped to the exception [`ProcessLookupError`](../../exceptions/ProcessLookupError.md).
+This error is mapped to the exception [`ProcessLookupError`](/exceptions/ProcessLookupError.md).
 
 ### Syntax
 

@@ -1,6 +1,6 @@
 # errno.EUCLEAN
 
-
+Structure needs cleaning.
 
 ### Syntax
 

@@ -1,6 +1,6 @@
 # errno.EQFULL
 
-
+Interface output queue is full.
 
 ### Syntax
 

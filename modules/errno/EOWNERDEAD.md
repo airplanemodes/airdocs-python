@@ -1,6 +1,6 @@
 # errno.EOWNERDEAD
 
-
+Owner died.
 
 ### Syntax
 

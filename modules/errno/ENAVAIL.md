@@ -1,6 +1,6 @@
 # errno.ENAVAIL
 
-
+No XENIX semaphores available.
 
 ### Syntax
 

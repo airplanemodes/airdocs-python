@@ -1,6 +1,6 @@
 # errno.EISNAM
 
-
+Is a named type file.
 
 ### Syntax
 

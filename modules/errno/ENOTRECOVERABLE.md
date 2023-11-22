@@ -1,6 +1,6 @@
 # errno.ENOTRECOVERABLE
 
-
+State not recoverable.
 
 ### Syntax
 

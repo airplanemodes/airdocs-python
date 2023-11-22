@@ -1,6 +1,6 @@
 # errno.EHOSTUNREACH
 
-
+No route to host.
 
 ### Syntax
 

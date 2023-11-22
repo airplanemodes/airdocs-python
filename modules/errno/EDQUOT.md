@@ -1,6 +1,6 @@
 # errno.EDQUOT
 
-
+Quota exceeded.
 
 ### Syntax
 

@@ -2,7 +2,7 @@
 
 Cannot send after transport endpoint shutdown.
 
-This error is mapped to the exception [`BrokenPipeError`](../../exceptions/BrokenPipeError.md).
+This error is mapped to the exception [`BrokenPipeError`](/exceptions/BrokenPipeError.md).
 
 ### Syntax
 
