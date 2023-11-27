@@ -1,10 +1,12 @@
 # format()
 
-Convert a value to a “formatted” representation, as controlled by **format_spec**. The interpretation of **format_spec** will depend on the type of the **value** argument; however, there is a standard formatting syntax that is used by most built-in types: Format Specification Mini-Language.
+Convert a value to a “formatted” representation, as controlled by **format_spec**. The interpretation of **format_spec** will depend on the type of the **value** argument.
 
 The default **format_spec** is an empty string which usually gives the same effect as calling `str(value)`.
 
 A call to `format(value, format_spec)` is translated to `type(value).__format__(value, format_spec)` which bypasses the instance dictionary when searching for the value’s `__format__()` method.
+
+!> A [`TypeError`](/exceptions/TypeError.md) exception is raised if the method search reaches object and the **format_spec** is non-empty, or if either the **format_spec** or the return value are not strings.
 
 ### Syntax
 
@@ -13,6 +15,27 @@ format(value, format_spec='')
 ```
 
 ### Examples
+
+Accessing arguments by position:
+
+```python
+>>> '{0}, {1}, {2}'.format('a', 'b', 'c')  # 'a, b, c'
+>>> '{}, {}, {}'.format('a', 'b', 'c')     # 'a, b, c'
+>>> '{2}, {1}, {0}'.format('a', 'b', 'c')  # 'c, b, a'
+>>> '{2}, {1}, {0}'.format(*'abc')         # 'c, b, a'
+>>> '{0}{1}{0}'.format('abra', 'cad')      # 'abracadabra'
+```
+
+Accessing arguments by name:
+
+```python
+>>> 'Coordinates: {latitude}, {longitude}'.format(latitude='37.24N', longitude='-115.81W')
+# 'Coordinates: 37.24N, -115.81W'
+
+>>> coord = {'latitude': '37.24N', 'longitude': '-115.81W'}
+>>> 'Coordinates: {latitude}, {longitude}'.format(**coord)
+# 'Coordinates: 37.24N, -115.81W'
+```
 
 Converting IPv4 address string into binary form using [`for`](/statements/for.md) and [`while`](/statements/while.md) loops:
 
@@ -25,7 +48,3 @@ for i in range(len(ip_binary)):
         ip_binary[i] = "0" + ip_binary[i]
 print(".".join(ip_binary)) # 11000000.10101000.00110111.00000001
 ```
-
----
-
-!> A `TypeError` exception is raised if the method search reaches object and the **format_spec** is non-empty, or if either the **format_spec** or the return value are not strings.
