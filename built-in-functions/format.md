@@ -16,27 +16,6 @@ format(value, format_spec='')
 
 ### Examples
 
-Accessing arguments by position:
-
-```python
->>> '{0}, {1}, {2}'.format('a', 'b', 'c')  # 'a, b, c'
->>> '{}, {}, {}'.format('a', 'b', 'c')     # 'a, b, c'
->>> '{2}, {1}, {0}'.format('a', 'b', 'c')  # 'c, b, a'
->>> '{2}, {1}, {0}'.format(*'abc')         # 'c, b, a'
->>> '{0}{1}{0}'.format('abra', 'cad')      # 'abracadabra'
-```
-
-Accessing arguments by name:
-
-```python
->>> 'Coordinates: {latitude}, {longitude}'.format(latitude='37.24N', longitude='-115.81W')
-# 'Coordinates: 37.24N, -115.81W'
-
->>> coord = {'latitude': '37.24N', 'longitude': '-115.81W'}
->>> 'Coordinates: {latitude}, {longitude}'.format(**coord)
-# 'Coordinates: 37.24N, -115.81W'
-```
-
 Converting IPv4 address string into binary form using [`for`](/statements/for.md) and [`while`](/statements/while.md) loops:
 
 ```python
