@@ -9,3 +9,9 @@ If the separator is not found, return a 3-tuple containing two empty strings, fo
 ```python
 str.rpartition(sep)
 ```
+
+### Examples
+
+```python
+>>> "hello".rpartition("l") # ('hel', 'l', 'o')
+```

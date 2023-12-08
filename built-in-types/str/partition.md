@@ -9,3 +9,9 @@ If the separator is not found, return a 3-tuple containing the string itself, fo
 ```python
 str.partition(sep)
 ```
+
+### Examples
+
+```python
+>>> "hello".partition("l") # ('he', 'l', 'lo')
+```
