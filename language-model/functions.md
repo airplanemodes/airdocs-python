@@ -1,7 +1,9 @@
 # Functions
 
 ## Definition
+
 A function that writes the Fibonacci series to an arbitrary boundary:
+
 ```python
 def fib(n):
     """Print a Fibonacci series up to n."""
@@ -23,18 +25,22 @@ The *execution* of a function introduces a new symbol table used for the local v
 The actual parameters (arguments) to a function call are introduced in the local symbol table of the called function when it is called. Thus, arguments are passed using call by value (where the value is always an object reference, not the value of the object). When a function calls another function, or calls itself recursively, a new local symbol table is created for that call.
 
 A function definition associates the function name with the function object in the current symbol table. The interpreter recognizes the object pointed to by that name as a user-defined function. Other names can also point to that same function object and can also be used to access the function:
+
 ```python
 >>> fib # <function fib at 10042ed0>
 >>> f = fib
 >>> f(100) # 0 1 1 2 3 5 8 13 21 34 55 89
 ```
+
 Coming from other languages, you might object that `fib` is not a function but a procedure since it doesn’t return a value. In fact, even functions without a [`return`](/statements/return.md) statement do return a value, albeit a rather boring one. This value is called `None` (it’s a built-in name). Writing the value `None` is normally suppressed by the interpreter if it would be the only value written. It may be seen by using [`print()`](/built-in-functions/print.md):
+
 ```python
 >>> fib(0)
 >>> print(fib(0)) # None
 ```
 
 It is simple to write a function that returns a list of the numbers of the Fibonacci series, instead of printing it:
+
 ```python
 def fib2(n):
     """Return a list containing the Fibonacci series up to n."""
@@ -50,7 +56,9 @@ f100                # write the result
 ```
 
 ## Arguments
+
 Argument is a value passed to a function (or method) when calling the function. There are two kinds of argument:
+
 - **keyword argument**: an argument preceded by an identifier (e.g. `name=`) in a function call or passed as a value in a dictionary preceded by `**`. For example, `3` and `5` are both keyword arguments in the following calls to `complex()`:
 ```python
 complex(real=3, imag=5)
@@ -64,14 +72,16 @@ complex(*(3, 5))
 
 Arguments are assigned to the named local variables in a function body. Syntactically, any expression can be used to represent an argument. The evaluated value is assigned to the local variable.
 
-# Lambdas
+## Lambdas
+
 Lambda expressions (sometimes called lambda forms) are used to create anonymous functions. The expression `lambda parameters: expression` yields a function object. The unnamed object behaves like a function object defined with:
+
 ```python
 def lambda(parameters):
     return expression
 ```
 
-# Special attributes
+## Special attributes
 
 ### `__doc__`
 The function’s documentation string, or `None` if unavailable. Not inherited by subclasses. Writable.
