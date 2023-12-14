@@ -5,6 +5,7 @@ These represent finite ordered sets indexed by non-negative numbers. The built-i
 ## Accessing
 
 This feature allows to select certain element of a sequence.
+
 - **i** is the index of an element.
 
 ### Syntax
@@ -18,27 +19,6 @@ sequence[i]
 ```python
 >>> currencies = ["USD", "EUR", "JPY", "CNY", "GBP"]
 >>> currencies[2] # 'JPY'
-```
-
-## Slicing
-
-Slice is an object usually containing a portion of a sequence. A slice is created using the subscript notation, `[]` with colons between numbers when several are given, such as in `variable_name[1:3:5]`. The bracket (subscript) notation uses slice objects internally.
-
-- **start** is the index of the first element to include.
-- **stop** is the index of the first element to exclude.
-- **step** is the interval between elements.
-
-### Syntax
-
-```python
-sequence[start:stop:step]
-```
-
-### Examples
-
-```python
-drinks = ["tea", "coffee", "beer", "cola", "juice"]
-print(drinks[0:2]) # ['tea', 'coffee']
 ```
 
 # Immutable sequences

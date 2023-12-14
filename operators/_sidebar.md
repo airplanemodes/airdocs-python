@@ -1,6 +1,13 @@
 - **Assignment**
+
 * [`=`](/operators/assignment.md)
+
+- **Slicing**
+
+* [`:`](/operators/slicing.md)
+
 - **Arithmetic**
+
 * [`+`](/operators/addition.md)
 * [`-`](/operators/subtraction.md)
 * [`*`](/operators/multiplication.md)
@@ -9,11 +16,15 @@
 * [`%`](/operators/remainder.md)
 * [`@`](/operators/matrixmulti.md)
 * [`**`](/operators/exponentiation.md)
+
 - **Boolean**
+
 * [`or`](/operators/or.md)
 * [`and`](/operators/and.md)
 * [`not`](/operators/not.md)
+
 - **Comparsion**
+
 * [`<`](/operators/lt.md)
 * [`<=`](/operators/ltorequal.md)
 * [`>`](/operators/gt.md)
@@ -22,10 +33,14 @@
 * [`!=`](/operators/notequal.md)
 * [`is`](/operators/is.md)
 * [`is not`](/operators/isnot.md)
+
 - **Membership**
+
 * [`in`](/operators/in.md)
 * [`not in`](/operators/notin.md)
+
 - **Bitwise**
+
 * [`|`](/operators/bwor.md)
 * [`^`](/operators/bwexor.md)
 * [`&`](/operators/bwand.md)

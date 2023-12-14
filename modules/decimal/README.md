@@ -12,7 +12,7 @@ The `decimal` module provides support for fast correctly rounded decimal floatin
 * The decimal module incorporates a notion of significant places so that `1.30 + 1.20` is `2.50`. The trailing zero is kept to indicate significance. This is the customary presentation for monetary applications. For multiplication, the “schoolbook” approach uses all the figures in the multiplicands. For instance, `1.3 * 1.2` gives `1.56` while `1.30 * 1.20` gives `1.5600`.
 * Unlike hardware based binary floating point, the decimal module has a user alterable precision (defaulting to 28 places) which can be as large as needed for a given problem:
 ```python
-from decimal import *
+>>> from decimal import *
 >>> getcontext().prec = 6
 >>> Decimal(1) / Decimal(7) # Decimal('0.142857')
 >>> getcontext().prec = 28
