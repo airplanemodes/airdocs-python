@@ -1,46 +1,44 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>Document</title>
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="Description">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <!-- <link rel="stylesheet" href="dark.css"> -->
-  <link rel="stylesheet" href="theme-simple-dark.css">
+    <meta charset="UTF-8">
+    <title>Airdocs Python</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="description" content="Description">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <!-- <link rel="stylesheet" href="dark.css"> -->
+    <link rel="stylesheet" href="theme-simple-dark.css">
 </head>
 <body>
-  <div id="app"></div>
-  <script>
-    window.$docsify = {
-      name: 'Airdocs Python',
-      repo: 'https://github.com/airplanemodes/airdocs-python',
-      loadSidebar: true,
-      subMaxLevel: 2,
-      search: true,
-      plugins: [
-        function pageFooter(hook, vm) {
-            var footer = [
-                '<hr/>',
-                '<footer style="text-align: right; font-size: 8px">',
-                '<span">Copyright © 2023 Roy Alman</span>',
-                '<br>',
-                '<span">Copyright © 2001-2023 Python Software Foundation</span>',
-                '</footer>',
-            ].join('');
+    <div id="app"></div>
+    <script>
+        window.$docsify = {
+            name: 'Airdocs Python',
+            repo: 'https://github.com/airplanemodes/airdocs-python',
+            loadSidebar: true,
+            subMaxLevel: 2,
+            search: true,
+            plugins: [
+                function pageFooter(hook, vm) {
+                    var footer = [
+                        '<hr/>',
+                        '<footer style="text-align: right; font-size: 8px">',
+                        '<span">Copyright © 2023 Roy Alman</span>',
+                        '<br>',
+                        '<span">Copyright © 2001-2023 Python Software Foundation</span>',
+                        '</footer>',
+                    ].join('');
 
-            hook.afterEach((html) => {
-                return html + footer;
-            });
+                    hook.afterEach(html => html + footer);
+                }
+            ],
         }
-      ],
-    }
-  </script>
-  <!-- Docsify v4.13.1 + Search plugin -->
-  <script src="docsify.js"></script>
-  <script src="search.js"></script>
-  <!-- Prism (modified versions) -->
-  <script src="prism-python.js"></script>
-  <script src="prism-bash.js"></script>
+    </script>
+    <!-- Docsify v4.13.1 + Search plugin -->
+    <script src="docsify.js"></script>
+    <script src="search.js"></script>
+    <!-- Prism (modified versions) -->
+    <script src="prism-python.js"></script>
+    <script src="prism-bash.js"></script>
 </body>
 </html>

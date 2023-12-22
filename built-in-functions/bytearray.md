@@ -1,6 +1,6 @@
 # bytearray()
 
-Return a new array of bytes. The [`bytearray`](/built-in-types/bytearray.md) class is a mutable sequence of integers in the range `0 <= x < 256`. It has most of the usual methods of mutable sequences, described in [Sequences](/language-model/sequences.md), as well as most methods that the [`bytes`](/built-in-types/bytes.md) type has.
+Return a new array of bytes. The [`bytearray`](/built-in-types/bytearray.md) class is a mutable sequence of integers in the range `0 <= x < 256`. It has most of the usual methods of mutable sequences, described in [Sequences](/abstraction/sequences.md), as well as most methods that the [`bytes`](/built-in-types/bytes.md) type has.
 
 The optional **source** parameter can be used to initialize the array in a few different ways:
 

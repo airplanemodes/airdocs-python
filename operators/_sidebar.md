@@ -12,7 +12,7 @@
 * [`-`](/operators/subtraction.md)
 * [`*`](/operators/multiplication.md)
 * [`/`](/operators/division.md)
-* [`//`](/operators/floordivision.md)
+* [`//`](/operators/fdivision.md)
 * [`%`](/operators/remainder.md)
 * [`@`](/operators/matrixmulti.md)
 * [`**`](/operators/exponentiation.md)

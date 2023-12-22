@@ -55,7 +55,7 @@ f100 = fib2(100)    # call it
 f100                # write the result
 ```
 
-## Arguments
+### Arguments
 
 Argument is a value passed to a function (or method) when calling the function. There are two kinds of argument:
 
@@ -72,7 +72,7 @@ complex(*(3, 5))
 
 Arguments are assigned to the named local variables in a function body. Syntactically, any expression can be used to represent an argument. The evaluated value is assigned to the local variable.
 
-## Lambdas
+### Lambdas
 
 Lambda expressions (sometimes called lambda forms) are used to create anonymous functions. The expression `lambda parameters: expression` yields a function object. The unnamed object behaves like a function object defined with:
 
@@ -81,43 +81,13 @@ def lambda(parameters):
     return expression
 ```
 
-## Special attributes
-
-### `__doc__`
-The function’s documentation string, or `None` if unavailable. Not inherited by subclasses. Writable.
-```python
-print(int().__doc__)
-```
-
-### `__name__`
-The function’s name. Writable.
-
-### `__qualname__`
-The function’s qualified name. Writable.
-
-### `__module__`
-The name of the module the function was defined in, or `None` if unavailable. Writable.
-
-### `__defaults__`
-A tuple containing default argument values for those arguments that have defaults, or `None` if no arguments have a default value. Writable.
-
-### `__code__`
-The code object representing the compiled function body. Writable.
+### Special attributes
 
 ### `__globals__`
 A reference to the dictionary that holds the function’s global variables — the global namespace of the module in which the function was defined. Read-only.
 
-### `__dict__`
-The namespace supporting arbitrary function attributes. Writable.
-
 ### `__closure__`
 `None` or a tuple of cells that contain bindings for the function’s free variables. See below for information on the `cell_contents` attribute. Read-only.
-
-### `__annotations__`
-A dict containing annotations of parameters. The keys of the dict are the parameter names, and `'return'` for the return annotation, if provided. Writable.
-
-### `__kwdefaults__`
-A dict containing defaults for keyword-only parameters. Writable.
 
 ?> Most of the attributes labelled “Writable” check the type of the assigned value.
 

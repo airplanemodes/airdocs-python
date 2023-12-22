@@ -1,5 +1,0 @@
-* [Objects](/language-model/objects.md)
-* [Classes](/language-model/classes.md)
-* [Functions](/language-model/functions.md)
-* [Sequences](/language-model/sequences.md)
-* [Mappings](/language-model/mappings.md)

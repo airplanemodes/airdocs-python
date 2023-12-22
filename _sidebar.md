@@ -1,5 +1,5 @@
 * [Introduction](/)
-* [Language model](/language-model/)
+* [Language model](/abstraction/)
 * [Operators](/operators/)
 * [Built-in types](/built-in-types/)
 * [Built-in functions](/built-in-functions/)
