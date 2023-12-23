@@ -1,4 +1,4 @@
-# Sequences
+# `iterable`
 
 These represent finite ordered sets indexed by non-negative numbers.
 
@@ -23,7 +23,7 @@ sequence[i]
 >>> currencies[2] # 'JPY'
 ```
 
-# Immutable sequences
+### Immutable sequences
 
 The only operation that immutable sequence types generally implement that is not also implemented by mutable sequence types is support for the [`hash()`](/built-in-functions/hash.md) built-in.
 
@@ -31,7 +31,7 @@ This support allows immutable sequences, such as [`tuple`](/built-in-types/tuple
 
 Attempting to hash an immutable sequence that contains unhashable values will result in [`TypeError`](/exceptions/TypeError.md).
 
-# Mappings
+### Mappings
 
 A mapping object maps hashable values to arbitrary objects. Mappings are mutable objects. There is currently only one standard mapping type, the dictionary.
 
