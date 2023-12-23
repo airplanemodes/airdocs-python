@@ -13,6 +13,6 @@ list.index(x, i, j)
 ### Example
 
 ```python
-numbers = [1, 2, 3]
-numbers.index(2) # 1
+>>> letters = ["a", "b", "c"]
+>>> letters.index("b") # 1
 ```
