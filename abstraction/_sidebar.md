@@ -1,4 +1,4 @@
-* [`object`](/abstraction/objects/)
-* [`class`](/abstraction/classes.md)
-* [`function`](/abstraction/functions.md)
-* [`iterable`](/abstraction/sequences.md)
+* [`object`](/abstraction/object/)
+* [`class`](/abstraction/class/)
+* [`function`](/abstraction/function/)
+* [`iterable`](/abstraction/iterable/)

@@ -1,6 +1,6 @@
-# Functions
+# `function`
 
-## Definition
+### Definition
 
 A function that writes the Fibonacci series to an arbitrary boundary:
 

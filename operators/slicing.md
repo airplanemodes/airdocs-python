@@ -1,4 +1,4 @@
-# :
+# Slicing
 
 Slice is an object usually containing a portion of a sequence. A slice is created using the subscript notation, `[]` with colons between numbers when several are given, such as in `variable_name[1:3:5]`. The bracket (subscript) notation uses slice objects internally.
 

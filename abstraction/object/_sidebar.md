@@ -25,4 +25,4 @@
 * [`__kwdefaults__`](/abstraction/objects/__kwdefaults__.md)
 * [`__type_params__`](/abstraction/objects/__type_params__.md)
 
-[**back to modules**](/modules/)
+[**back to abstraction**](/abstraction/)

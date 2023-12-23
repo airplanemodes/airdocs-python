@@ -1,8 +1,10 @@
 # Sequences
 
-These represent finite ordered sets indexed by non-negative numbers. The built-in function [`len()`](/built-in-functions/len.md) returns the number of items of a sequence. When the length of a sequence is **n**, the index set contains the numbers 0, 1, ..., **n**-1.
+These represent finite ordered sets indexed by non-negative numbers.
 
-## Accessing
+The built-in function [`len()`](/built-in-functions/len.md) returns the number of items in a sequence. When the length of a sequence is **n**, the index set contains the numbers 0, 1, ..., **n**-1.
+
+### Accessing
 
 This feature allows to select certain element of a sequence.
 
