@@ -1,10 +1,18 @@
 # itertools.filterfalse()
 
-Make an iterator that filters elements from iterable returning only those for which the **predicate** is false.
+Make an iterator that filters elements from **iterable** returning only those for which the **predicate** is false.
 
 If **predicate** is `None`, return the items that are false.
 
-Roughly equivalent to:
+### Syntax
+
+```python
+itertools.filterfalse(predicate, iterable)
+```
+
+### Examples
+
+`filterfalse()` is roughly equivalent to:
 
 ```python
 def filterfalse(predicate, iterable):
@@ -14,10 +22,4 @@ def filterfalse(predicate, iterable):
     for x in iterable:
         if not predicate(x):
             yield x
-```
-
-### Syntax
-
-```python
-itertools.filterfalse(predicate, iterable)
 ```

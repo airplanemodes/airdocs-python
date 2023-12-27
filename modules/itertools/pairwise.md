@@ -1,10 +1,18 @@
 # itertools.pairwise()
 
-Return successive overlapping pairs taken from the input iterable.
+Return successive overlapping pairs taken from the **iterable**.
 
-The number of 2-tuples in the output iterator will be one fewer than the number of inputs. It will be empty if the input iterable has fewer than two values.
+The number of 2-tuples in the output iterator will be one fewer than the number of inputs. It will be empty if the **iterable** has fewer than two values.
 
-Roughly equivalent to:
+### Syntax
+
+```python
+itertools.pairwise(iterable)
+```
+
+### Examples
+
+`pairwise()` is roughly equivalent to:
 
 ```python
 def pairwise(iterable):
@@ -12,10 +20,4 @@ def pairwise(iterable):
     a, b = tee(iterable)
     next(b, None)
     return zip(a, b)
-```
-
-### Syntax
-
-```python
-itertools.pairwise(iterable)
 ```

@@ -1,6 +1,6 @@
 # def
 
-A `def` definition defines a user-defined function object.
+Defines a user-defined function object.
 
 A function definition is an executable statement. Its execution binds the function name in the current local namespace to a function object (a wrapper around the executable code for the function). This function object contains a reference to the current global namespace as the global namespace to be used when the function is called.
 
@@ -15,7 +15,7 @@ def name(parameters):
 
 ### Examples
 
-When one or more parameters have the form `parameter = expression`, the function is said to have “default parameter values.” For a parameter with a default value, the corresponding **argument** may be omitted from a call, in which case the parameter’s default value is substituted. If a parameter has a default value, all following parameters up until the “`*`” must also have a default value — this is a syntactic restriction that is not expressed by the grammar.
+When one or more parameters have the form `parameter = expression`, the function is said to have “default parameter values”. For a parameter with a default value, the corresponding **argument** may be omitted from a call, in which case the parameter’s default value is substituted. If a parameter has a default value, all following parameters up until the “`*`” must also have a default value — this is a syntactic restriction that is not expressed by the grammar.
 
 ```python
 # With two parameters and a default value
