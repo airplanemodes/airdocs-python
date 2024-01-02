@@ -8,6 +8,6 @@ If this option is given, the first element of [`sys.argv`](/modules/sys/argv.md)
 
 ### Syntax
 
-```bash
+```shell
 $ python3 -c command
 ```

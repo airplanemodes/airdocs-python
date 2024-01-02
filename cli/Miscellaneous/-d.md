@@ -4,6 +4,6 @@ Turn on parser debugging output (for expert only, depending on compilation optio
 
 ### Syntax
 
-```bash
+```shell
 $ python3 -d
 ```

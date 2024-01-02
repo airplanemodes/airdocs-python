@@ -18,6 +18,6 @@ It also allows passing arbitrary values and retrieving them through the [`sys._x
 
 ### Syntax
 
-```bash
+```shell
 $ python3 -X option
 ```

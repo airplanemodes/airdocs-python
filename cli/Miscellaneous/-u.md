@@ -6,6 +6,6 @@ Force the stdout and stderr streams to be unbuffered. This option has no effect 
 
 ### Syntax
 
-```bash
+```shell
 $ python3 -u
 ```

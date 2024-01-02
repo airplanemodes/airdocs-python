@@ -10,7 +10,7 @@ The semantics of timestamp-based `.pyc` files are unaffected by this option.
 
 ### Syntax
 
-```bash
+```shell
 $ python3 --check-hash-based-pycs default
 $ python3 --check-hash-based-pycs always
 $ python3 --check-hash-based-pycs never

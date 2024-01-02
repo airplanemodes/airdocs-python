@@ -4,6 +4,6 @@ Reserved for use by Jython.
 
 ### Syntax
 
-```bash
+```shell
 $ python3 -J
 ```

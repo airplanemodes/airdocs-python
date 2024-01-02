@@ -6,6 +6,6 @@ This is intended for a DOS specific hack only.
 
 ### Syntax
 
-```bash
+```shell
 $ python3 -x
 ```

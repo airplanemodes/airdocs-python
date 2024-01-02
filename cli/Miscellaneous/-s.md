@@ -4,6 +4,6 @@ Don’t add the `user site-packages directory` to [`sys.path`](/modules/sys/path
 
 ### Syntax
 
-```bash
+```shell
 $ python3 -s
 ```

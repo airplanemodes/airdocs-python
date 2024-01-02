@@ -4,6 +4,6 @@ Print complete usage information and exit.
 
 ### Syntax
 
-```bash
+```shell
 $ python3 --help-all
 ```

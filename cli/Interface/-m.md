@@ -14,7 +14,7 @@ If this option is given, the first element of [`sys.argv`](/modules/sys/argv.md)
 
 ### Syntax
 
-```bash
+```shell
 $ python3 -m module
 ```
 
@@ -22,7 +22,7 @@ $ python3 -m module
 
 Many standard library modules contain code that is invoked on their execution as a script. An example is the timeit module:
 
-```bash
+```shell
 $ python3 -m timeit -s 'setup here' 'benchmarked code here'
 $ python3 -m timeit -h # for details
 ```

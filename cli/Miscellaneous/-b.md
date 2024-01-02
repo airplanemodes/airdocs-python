@@ -6,7 +6,7 @@ Issue an error when the option is given twice (`-bb`).
 
 ### Syntax
 
-```bash
+```shell
 $ python3 -b
 $ python3 -bb
 ```

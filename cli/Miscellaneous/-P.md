@@ -10,6 +10,6 @@ Don’t prepend a potentially unsafe path to [`sys.path`](/modules/sys/path.md):
 
 ### Syntax
 
-```bash
+```shell
 $ python3 -P
 ```

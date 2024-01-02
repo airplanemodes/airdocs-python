@@ -4,7 +4,7 @@ Warning control. Python’s warning machinery by default prints warning messages
 
 The simplest settings apply a particular action unconditionally to all warnings emitted by a process (even those that are otherwise ignored by default):
 
-```bash
+```shell
 $ python3 -Wdefault  # Warn once per call location
 $ python3 -Werror    # Convert to exceptions
 $ python3 -Walways   # Warn every time
@@ -35,6 +35,6 @@ Warnings can also be controlled using the [`PYTHONWARNINGS`](/cli/Environment/PY
 
 ### Syntax
 
-```bash
+```shell
 $ python3 -W
 ```

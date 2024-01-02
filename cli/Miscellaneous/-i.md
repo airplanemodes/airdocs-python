@@ -6,6 +6,6 @@ When a script is passed as first argument or the [`-c`](/cli/Interface/-c.md) op
 
 ### Syntax
 
-```bash
+```shell
 $ python3 -i
 ```

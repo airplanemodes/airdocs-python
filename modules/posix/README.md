@@ -21,7 +21,7 @@ CFLAGS="`getconf LFS_CFLAGS`" OPT="-g -O2 $CFLAGS" \
 
 On large-file-capable Linux systems, this might work:
 
-```bash
+```shell
 CFLAGS='-D_LARGEFILE64_SOURCE -D_FILE_OFFSET_BITS=64' OPT="-g -O2 $CFLAGS" \
         ./configure
 ```

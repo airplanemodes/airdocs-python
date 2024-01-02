@@ -4,7 +4,7 @@ Print a short description of all command line options and corresponding environm
 
 ### Syntax
 
-```bash
+```shell
 $ python3 --help
 $ python3 -h
 ```

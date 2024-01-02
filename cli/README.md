@@ -8,6 +8,6 @@ $ python3 [-bBdEhiIOqsSuvVWx?] [-c command | -m module-name | script | - ] [args
 
 The most common use case is, of course, a simple invocation of a script:
 
-```bash
+```shell
 $ python3 myscript.py
 ```

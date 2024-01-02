@@ -8,7 +8,7 @@ When given twice (`-vv`), print a message for each file that is checked for when
 
 ### Syntax
 
-```bash
+```shell
 $ python3 -v
 $ python3 -vv
 ```

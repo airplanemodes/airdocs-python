@@ -8,13 +8,13 @@ An awesome project with simple navigation.
 
 For viewing the website locally first install `docsify`:
 
-```bash
+```shell
 npm i docsify-cli -g
 ```
 
 Then:
 
-```bash
+```shell
 git clone https://github.com/airplanemodes/airdocs-python
 cd airdocs-python
 docsify serve

@@ -4,6 +4,6 @@ Don’t display the copyright and version messages even in interactive mode.
 
 ### Syntax
 
-```bash
+```shell
 $ python3 -q
 ```

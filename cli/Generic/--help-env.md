@@ -4,6 +4,6 @@ Print a short description of Python-specific environment variables and exit.
 
 ### Syntax
 
-```bash
+```shell
 $ python3 --help-env
 ```

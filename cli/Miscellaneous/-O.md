@@ -4,6 +4,6 @@ Remove assert statements and any code conditional on the value of `__debug__`. A
 
 ### Syntax
 
-```bash
+```shell
 $ python3 -O
 ```

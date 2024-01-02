@@ -4,6 +4,6 @@ Disable the import of the module [`site`](/modules/site/) and the site-dependent
 
 ### Syntax
 
-```bash
+```shell
 $ python3 -S
 ```
