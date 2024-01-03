@@ -1,0 +1,55 @@
+[**`>>> import time`**](/modules/time/)
+
+- **Methods**
+
+* [`asctime()`](/modules/time/asctime.md)
+* [`pthread_getcpuclockid()`](/modules/time/pthread_getcpuclockid.md)
+* [`clock_getres()`](/modules/time/clock_getres.md)
+* [`clock_gettime()`](/modules/time/clock_gettime.md)
+* [`clock_gettime_ns()`](/modules/time/clock_gettime_ns.md)
+* [`clock_settime()`](/modules/time/clock_settime.md)
+* [`clock_settime_ns()`](/modules/time/clock_settime_ns.md)
+* [`ctime()`](/modules/time/ctime.md)
+* [`get_clock_info()`](/modules/time/get_clock_info.md)
+* [`gmtime()`](/modules/time/gmtime.md)
+* [`localtime()`](/modules/time/localtime.md)
+* [`mktime()`](/modules/time/mktime.md)
+* [`monotonic()`](/modules/time/monotonic.md)
+* [`monotonic_ns()`](/modules/time/monotonic_ns.md)
+* [`perf_counter()`](/modules/time/perf_counter.md)
+* [`perf_counter_ns()`](/modules/time/perf_counter_ns.md)
+* [`process_time()`](/modules/time/process_time.md)
+* [`process_time_ns()`](/modules/time/process_time_ns.md)
+* [`sleep()`](/modules/time/sleep.md)
+* [`strftime()`](/modules/time/strftime.md)
+* [`strptime()`](/modules/time/strptime.md)
+* [`struct_time()`](/modules/time/struct_time.md)
+* [`time()`](/modules/time/time.md)
+* [`time_ns()`](/modules/time/time_ns.md)
+* [`thread_time()`](/modules/time/thread_time.md)
+* [`thread_time_ns()`](/modules/time/thread_time_ns.md)
+* [`tzset()`](/modules/time/tzset.md)
+
+- **Constants**
+
+* [`CLOCK_BOOTIME`](/modules/time/CLOCK_BOOTIME.md)
+* [`CLOCK_HIGHRES`](/modules/time/CLOCK_HIGHRES.md)
+* [`CLOCK_MONOTONIC`](/modules/time/CLOCK_MONOTONIC.md)
+* [`CLOCK_MONOTONIC_RAW`](/modules/time/CLOCK_MONOTONIC_RAW.md)
+* [`CLOCK_PROCESS_CPUTIME_ID`](/modules/time/CLOCK_PROCESS_CPUTIME_ID.md)
+* [`CLOCK_PROF`](/modules/time/CLOCK_PROF.md)
+* [`CLOCK_TAI`](/modules/time/CLOCK_TAI.md)
+* [`CLOCK_REALTIME`](/modules/time/CLOCK_REALTIME.md)
+* [`CLOCK_THREAD_CPUTIME_ID`](/modules/time/CLOCK_THREAD_CPUTIME_ID.md)
+* [`CLOCK_UPTIME`](/modules/time/CLOCK_UPTIME.md)
+* [`CLOCK_UPTIME_RAW`](/modules/time/CLOCK_UPTIME_RAW.md)
+* [`CLOCK_REALTIME`](/modules/time/CLOCK_REALTIME.md)
+
+- **Timezone constants**
+
+* [`altzone`](/modules/time/altzone.md)
+* [`daylight`](/modules/time/daylight.md)
+* [`timezone`](/modules/time/timezone.md)
+* [`tzname`](/modules/time/tzname.md)
+
+[**back to modules**](/modules/)
