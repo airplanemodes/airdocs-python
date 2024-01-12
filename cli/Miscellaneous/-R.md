@@ -13,5 +13,5 @@ Hash randomization is intended to provide protection against a denial-of-service
 ### Syntax
 
 ```shell
-$ python3 -R
+python3 -R
 ```

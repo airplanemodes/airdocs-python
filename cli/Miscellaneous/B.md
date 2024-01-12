@@ -5,5 +5,5 @@ If given, Python won’t try to write `.pyc` files on the import of source modul
 ### Syntax
 
 ```shell
-$ python3 -B
+python3 -B
 ```

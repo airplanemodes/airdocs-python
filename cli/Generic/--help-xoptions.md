@@ -5,5 +5,5 @@ Print a description of implementation-specific [`-X`](/cli/Miscellaneous/X.md) o
 ### Syntax
 
 ```shell
-$ python3 --help-xoptions
+python3 --help-xoptions
 ```

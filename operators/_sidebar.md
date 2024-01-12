@@ -14,7 +14,6 @@
 * [`/`](/operators/division.md)
 * [`//`](/operators/fdivision.md)
 * [`%`](/operators/remainder.md)
-* [`@`](/operators/matrixmulti.md)
 * [`**`](/operators/exponentiation.md)
 
 - **Boolean**

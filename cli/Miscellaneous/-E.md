@@ -5,5 +5,5 @@ Ignore all `PYTHON*` environment variables, e.g. [`PYTHONPATH`](/cli/Environment
 ### Syntax
 
 ```shell
-$ python3 -E
+python3 -E
 ```

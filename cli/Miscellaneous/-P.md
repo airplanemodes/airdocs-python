@@ -11,5 +11,5 @@ Don’t prepend a potentially unsafe path to [`sys.path`](/modules/sys/path.md):
 ### Syntax
 
 ```shell
-$ python3 -P
+python3 -P
 ```

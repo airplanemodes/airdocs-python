@@ -15,5 +15,5 @@ If no interface option is given, [`-i`](/cli/Miscellaneous/-i.md) is implied, `s
 ### Syntax
 
 ```shell
-$ python3 script
+python3 script
 ```

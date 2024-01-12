@@ -9,6 +9,6 @@ When given twice (`-vv`), print a message for each file that is checked for when
 ### Syntax
 
 ```shell
-$ python3 -v
-$ python3 -vv
+python3 -v
+python3 -vv
 ```

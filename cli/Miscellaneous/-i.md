@@ -7,5 +7,5 @@ When a script is passed as first argument or the [`-c`](/cli/Interface/-c.md) op
 ### Syntax
 
 ```shell
-$ python3 -i
+python3 -i
 ```

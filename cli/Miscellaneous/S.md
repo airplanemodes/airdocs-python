@@ -5,5 +5,5 @@ Disable the import of the module [`site`](/modules/site/) and the site-dependent
 ### Syntax
 
 ```shell
-$ python3 -S
+python3 -S
 ```

@@ -4,7 +4,7 @@
 
 A string is lowercase if all cased characters in the string are lowercase and there is at least one cased character in the string.
 
-?> Cased characters are those with general category property being one of “Lu” (Letter, uppercase), “Ll” (Letter, lowercase), or “Lt” (Letter, titlecase).
+?> The lowercasing algorithm used is described in section 3.13 ‘Default Case Folding’ of the [Unicode Standard](https://www.unicode.org/versions/Unicode15.0.0/ch03.pdf).
 
 ### Syntax
 

@@ -5,5 +5,5 @@ Don’t add the `user site-packages directory` to [`sys.path`](/modules/sys/path
 ### Syntax
 
 ```shell
-$ python3 -s
+python3 -s
 ```

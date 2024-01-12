@@ -5,12 +5,12 @@ Warning control. Python’s warning machinery by default prints warning messages
 The simplest settings apply a particular action unconditionally to all warnings emitted by a process (even those that are otherwise ignored by default):
 
 ```shell
-$ python3 -Wdefault  # Warn once per call location
-$ python3 -Werror    # Convert to exceptions
-$ python3 -Walways   # Warn every time
-$ python3 -Wmodule   # Warn once per calling module
-$ python3 -Wonce     # Warn once per Python process
-$ python3 -Wignore   # Never warn
+python3 -Wdefault  # Warn once per call location
+python3 -Werror    # Convert to exceptions
+python3 -Walways   # Warn every time
+python3 -Wmodule   # Warn once per calling module
+python3 -Wonce     # Warn once per Python process
+python3 -Wignore   # Never warn
 ```
 
 The action names can be abbreviated as desired and the interpreter will resolve them to the appropriate action name. For example, `-Wi` is the same as `-Wignore`.
@@ -36,5 +36,5 @@ Warnings can also be controlled using the [`PYTHONWARNINGS`](/cli/Environment/PY
 ### Syntax
 
 ```shell
-$ python3 -W
+python3 -W
 ```

@@ -7,5 +7,5 @@ In isolated mode sys.path contains neither the script’s directory nor the user
 ### Syntax
 
 ```shell
-$ python3 -I
+python3 -I
 ```

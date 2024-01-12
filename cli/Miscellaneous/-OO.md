@@ -5,5 +5,5 @@ Do [`-O`](/cli/Miscellaneous/-O.md) and also discard docstrings. Augment the fil
 ### Syntax
 
 ```shell
-$ python3 -OO
+python3 -OO
 ```

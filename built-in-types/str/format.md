@@ -1,6 +1,10 @@
 # str.format()
 
-Perform a string formatting operation. The string on which this method is called can contain literal text or replacement fields delimited by braces `{}`. Each replacement field contains either the numeric index of a positional argument, or the name of a keyword argument. Returns a copy of the string where each replacement field is replaced with the string value of the corresponding argument.
+Perform a string formatting operation.
+
+The string on which this method is called can contain literal text or replacement fields delimited by braces `{}`. Each replacement field contains either the numeric index of a positional argument, or the name of a keyword argument.
+
+Returns a copy of the string where each replacement field is replaced with the string value of the corresponding argument.
 
 ### Syntax
 
@@ -25,7 +29,6 @@ Accessing arguments by name:
 ```python
 >>> 'Coordinates: {latitude}, {longitude}'.format(latitude='37.24N', longitude='-115.81W')
 # 'Coordinates: 37.24N, -115.81W'
-
 >>> coord = {'latitude': '37.24N', 'longitude': '-115.81W'}
 >>> 'Coordinates: {latitude}, {longitude}'.format(**coord)
 # 'Coordinates: 37.24N, -115.81W'
@@ -34,9 +37,8 @@ Accessing arguments by name:
 Accessing arguments’ items:
 
 ```python
->>> coord = (3, 5)
->>> 'X: {0[0]};  Y: {0[1]}'.format(coord)
-# 'X: 3;  Y: 5'
+>>> coord = (5, 7)
+>>> 'X: {0[0]},  Y: {0[1]}'.format(coord) # 'X: 5,  Y: 7'
 ```
 
 Expression:
@@ -44,6 +46,6 @@ Expression:
 ```python
 x = 10
 y = 20
-sumstr = "The sum of x and y is {0}".format(x+y)
-print(sumstr) # The sum of x and y is 30
+result = "The sum of x and y is {0}".format(x+y)
+print(result) # The sum of x and y is 30
 ```

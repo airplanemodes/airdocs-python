@@ -5,7 +5,7 @@ Print the Python version number and exit. When given twice (`-VV`), print more i
 ### Syntax
 
 ```shell
-$ python3 --version
-$ python3 --V
-$ python3 --VV
+python3 --version
+python3 --V
+python3 --VV
 ```

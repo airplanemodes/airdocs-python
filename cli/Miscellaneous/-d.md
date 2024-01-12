@@ -5,5 +5,5 @@ Turn on parser debugging output (for expert only, depending on compilation optio
 ### Syntax
 
 ```shell
-$ python3 -d
+python3 -d
 ```

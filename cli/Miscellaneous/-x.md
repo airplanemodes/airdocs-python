@@ -7,5 +7,5 @@ This is intended for a DOS specific hack only.
 ### Syntax
 
 ```shell
-$ python3 -x
+python3 -x
 ```

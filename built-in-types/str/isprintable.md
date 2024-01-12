@@ -4,7 +4,7 @@ Return `True` if all characters in the string are printable or the string is emp
 
 Nonprintable characters are those characters defined in the Unicode character database as “Other” or “Separator”, excepting the ASCII space (0x20) which is considered printable. 
 
-?> Note that printable characters in this context are those which should not be escaped when [`repr()`](/built-in-functions/repr.md) is invoked on a string. It has no bearing on the handling of strings written to `sys.stdout` or `sys.stderr`.
+?> Note that printable characters in this context are those which should not be escaped when [`repr()`](/built-in-functions/repr.md) is invoked on a string. It has no bearing on the handling of strings written to [`sys.stdout`](/modules/sys/stdout.md) or [`sys.stderr`](/modules/sys/stderr.md).
 
 ### Syntax
 

@@ -1,4 +1,4 @@
-[**<class 'object'>**](/abstraction/objects/)
+[**<class 'object'>**](/abstraction/object/)
 
 - **Special methods**
 

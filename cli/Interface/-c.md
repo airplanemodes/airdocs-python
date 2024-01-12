@@ -9,5 +9,5 @@ If this option is given, the first element of [`sys.argv`](/modules/sys/argv.md)
 ### Syntax
 
 ```shell
-$ python3 -c command
+python3 -c command
 ```

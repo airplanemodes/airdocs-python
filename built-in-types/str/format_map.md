@@ -1,6 +1,6 @@
 # str.format_map()
 
-Similar to `str.format(**mapping)`, except that `mapping` is used directly and not copied to a dict. This is useful if for example `mapping` is a [`dict`](/built-in-types/dict/) subclass.
+Similar to `str.format(**mapping)`, except that `mapping` is used directly and not copied to a dict.
 
 ### Syntax
 
