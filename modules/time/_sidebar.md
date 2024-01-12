@@ -32,7 +32,7 @@
 
 - **Constants**
 
-* [`CLOCK_BOOTIME`](/modules/time/CLOCK_BOOTIME.md)
+* [`CLOCK_BOOTTIME`](/modules/time/CLOCK_BOOTTIME.md)
 * [`CLOCK_HIGHRES`](/modules/time/CLOCK_HIGHRES.md)
 * [`CLOCK_MONOTONIC`](/modules/time/CLOCK_MONOTONIC.md)
 * [`CLOCK_MONOTONIC_RAW`](/modules/time/CLOCK_MONOTONIC_RAW.md)

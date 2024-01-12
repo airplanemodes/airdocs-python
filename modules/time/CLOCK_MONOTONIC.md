@@ -1,7 +1,7 @@
-# time.CLOCK_MONOTONIC()
+# time.CLOCK_MONOTONIC
 
 ### Syntax
 
 ```python
-time.CLOCK_MONOTONIC()
+time.CLOCK_MONOTONIC
 ```
