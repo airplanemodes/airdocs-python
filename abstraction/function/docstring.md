@@ -1,5 +1,7 @@
 # Docstring
 
+> [**PEP 257**](https://peps.python.org/pep-0257/) - docstring conventions.
+
 The first statement of the function body can optionally be a string literal. This string literal is the function’s *documentation string*, or **docstring**. There are tools which use docstrings to automatically produce online or printed documentation, or to let the user interactively browse through code.
 
 ```python

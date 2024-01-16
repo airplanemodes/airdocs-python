@@ -9,7 +9,6 @@ Arithmetic operators:
 - `/` division
 - `//` floor division
 - `%` modulo
-- `@` matrix multiplication
 - `**` exponentiation
 
 Boolean operators: `or`, `and`, `not`.
