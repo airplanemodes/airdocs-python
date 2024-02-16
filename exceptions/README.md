@@ -21,7 +21,9 @@ User code can raise built-in exceptions. This can be used to test an exception h
 The built-in exception classes can be subclassed to define new exceptions. Programmers are encouraged to derive new exceptions from the [`Exception`](/exceptions/Exception.md) class or one of its subclasses, and not from [`BaseException`](/exceptions/BaseException.md).
 
 ### Exception hierarchy
+
 The class hierarchy for built-in exceptions is:
+
 ```
 BaseException
  ├── BaseExceptionGroup

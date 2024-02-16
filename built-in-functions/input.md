@@ -16,4 +16,5 @@ input(prompt)
 ### Examples
 
 ```python
+
 ```

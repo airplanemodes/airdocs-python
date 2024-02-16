@@ -12,4 +12,5 @@ frozenset(iterable=set())
 ### Examples
 
 ```python
+
 ```

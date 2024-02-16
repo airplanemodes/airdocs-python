@@ -7,6 +7,7 @@ If the object has a method named `__dir__()`, this method will be called and mus
 If the object does not provide `__dir__()`, the function tries its best to gather information from the object’s `__dict__` attribute, if defined, and from its type object. The resulting list is not necessarily complete and may be inaccurate when the object has a custom `__getattr__()`.
 
 The default `dir()` mechanism behaves differently with different types of objects, as it attempts to produce the most relevant, rather than complete, information:
+
 - If the object is a module object, the list contains the names of the module’s attributes.
 - If the object is a type or class object, the list contains the names of its attributes, and recursively of the attributes of its bases.
 - Otherwise, the list contains the object’s attributes’ names, the names of its class’s attributes, and recursively of the attributes of its class’s base classes.
@@ -14,11 +15,14 @@ The default `dir()` mechanism behaves differently with different types of object
 The resulting list is sorted alphabetically.
 
 ### Syntax
+
 ```python
 dir()
 dir(object)
 ```
 
 ### Examples
+
 ```python
+
 ```

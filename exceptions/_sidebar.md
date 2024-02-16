@@ -1,10 +1,13 @@
 - **Base classes**
+
 * [`BaseException`](/exceptions/BaseException.md)
 * [`Exception`](/exceptions/Exception.md)
 * [`ArithmeticError`](/exceptions/ArithmeticError.md)
 * [`BufferError`](/exceptions/BufferError.md)
 * [`LookupError`](/exceptions/LookupError.md)
+
 - **Concrete exceptions**
+
 * [`AssertionError`](/exceptions/AssertionError.md)
 * [`AttributeError`](/exceptions/AttributeError.md)
 * [`EOFError`](/exceptions/EOFError.md)
@@ -41,7 +44,9 @@
 * [`EnvironmentError`](/exceptions/EnvironmentError.md)
 * [`IOError`](/exceptions/IOError.md)
 * [`WindowsError`](/exceptions/WindowsError.md)
+
 - **OS exceptions**
+
 * [`BlockingIOError`](/exceptions/BlockingIOError.md)
 * [`ChildProcessError`](/exceptions/ChildProcessError.md)
 * [`ConnectionError`](/exceptions/ConnectionError.md)
@@ -57,7 +62,9 @@
 * [`PermissionError`](/exceptions/PermissionError.md)
 * [`ProcessLookupError`](/exceptions/ProcessLookupError.md)
 * [`TimeoutError`](/exceptions/TimeoutError.md)
+
 - **Warnings**
+
 * [`Warning`](/exceptions/Warning.md)
 * [`UserWarning`](/exceptions/UserWarning.md)
 * [`DeprecationWarning`](/exceptions/DeprecationWarning.md)

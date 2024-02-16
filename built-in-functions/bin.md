@@ -1,6 +1,6 @@
 # bin()
 
-Convert an integer number to a binary string prefixed with “`0b`”.
+Convert an integer number to a binary string prefixed with `0b`.
 
 If **x** is not a Python [`int`](/built-in-types/int/) object, it has to define an `__index__()` method that returns an integer.
 

@@ -1,1 +1,7 @@
 # SystemExit
+
+This exception is raised by the [`sys.exit()`](/modules/sys/exit.md) function. It inherits from [`BaseException`](/exceptions/BaseException.md) instead of [`Exception`](/exceptions/Exception.md) so that it is not accidentally caught by code that catches [`Exception`](/exceptions/Exception.md). This allows the exception to properly propagate up and cause the interpreter to exit. When it is not handled, the Python interpreter exits. No stack traceback is printed. The constructor accepts the same optional argument passed to [`sys.exit()`](/modules/sys/exit.md). If the value is an integer, it specifies the system exit status (passed to C’s `exit()` function). If it is `None`, the exit status is zero. If it has another type (such as a string), the object’s value is printed and the exit status is one.
+
+A call to [`sys.exit()`](/modules/sys/exit.md) is translated into an exception so that clean-up handlers (`finally` clauses of [`try`](/statements/try.md) statements) can be executed, and so that a debugger can execute a script without running the risk of losing control. The [`os._exit()`](/modules/os/_exit.md) function can be used if it is absolutely positively necessary to exit immediately (for example, in the child process after a call to [`os.fork()`](/modules/os/fork.md)).
+
+The attribute `code` is the exit status or error message that is passed to the constructor. Defaults to `None`.
