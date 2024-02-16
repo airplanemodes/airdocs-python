@@ -3,7 +3,7 @@
 **MIT LICENSE FOR AIRDOCS PYTHON**
 
 ```
-Copyright (c) 2023-2024 Roy Alman
+Copyright (c) 2023 Roy Alman
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
