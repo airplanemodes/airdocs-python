@@ -1,6 +1,6 @@
 # match
 
-A match statement takes an expression and compares its value to successive patterns given as one or more case blocks. This is superficially similar to a switch statement in C, Java or JavaScript (and many other languages), but it’s more similar to pattern matching in languages like Rust or Haskell. Only the first pattern that matches gets executed and it can also extract components (sequence elements or object attributes) from the value into variables.
+A match statement takes an expression and compares its value to successive patterns given as one or more case blocks. This is superficially similar to a `switch` statement in C, Java or JavaScript (and many other languages), but it’s more similar to pattern matching in languages like Rust or Haskell. Only the first pattern that matches gets executed and it can also extract components (sequence elements or object attributes) from the value into variables.
 
 The last block: the “variable name” `_` acts as a *wildcard* and never fails to match. If no case matches, none of the branches is executed.
 
@@ -107,14 +107,18 @@ match point:
 ```
 
 Several other key features of this statement:
+
 - Like unpacking assignments, tuple and list patterns have exactly the same meaning and actually match arbitrary sequences. An important exception is that they don’t match iterators or strings.
 - Sequence patterns support extended unpacking: `[x, y, *rest]` and `(x, y, *rest)` work similar to unpacking assignments. The name after `*` may also be `_`, so `(x, y, *_)` matches a sequence of at least two items without binding the remaining items.
 - Mapping patterns: `{"bandwidth": b, "latency": l}` captures the `"bandwidth"` and `"latency"` values from a dictionary. Unlike sequence patterns, extra keys are ignored. An unpacking like `**rest` is also supported. (But `**_` would be redundant, so it is not allowed.)
 - Subpatterns may be captured using the `as` keyword:
+
 ```python
 case (Point(x1, y1), Point(x2, y2) as p2): ...
 ```
+
 will capture the second element of the input as p2 (as long as the input is a sequence of two points).
+
 - Most literals are compared by equality, however the singletons `True`, `False` and `None` are compared by identity.
 - Patterns may use named constants. These must be dotted names to prevent them from being interpreted as capture variable:
 

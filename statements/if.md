@@ -8,14 +8,15 @@ It selects exactly one of the suites by evaluating the expressions one by one un
 
 ```python
 if expression:
-    statement
+    suite
 elif expression:
-    statement
+    suite
 else:
-    statement
+    suite
 ```
 
 ### Examples
 
 ```python
+
 ```

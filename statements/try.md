@@ -3,6 +3,7 @@
 The `try` statement specifies exception handlers and/or cleanup code for a group of statements.
 
 The `try` statement works as follows:
+
 - First, the **try clause** (the statement(s) between the `try` and `except` keywords) is executed.
 - If no exception occurs, the **except clause** is skipped and execution of the `try` statement is finished.
 - If an exception occurs during execution of the **try clause**, the rest of the clause is skipped. Then, if its type matches the exception named after the `except` keyword, the **except clause** is executed, and then execution continues after the try/except block.
@@ -36,4 +37,5 @@ finally:
 Before an except clause’s suite is executed, the exception is stored in the [`sys`](/modules/sys.md) module, where it can be accessed from within the body of the except clause by calling [`sys.exception()`](/modules/sys/exception.md). When leaving an exception handler, the exception stored in the [`sys`](/modules/sys.md) module is reset to its previous value:
 
 ```python
+
 ```

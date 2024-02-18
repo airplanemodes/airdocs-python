@@ -3,6 +3,7 @@
 The `with` statement is used to wrap the execution of a block with methods defined by a context manager.
 
 The execution of the `with` statement with one “item” proceeds as follows:
+
 - The context expression (the expression given in the with_item) is evaluated to obtain a context manager.
 - The context manager’s `__enter__()` is loaded for later use.
 - The context manager’s `__exit__()` is loaded for later use.
