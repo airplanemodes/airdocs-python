@@ -2,6 +2,8 @@
 
 > The Python documentation that feels like an air.
 
+[<img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg">](https://liberapay.com/airplanemodes/donate)
+
 This is an alternative documentation with a focus on simplicity, navigation and readability.
 
 ### Installation
