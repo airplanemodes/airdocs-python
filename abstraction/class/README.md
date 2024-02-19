@@ -1,6 +1,10 @@
 # `class`
 
-The `object` class is the base class for all objects in Python. The `type` class is a subclass of `object`. All built-in types in Python, such as [`int`](/built-in-types/int/), [`float`](/built-in-types/float/), [`bool`](/built-in-types/bool.md), and [`str`](/built-in-types/str/), are subclasses of `type`.
+The `object` class is the base class for all objects in Python.
+
+The `type` class is a subclass of `object`.
+
+All built-in types in Python, such as [`int`](/built-in-types/int/), [`float`](/built-in-types/float/), [`bool`](/built-in-types/bool.md), and [`str`](/built-in-types/str/), are subclasses of `type`.
 
 ```python
 # Getting list with all classes

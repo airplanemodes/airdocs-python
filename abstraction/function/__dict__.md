@@ -1,4 +1,4 @@
-# \_\_dict\_\_
+# function.\_\_dict\_\_
 
 The namespace supporting arbitrary function attributes.
 
@@ -7,7 +7,7 @@ Writable.
 ### Syntax
 
 ```python
-object.
+function.__dict__
 ```
 
 ### Examples

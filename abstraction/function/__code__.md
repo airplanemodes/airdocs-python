@@ -1,4 +1,4 @@
-# \_\_code\_\_
+# function.\_\_code\_\_
 
 The code object representing the compiled function body.
 
@@ -7,7 +7,7 @@ Writable.
 ### Syntax
 
 ```python
-object.
+function.__code__
 ```
 
 ### Examples
