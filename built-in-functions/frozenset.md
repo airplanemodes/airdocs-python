@@ -1,6 +1,6 @@
 # frozenset()
 
-Return a new `frozenset` object, optionally with elements taken from **iterable**.
+Return a new [`frozenset`](/built-in-types/frozenset/) object, optionally with elements taken from **iterable**.
 
 ### Syntax
 

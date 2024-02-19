@@ -108,10 +108,6 @@ List comprehensions can contain complex expressions and nested functions:
 # ['3.1', '3.14', '3.142', '3.1416', '3.14159']
 ```
 
-### Nested List Comprehensions
-
-
-
 ### Immutable sequences
 
 The only operation that immutable sequence types generally implement that is not also implemented by mutable sequence types is support for the [`hash()`](/built-in-functions/hash.md) built-in.
