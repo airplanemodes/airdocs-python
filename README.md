@@ -4,7 +4,7 @@
 
 [<img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg">](https://liberapay.com/airplanemodes/donate)
 
-This is an alternative documentation with a focus on simplicity, navigation and readability.
+This is an alternative documentation with a focus on navigation, simplicity and readability.
 
 ### Installation
 
@@ -21,4 +21,3 @@ git clone https://github.com/airplanemodes/airdocs-python
 cd airdocs-python
 docsify serve
 ```
-
