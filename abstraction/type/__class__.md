@@ -1,6 +1,6 @@
 # type.\_\_class\_\_
 
-The class name.
+The class to which a class instance belongs.
 
 ### Syntax
 

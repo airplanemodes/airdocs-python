@@ -1,3 +1,5 @@
+- **Abstraction**
+
 * [`interpreter`](/abstraction/interpreter/)
 * [`object`](/abstraction/object/)
 * [`type`](/abstraction/type/)
