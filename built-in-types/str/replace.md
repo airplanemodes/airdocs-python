@@ -11,7 +11,10 @@ str.replace(old, new)
 str.replace(old, new, count)
 ```
 
-### Examples
+### Example
+
+Remove a part from a string:
 
 ```python
+>>> "Information".replace("rmation", "") # 'Info'
 ```

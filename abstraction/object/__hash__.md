@@ -1,9 +1,9 @@
-# \_\_hash\_\_()
+# object.\_\_hash\_\_()
 
 
 
 ### Syntax
 
 ```python
-object.
+object.__hash__(self)
 ```

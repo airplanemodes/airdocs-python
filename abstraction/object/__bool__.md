@@ -1,9 +1,9 @@
-# \_\_bool\_\_()
+# object.\_\_bool\_\_()
 
 
 
 ### Syntax
 
 ```python
-object.
+object.__bool__(self)
 ```

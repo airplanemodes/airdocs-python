@@ -1,4 +1,4 @@
-# `class`
+# `type`
 
 The `object` class is the base class for all objects in Python.
 
@@ -25,6 +25,7 @@ str.__sizeof__("hi") # 51
 ```
 
 Methods can be listed using [`dir()`](/built-in-functions/dir.md) function:
+
 ```python
 dir(list)
 dir(dict)

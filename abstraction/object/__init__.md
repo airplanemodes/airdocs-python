@@ -1,4 +1,4 @@
-# \_\_init\_\_()
+# object.\_\_init\_\_()
 
 Called after the instance has been created (by `__new__()`), but before it is returned to the caller.
 

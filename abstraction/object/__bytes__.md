@@ -1,9 +1,9 @@
-# \_\_bytes\_\_()
+# object.\_\_bytes\_\_()
 
 
 
 ### Syntax
 
 ```python
-object.
+object.__bytes__(self)
 ```

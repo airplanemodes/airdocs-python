@@ -1,9 +1,9 @@
-# \_\_format\_\_()
+# object.\_\_format\_\_()
 
 
 
 ### Syntax
 
 ```python
-object.
+object.__format__(self, format_spec)
 ```
