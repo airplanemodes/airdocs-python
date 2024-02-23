@@ -1,5 +1,7 @@
 [**<class 'module'>**](/abstraction/module/)
 
+* [Execution](/abstraction/module/execution.md)
+
 - **Special attributes**
 
 * [`__name__`](/abstraction/module/__name__.md)
