@@ -10,8 +10,8 @@ This is an integer which is guaranteed to be unique and constant for this object
 id(object)
 ```
 
-### Examples
+### Example
 
 ```python
-
+>>> id(int)
 ```

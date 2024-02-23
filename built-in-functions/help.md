@@ -11,8 +11,8 @@ help()
 help(request)
 ```
 
-### Examples
+### Example
 
 ```python
-
+>>> help(int)
 ```

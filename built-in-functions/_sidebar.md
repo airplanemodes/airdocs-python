@@ -13,7 +13,7 @@
 * [`bytes()`](/built-in-functions/bytes.md)
 * [`callable()`](/built-in-functions/callable.md)
 * [`chr()`](/built-in-functions/chr.md)
-* [`classmethod()`](/built-in-functions/classmethod.md)
+* [`@classmethodw`](/built-in-functions/classmethod.md)
 * [`compile()`](/built-in-functions/compile.md)
 * [`complex()`](/built-in-functions/complex.md)
 * [`delattr()`](/built-in-functions/delattr.md)

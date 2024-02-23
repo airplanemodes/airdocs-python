@@ -5,6 +5,7 @@
 * [Execution](/abstraction/function/execution.md)
 * [Lambda](/abstraction/function/lambda.md)
 * [Decorator](/abstraction/function/decorator.md)
+* [Annotations](/abstraction/function/annotations.md)
 
 - **Special attributes**
 

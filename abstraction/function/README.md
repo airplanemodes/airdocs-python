@@ -1,7 +1,5 @@
 # `function`
 
-?> Most of the attributes labelled “Writable” check the type of the assigned value.
+Function objects are created by function definitions. The only operation on a function object is to call it: `func(arguments)`.
 
-Function objects also support getting and setting arbitrary attributes, which can be used, for example, to attach metadata to functions. Regular attribute dot-notation is used to get and set such attributes.
-
-?> The current implementation only supports function attributes on user-defined functions. Function attributes on built-in functions may be supported in the future.
+There are really two flavors of function objects: [built-in functions](/built-in-functions/) and user-defined functions. Both support the same operation (to call the function), but the implementation is different, hence the different object types.

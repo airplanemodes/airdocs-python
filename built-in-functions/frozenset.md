@@ -12,5 +12,6 @@ frozenset(iterable=set())
 ### Examples
 
 ```python
-
+>>> vowels = frozenset(["a", "e", "i", "o", "u"])
+>>> vowels # frozenset({'e', 'o', 'i', 'u', 'a'})
 ```
