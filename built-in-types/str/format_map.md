@@ -8,7 +8,7 @@ Similar to `str.format(**mapping)`, except that `mapping` is used directly and n
 str.format_map(mapping)
 ```
 
-### Examples
+### Example
 
 ```python
 class Default(dict):

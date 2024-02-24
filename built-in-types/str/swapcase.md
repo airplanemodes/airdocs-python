@@ -9,3 +9,9 @@ Return a copy of the string with uppercase characters converted to lowercase and
 ```python
 str.swapcase()
 ```
+
+### Example
+
+```python
+>>> "hAVE A NICE DAY!".swapcase() # 'Have a nice day!'
+```

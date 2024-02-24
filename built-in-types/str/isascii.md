@@ -9,3 +9,11 @@ ASCII characters have code points in the range U+0000-U+007F.
 ```python
 str.isascii()
 ```
+
+### Examples
+
+```python
+>>> "123".isascii()    # True
+>>> "123abc".isascii() # True
+>>> "123#$%".isascii() # True
+```

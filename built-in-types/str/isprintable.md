@@ -15,4 +15,5 @@ str.isprintable()
 ### Examples
 
 ```python
+
 ```

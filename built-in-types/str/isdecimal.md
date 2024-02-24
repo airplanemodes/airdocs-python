@@ -9,3 +9,14 @@ Decimal characters are those that can be used to form numbers in base 10, e.g. U
 ```python
 str.isdecimal()
 ```
+
+### Examples
+
+```python
+>>> "1".isdecimal()    # True
+>>> "10".isdecimal()   # True
+>>> "01".isdecimal()   # True
+>>> "0.1".isdecimal()  # False
+>>> "-0.1".isdecimal() # False
+>>> "+5".isdecimal()   # False
+```

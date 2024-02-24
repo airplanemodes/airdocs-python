@@ -13,3 +13,9 @@ str.rfind(sub)
 str.rfind(sub, start)
 str.rfind(sub, start, end)
 ```
+
+### Examples
+
+```python
+
+```

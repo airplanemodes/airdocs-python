@@ -9,3 +9,14 @@ A character is alphanumeric if one of the following returns `True`: [`str.isalph
 ```python
 str.isalnum()
 ```
+
+### Examples
+
+```python
+>>> "abc".isalnum()          # True
+>>> "abc123".isalnum()       # True
+>>> "abc 123".isalnum()      # False
+>>> "$$$".isalnum()          # False
+>>> "How are you?".isalnum() # False
+>>> "1000".isalnum()         # True
+```

@@ -15,4 +15,5 @@ str.encode(encoding='utf-8', errors='strict')
 ### Example
 
 ```python
+
 ```

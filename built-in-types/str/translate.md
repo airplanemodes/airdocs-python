@@ -11,3 +11,9 @@ When indexed by a Unicode ordinal (an integer), the **table** object can do any 
 ```python
 str.translate(table)
 ```
+
+### Examples
+
+```python
+
+```

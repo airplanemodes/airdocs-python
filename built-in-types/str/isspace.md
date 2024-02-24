@@ -9,3 +9,10 @@ Return `True` if there are only whitespace characters in the string and there is
 ```python
 str.isspace()
 ```
+
+### Examples
+
+```python
+>>> "     ".isspace() # True
+>>> "  .  ".isspace() # False
+```

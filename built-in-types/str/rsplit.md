@@ -11,3 +11,9 @@ If **sep** is not specified or `None`, any whitespace string is a separator. Exc
 ```python
 str.rsplit(sep=None, maxsplit=-1)
 ```
+
+### Examples
+
+```python
+
+```

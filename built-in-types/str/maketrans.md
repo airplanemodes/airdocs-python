@@ -13,3 +13,9 @@ str.maketrans(x)
 str.maketrans(x, y)
 str.maketrans(x, y, z)
 ```
+
+### Examples
+
+```python
+
+```

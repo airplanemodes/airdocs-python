@@ -14,7 +14,7 @@ str.format(*args, **kwargs)
 
 ### Examples
 
-Accessing arguments by position:
+Formatting by position:
 
 ```python
 >>> '{0}, {1}, {2}'.format('a', 'b', 'c')  # 'a, b, c'
@@ -24,7 +24,7 @@ Accessing arguments by position:
 >>> '{0}{1}{0}'.format('abra', 'cad')      # 'abracadabra'
 ```
 
-Accessing arguments by name:
+Formatting by name:
 
 ```python
 >>> 'Coordinates: {latitude}, {longitude}'.format(latitude='37.24N', longitude='-115.81W')
@@ -34,14 +34,14 @@ Accessing arguments by name:
 # 'Coordinates: 37.24N, -115.81W'
 ```
 
-Accessing arguments’ items:
+Formatting by index:
 
 ```python
 >>> coord = (5, 7)
 >>> 'X: {0[0]},  Y: {0[1]}'.format(coord) # 'X: 5,  Y: 7'
 ```
 
-Expression:
+Using an expression:
 
 ```python
 x = 10

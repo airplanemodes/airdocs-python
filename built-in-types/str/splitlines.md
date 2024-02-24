@@ -9,3 +9,9 @@ Line breaks are not included in the resulting list unless **keepends** is given 
 ```python
 str.splitlines(keepends=False)
 ```
+
+### Examples
+
+```python
+
+```

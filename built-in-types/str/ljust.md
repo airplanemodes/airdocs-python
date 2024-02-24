@@ -12,3 +12,9 @@ The original string is returned if **width** is less than or equal to original l
 str.ljust(width)
 str.ljust(width, fillchar)
 ```
+
+### Examples
+
+```python
+
+```
