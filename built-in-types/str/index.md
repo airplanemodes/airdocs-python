@@ -9,3 +9,9 @@ str.index(sub)
 str.index(sub, start)
 str.index(sub, start, end)
 ```
+
+### Examples
+
+```python
+
+```

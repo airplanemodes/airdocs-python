@@ -9,3 +9,9 @@ Tab positions occur every **tabsize** characters (default is `8`, giving tab pos
 ```python
 str.expandtabs(tabsize=8)
 ```
+
+### Examples
+
+```python
+
+```

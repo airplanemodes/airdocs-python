@@ -15,3 +15,9 @@ str.find(sub)
 str.find(sub, start)
 str.find(sub, start, end)
 ```
+
+### Examples
+
+```python
+
+```

@@ -11,3 +11,9 @@ The casefolding algorithm is described in section 3.13 â€˜Default Case Foldingâ€
 ```python
 str.casefold()
 ```
+
+### Examples
+
+```python
+
+```
