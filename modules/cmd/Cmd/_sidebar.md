@@ -3,6 +3,7 @@
 - **Methods**
 
 * [`cmdloop()`](/modules/cmd/Cmd/cmdloop.md)
+* [`do_help()`](/modules/cmd/Cmd/do_help.md)
 * [`onecmd()`](/modules/cmd/Cmd/onecmd.md)
 * [`emptyline()`](/modules/cmd/Cmd/emptyline.md)
 * [`default()`](/modules/cmd/Cmd/default.md)
@@ -25,17 +26,5 @@
 * [`undoc_header`](/modules/cmd/Cmd/undoc_header.md)
 * [`ruler`](/modules/cmd/Cmd/ruler.md)
 * [`use_rawinput`](/modules/cmd/Cmd/use_rawinput.md)
-
-- **More**
-
-* [`complete()`](/modules/cmd/Cmd/complete.md)
-* [`complete_help()`](/modules/cmd/Cmd/complete_help.md)
-* [`completenames()`](/modules/cmd/Cmd/completenames.md)
-* [`do_help()`](/modules/cmd/Cmd/do_help.md)
-* [`doc_leader`](/modules/cmd/Cmd/doc_leader.md)
-* [`get_names()`](/modules/cmd/Cmd/get_names.md)
-* [`nohelp`](/modules/cmd/Cmd/nohelp.md)
-* [`parseline()`](/modules/cmd/Cmd/parseline.md)
-* [`print_topics()`](/modules/cmd/Cmd/print_topics.md)
 
 [**back to cmd**](/modules/cmd/)
