@@ -1,7 +1,7 @@
-# types.ModuleType()
+# types.ModuleType
 
 ### Syntax
 
 ```python
-types.ModuleType()
+types.ModuleType
 ```

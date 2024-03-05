@@ -1,7 +1,7 @@
-# types.FrameType()
+# types.FrameType
 
 ### Syntax
 
 ```python
-types.FrameType()
+types.FrameType
 ```

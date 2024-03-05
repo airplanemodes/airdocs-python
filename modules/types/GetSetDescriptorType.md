@@ -1,7 +1,7 @@
-# types.GetSetDescriptorType()
+# types.GetSetDescriptorType
 
 ### Syntax
 
 ```python
-types.GetSetDescriptorType()
+types.GetSetDescriptorType
 ```

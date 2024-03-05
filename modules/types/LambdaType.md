@@ -1,7 +1,7 @@
-# types.LambdaType()
+# types.LambdaType
 
 ### Syntax
 
 ```python
-types.LambdaType()
+types.LambdaType
 ```

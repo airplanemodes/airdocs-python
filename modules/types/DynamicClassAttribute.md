@@ -1,7 +1,7 @@
-# types.DynamicClassAttribute()
+# types.DynamicClassAttribute
 
 ### Syntax
 
 ```python
-types.DynamicClassAttribute()
+types.DynamicClassAttribute
 ```

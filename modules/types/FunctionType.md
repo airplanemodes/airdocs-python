@@ -1,7 +1,7 @@
-# types.FunctionType()
+# types.FunctionType
 
 ### Syntax
 
 ```python
-types.FunctionType()
+types.FunctionType
 ```

@@ -1,7 +1,7 @@
-# types.GenericAlias()
+# types.GenericAlias
 
 ### Syntax
 
 ```python
-types.GenericAlias()
+types.GenericAlias
 ```

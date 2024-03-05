@@ -1,7 +1,7 @@
-# types.SimpleNamespace()
+# types.SimpleNamespace
 
 ### Syntax
 
 ```python
-types.SimpleNamespace()
+types.SimpleNamespace
 ```

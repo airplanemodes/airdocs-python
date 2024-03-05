@@ -1,7 +1,7 @@
-# types.MappingProxyType()
+# types.MappingProxyType
 
 ### Syntax
 
 ```python
-types.MappingProxyType()
+types.MappingProxyType
 ```

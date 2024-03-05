@@ -1,7 +1,7 @@
-# types.WrapperDescriptorType()
+# types.WrapperDescriptorType
 
 ### Syntax
 
 ```python
-types.WrapperDescriptorType()
+types.WrapperDescriptorType
 ```

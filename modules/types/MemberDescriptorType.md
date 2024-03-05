@@ -1,7 +1,7 @@
-# types.MemberDescriptorType()
+# types.MemberDescriptorType
 
 ### Syntax
 
 ```python
-types.MemberDescriptorType()
+types.MemberDescriptorType
 ```

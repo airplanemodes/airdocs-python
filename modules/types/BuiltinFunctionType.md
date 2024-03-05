@@ -1,7 +1,7 @@
-# types.BuiltinFunctionType()
+# types.BuiltinFunctionType
 
 ### Syntax
 
 ```python
-types.BuiltinFunctionType()
+types.BuiltinFunctionType
 ```

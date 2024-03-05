@@ -28,6 +28,15 @@
 * [`__objclass__`](/abstraction/object/__objclass__.md)
 * [`__slots__`](/abstraction/object/__slots__.md)
 
+- **Customizing class creation**
+
+* [`__init_subclass__`](/abstraction/object/__init_subclass__.md)
+* [`__set_name__`](/abstraction/object/__set_name__.md)
+
+- **Resolving MRO entries**
+
+* [`__mro_entries__`](/abstraction/object/__mro_entries__.md)
+
 - **Emulating generic types**
 
 * [`__class_getitem__()`](/abstraction/object/__class_getitem__.md)

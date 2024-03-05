@@ -1,7 +1,7 @@
-# types.CodeType()
+# types.CodeType
 
 ### Syntax
 
 ```python
-types.CodeType()
+types.CodeType
 ```
