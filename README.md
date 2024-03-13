@@ -8,8 +8,6 @@
 <img alt="" border="0" src="https://www.paypal.com/en_IL/i/scr/pixel.gif" width="1" height="1" />
 </form>
 
-[<img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg">](https://liberapay.com/airplanemodes/donate)
-
 This is an alternative documentation with a focus on navigation and readability.
 
 ### Installation
