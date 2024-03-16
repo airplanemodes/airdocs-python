@@ -13,7 +13,7 @@ int.bit_count()
 ### Examples
 
 ```python
-n = 19
-bin(n) # '0b10011'
-n.bit_count() # 3
+>>> n = 24
+>>> bin(n) # '0b11000'
+>>> n.bit_count() # 2
 ```

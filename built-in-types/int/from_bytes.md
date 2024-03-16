@@ -2,7 +2,7 @@
 
 Return the integer represented by the given array of bytes.
 
-The argument **bytes** must either be a bytes-like object or an iterable producing bytes.
+The argument **bytes** must either be a [`bytes`](/built-in-types/bytes/)-like object or an iterable producing bytes.
 
 The **byteorder** argument determines the byte order used to represent the integer, and defaults to `"big"`. If **byteorder** is `"big"`, the most significant byte is at the beginning of the byte array. If **byteorder** is `"little"`, the most significant byte is at the end of the byte array. To request the native byte order of the host system, use sys.byteorder as the byte order value.
 

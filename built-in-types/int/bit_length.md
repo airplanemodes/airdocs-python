@@ -11,7 +11,7 @@ int.bit_length()
 ### Examples
 
 ```python
-n = -37
-bin(n) # '-0b100101'
-n.bit_length() # 6
+>>> n = 30
+>>> bin(n) # '0b11110'
+>>> n.bit_length() # 5
 ```
