@@ -18,7 +18,7 @@ A function that does nothing:
 def f(): pass
 ```
 
-A class with no methods:
+An empty class:
 
 ```python
 class C: pass

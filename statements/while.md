@@ -2,6 +2,8 @@
 
 The `while` statement is used for repeated execution as long as an expression is true.
 
+?> A  `while` loop can include an else clause.
+
 ### Syntax
 
 ```python

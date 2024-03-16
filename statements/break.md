@@ -1,8 +1,8 @@
 # break
 
-`break` may only occur syntactically nested in a [`for`](/statements/for.md) or [`while`](/statements/while.md) loop, but not nested in a function or class definition within that loop.
+Terminates the nearest enclosing loop, skipping the optional `else` clause if the loop has one.
 
-It terminates the nearest enclosing loop, skipping the optional `else` clause if the loop has one.
+`break` may only occur syntactically nested in a [`for`](/statements/for.md) or [`while`](/statements/while.md) loop, but not nested in a function or class definition within that loop.
 
 If a [`for`](/statements/for.md) loop is terminated by `break`, the loop control target keeps its current value.
 
