@@ -18,5 +18,7 @@ bytes(source, encoding, errors)
 ### Examples
 
 ```python
-
+bytes(5)          # b'\x00\x00\x00\x00\x00'
+bytes([1, 3, 5])  # b'\x01\x03\x05'
+bytes([255, 128]) # b'\xff\x80'
 ```

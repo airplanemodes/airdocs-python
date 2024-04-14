@@ -16,5 +16,5 @@ callable(object)
 
 ```python
 callable(str) # True
-callable(10) # False
+callable(100) # False
 ```

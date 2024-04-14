@@ -17,6 +17,6 @@ chr(i)
 ### Examples
 
 ```python
-chr(97) # 'a'
+chr(97)   # 'a'
 chr(8364) # '€'
 ```
