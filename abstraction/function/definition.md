@@ -1,5 +1,7 @@
 # Definition
 
+The keyword [`def`](/statements/def.md) represents a function *definition*. It must be followed by the function name and the parenthesized list of formal parameters. The statements that form the body of the function start at the next line, and must be indented.
+
 A function that writes the Fibonacci series to an arbitrary boundary:
 
 ```python
@@ -13,8 +15,6 @@ A function that writes the Fibonacci series to an arbitrary boundary:
 ... 
 >>> fib(2000) # 0 1 1 2 3 5 8 13 21 34 55 89 144 233 377 610 987 1597
 ```
-
-The keyword [`def`](/statements/def.md) represents a function *definition*. It must be followed by the function name and the parenthesized list of formal parameters. The statements that form the body of the function start at the next line, and must be indented.
 
 A function definition associates the function name with the function object in the current symbol table. The interpreter recognizes the object pointed to by that name as a user-defined function. Other names can also point to that same function object and can also be used to access the function:
 
