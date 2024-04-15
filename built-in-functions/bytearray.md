@@ -25,5 +25,7 @@ bytearray(source, encoding, errors)
 ### Examples
 
 ```python
-
+>>> bytearray(5)         # bytearray(b'\x00\x00\x00\x00\x00')
+>>> bytearray([1, 2, 3]) # bytearray(b'\x01\x02\x03')
+>>> bytearray(True)      # bytearray(b'\x00')
 ```
