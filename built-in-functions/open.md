@@ -21,7 +21,7 @@ The available modes are:
 
 The default mode is `'r'` (which means open for reading in text mode, a synonym of `'rt'`). Modes `'w+'` and `'w+b'` open and truncate the file. Modes `'r+'` and `'r+b'` open the file with no truncation.
 
-?> As mentioned in the [`io`](/modules/io.md), Python distinguishes between binary and text I/O. Files opened in binary mode (including `'b'` in the **mode** argument) return contents as `bytes` objects without any decoding. In text mode (the default, or when `'t'` is included in the **mode** argument), the contents of the file are returned as `str`, the bytes having been first decoded using a platform-dependent encoding or using the specified **encoding** if given.
+?> As mentioned in the [`io`](/modules/io.md), Python distinguishes between binary and text I/O. Files opened in binary mode (including `'b'` in the **mode** argument) return contents as [`bytes`](/built-in-types/bytes/) objects without any decoding. In text mode (the default, or when `'t'` is included in the **mode** argument), the contents of the file are returned as [`str`](/built-in-types/str/), the bytes having been first decoded using a platform-dependent encoding or using the specified **encoding** if given.
 
 ?> Python doesn’t depend on the underlying operating system’s notion of text files. All the processing is done by Python itself, and is therefore platform-independent.
 
