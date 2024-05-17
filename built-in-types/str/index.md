@@ -1,6 +1,6 @@
 # str.index()
 
-Like [`str.find()`](/built-in-types/str/str.find.md), but raise [`ValueError`](/exceptions/ValueError.md) when the substring is not found.
+Like [`str.find()`](/find.md), but raise [`ValueError`](../../exceptions/ValueError.md) when the substring is not found.
 
 ### Syntax
 
