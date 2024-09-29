@@ -12,4 +12,5 @@ type.__mro__
 
 ```python
 >>> int.__mro__ # (<class 'int'>, <class 'object'>)
+>>> bool.__mro__ # (<class 'bool'>, <class 'int'>, <class 'object'>)
 ```
