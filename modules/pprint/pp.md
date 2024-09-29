@@ -4,7 +4,7 @@ Prints the formatted representation of **object**, followed by a newline.
 
 This function may be used in the interactive interpreter instead of the [`print()`](/built-in-functions/print.md) function for inspecting values.
 
-?> You can reassign print = pprint.pp for use within a scope.
+?> You can reassign `print = pprint.pp` for use within a scope.
 
 Parameters:
 
@@ -19,7 +19,7 @@ Parameters:
 
 ### Syntax
 
-```
+```python
 pprint.pp(
     object, stream=None, indent=1, width=80, depth=None, *, 
     compact=False, sort_dicts=False, underscore_numbers=False
