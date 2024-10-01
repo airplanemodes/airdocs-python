@@ -24,37 +24,37 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-**PSF LICENSE AGREEMENT FOR PYTHON 3.12.6**
+**PSF LICENSE AGREEMENT FOR PYTHON 3.12.7**
 
 ```
 1. This LICENSE AGREEMENT is between the Python Software Foundation ("PSF"), and
    the Individual or Organization ("Licensee") accessing and otherwise using Python
-   3.12.6 software in source or binary form and its associated documentation.
+   3.12.7 software in source or binary form and its associated documentation.
 
 2. Subject to the terms and conditions of this License Agreement, PSF hereby
    grants Licensee a nonexclusive, royalty-free, world-wide license to reproduce,
    analyze, test, perform and/or display publicly, prepare derivative works,
-   distribute, and otherwise use Python 3.12.6 alone or in any derivative
+   distribute, and otherwise use Python 3.12.7 alone or in any derivative
    version, provided, however, that PSF's License Agreement and PSF's notice of
    copyright, i.e., "Copyright © 2001-2023 Python Software Foundation; All Rights
-   Reserved" are retained in Python 3.12.6 alone or in any derivative version
+   Reserved" are retained in Python 3.12.7 alone or in any derivative version
    prepared by Licensee.
 
 3. In the event Licensee prepares a derivative work that is based on or
-   incorporates Python 3.12.6 or any part thereof, and wants to make the
+   incorporates Python 3.12.7 or any part thereof, and wants to make the
    derivative work available to others as provided herein, then Licensee hereby
    agrees to include in any such work a brief summary of the changes made to Python
-   3.12.6.
+   3.12.7.
 
-4. PSF is making Python 3.12.6 available to Licensee on an "AS IS" basis.
+4. PSF is making Python 3.12.7 available to Licensee on an "AS IS" basis.
    PSF MAKES NO REPRESENTATIONS OR WARRANTIES, EXPRESS OR IMPLIED.  BY WAY OF
    EXAMPLE, BUT NOT LIMITATION, PSF MAKES NO AND DISCLAIMS ANY REPRESENTATION OR
    WARRANTY OF MERCHANTABILITY OR FITNESS FOR ANY PARTICULAR PURPOSE OR THAT THE
-   USE OF PYTHON 3.12.6 WILL NOT INFRINGE ANY THIRD PARTY RIGHTS.
+   USE OF PYTHON 3.12.7 WILL NOT INFRINGE ANY THIRD PARTY RIGHTS.
 
-5. PSF SHALL NOT BE LIABLE TO LICENSEE OR ANY OTHER USERS OF PYTHON 3.12.6
+5. PSF SHALL NOT BE LIABLE TO LICENSEE OR ANY OTHER USERS OF PYTHON 3.12.7
    FOR ANY INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES OR LOSS AS A RESULT OF
-   MODIFYING, DISTRIBUTING, OR OTHERWISE USING PYTHON 3.12.6, OR ANY DERIVATIVE
+   MODIFYING, DISTRIBUTING, OR OTHERWISE USING PYTHON 3.12.7, OR ANY DERIVATIVE
    THEREOF, EVEN IF ADVISED OF THE POSSIBILITY THEREOF.
 
 6. This License Agreement will automatically terminate upon a material breach of
@@ -66,11 +66,11 @@ SOFTWARE.
    trademark sense to endorse or promote products or services of Licensee, or any
    third party.
 
-8. By copying, installing or otherwise using Python 3.12.6, Licensee agrees
+8. By copying, installing or otherwise using Python 3.12.7, Licensee agrees
    to be bound by the terms and conditions of this License Agreement.
 ```
 
-**ZERO-CLAUSE BSD LICENSE FOR CODE IN THE PYTHON 3.12.6 DOCUMENTATION**
+**ZERO-CLAUSE BSD LICENSE FOR CODE IN THE PYTHON 3.12.7 DOCUMENTATION**
 
 ```
 Permission to use, copy, modify, and/or distribute this software for any
