@@ -5,6 +5,6 @@
 * [`shorten()`](/modules/textwrap/shorten.md)
 * [`dedent()`](/modules/textwrap/dedent.md)
 * [`indent()`](/modules/textwrap/indent.md)
-* [`TextWrapper()`](/modules/textwrap/TextWrapper.md)
+* [`TextWrapper()`](/modules/textwrap/TextWrapper/)
 
 [**back to modules**](/modules/)
