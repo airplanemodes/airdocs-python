@@ -14,6 +14,6 @@ str.center(width, fillchar)
 ### Example
 
 ```python
-greetings = "hello world!"
-greetings.center(20) # '    hello world!    '
+>>> greetings = "hello world!"
+>>> greetings.center(20) # '    hello world!    '
 ```

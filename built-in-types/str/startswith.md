@@ -17,7 +17,7 @@ str.startswith(prefix, start, end)
 ### Examples
 
 ```python
-moon_phase = "Waxing crescent"
-moon_phase.startswith("Wax") # True
-moon_phase.startswith("cres") # False
+>>> moon_phase = "Waxing crescent"
+>>> moon_phase.startswith("Wax") # True
+>>> moon_phase.startswith("cres") # False
 ```

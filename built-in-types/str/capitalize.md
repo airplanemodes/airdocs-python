@@ -13,6 +13,6 @@ str.capitalize()
 ### Example
 
 ```python
-greetings = "heLLo WORLD!"
-greetings.capitalize() # 'Hello world!'
+>>> greetings = "heLLo WORLD!"
+>>> greetings.capitalize() # 'Hello world!'
 ```

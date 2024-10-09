@@ -11,7 +11,7 @@ str.isupper()
 ### Examples
 
 ```python
-"BANANA".isupper() # True
-"baNANA".isupper() # False
-" ".isupper() # False
+>>> "BANANA".isupper() # True
+>>> "baNANA".isupper() # False
+>>> " ".isupper() # False
 ```

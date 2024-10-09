@@ -15,6 +15,6 @@ str.join(iterable)
 ### Examples
 
 ```python
-"".join(["s", "u", "n"]) # 'sun'
-"-".join(["m", "o", "o", "n"]) # 'm-o-o-n'
+>>> "".join(["s", "u", "n"]) # 'sun'
+>>> "-".join(["m", "o", "o", "n"]) # 'm-o-o-n'
 ```

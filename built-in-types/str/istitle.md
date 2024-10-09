@@ -11,6 +11,6 @@ str.istitle()
 ### Examples
 
 ```python
-"Main".istitle() # True
-"content".istitle() # False
+>>> "Main".istitle() # True
+>>> "content".istitle() # False
 ```

@@ -17,6 +17,6 @@ str.count(sub, start, end)
 ### Example
 
 ```python
-greetings = "hello world!"
-greetings.count("l") # 3
+>>> greetings = "hello world!"
+>>> greetings.count("l") # 3
 ```

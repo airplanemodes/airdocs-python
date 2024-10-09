@@ -13,5 +13,5 @@ str.removeprefix(prefix)
 ### Example
 
 ```python
-"www.example.com".removeprefix("www.") # 'example.com'
+>>> "www.example.com".removeprefix("www.") # 'example.com'
 ```

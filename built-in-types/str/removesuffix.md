@@ -13,5 +13,5 @@ str.removesuffix(suffix)
 ### Example
 
 ```python
-"www.example.com".removesuffix(".com") # 'www.example'
+>>> "www.example.com".removesuffix(".com") # 'www.example'
 ```

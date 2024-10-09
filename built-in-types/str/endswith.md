@@ -17,7 +17,7 @@ str.endswith(suffix, start, end)
 ### Examples
 
 ```python
-moon_phase = "Waning crescent"
-moon_phase.endswith("cent") # True
-moon_phase.endswith("ing") # False
+>>> moon_phase = "Waning crescent"
+>>> moon_phase.endswith("cent") # True
+>>> moon_phase.endswith("ing") # False
 ```

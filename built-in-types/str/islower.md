@@ -15,6 +15,6 @@ str.islower()
 ### Examples
 
 ```python
-"lorem ipsum".islower() # True
-"lazy Fox".islower() # False
+>>> "lorem ipsum".islower() # True
+>>> "lazy Fox".islower() # False
 ```

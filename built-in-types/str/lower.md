@@ -11,6 +11,6 @@ str.lower()
 ### Examples
 
 ```python
-"Earth".lower() # 'earth'
-"vEnUs".lower() # 'venus'
+>>> "Earth".lower() # 'earth'
+>>> "vEnUs".lower() # 'venus'
 ```
