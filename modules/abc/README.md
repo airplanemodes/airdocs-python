@@ -2,7 +2,7 @@
 
 **Abstract Base Classes.**
 
-> Source code: [`Lib/abc.py`](https://github.com/python/cpython/tree/3.12/Lib/abc.py)
+> Source code: [`Lib/abc.py`](https://github.com/python/cpython/tree/3.13/Lib/abc.py)
 
 This module provides the infrastructure for defining abstract base classes (ABCs) in Python, as outlined in [**PEP 3119**](https://peps.python.org/pep-3119/).
 

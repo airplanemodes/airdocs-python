@@ -2,7 +2,7 @@
 
 **Unix filename pattern matching.**
 
-> Source code: [`Lib/fnmatch.py`](https://github.com/python/cpython/tree/3.12/Lib/fnmatch.py)
+> Source code: [`Lib/fnmatch.py`](https://github.com/python/cpython/tree/3.13/Lib/fnmatch.py)
 
 This module provides support for Unix shell-style wildcards, which are *not* the same as regular expressions (which are documented in the [`re`](/modules/re/) module). The special characters used in shell-style wildcards are:
 

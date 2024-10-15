@@ -2,7 +2,7 @@
 
 **Regular expression operations.**
 
-> Source code: [`Lib/re/`](https://github.com/python/cpython/tree/3.12/Lib/re/)
+> Source code: [`Lib/re/`](https://github.com/python/cpython/tree/3.13/Lib/re/)
 
 This module provides regular expression matching operations similar to those found in Perl.
 

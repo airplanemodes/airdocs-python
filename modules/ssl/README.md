@@ -3,7 +3,7 @@
 **TLS/SSL wrapper for socket objects.**
 
 > **Availability:** not Emscripten, not WASI.
-> Source code: [`Lib/ssl.py`](https://github.com/python/cpython/tree/3.12/Lib/ssl.py)  
+> Source code: [`Lib/ssl.py`](https://github.com/python/cpython/tree/3.13/Lib/ssl.py)  
 
 This module provides access to Transport Layer Security (often known as “Secure Sockets Layer”) encryption and peer authentication facilities for network sockets, both client-side and server-side. This module uses the OpenSSL library. It is available on all modern Unix systems, Windows, macOS, and probably additional platforms, as long as OpenSSL is installed on that platform.
 

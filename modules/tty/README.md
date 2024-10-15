@@ -1,6 +1,6 @@
 # tty
 
-> Source code: [`Lib/tty.py`](https://github.com/python/cpython/tree/3.12/Lib/tty.py)
+> Source code: [`Lib/tty.py`](https://github.com/python/cpython/tree/3.13/Lib/tty.py)
 
 > **Availability:** Unix.
 

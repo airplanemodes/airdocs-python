@@ -2,7 +2,7 @@
 
 **Data Classes.**
 
-> Source code: [`Lib/dataclasses.py`](https://github.com/python/cpython/tree/3.12/Lib/dataclasses.py)
+> Source code: [`Lib/dataclasses.py`](https://github.com/python/cpython/tree/3.13/Lib/dataclasses.py)
 
 This module provides a decorator and functions for automatically adding generated special methods such as [`__init__()`](/abstraction/object/__init__.md) and [`__repr__()`](/abstraction/object/__repr__.md) to user-defined classes. It was originally described in [**PEP 557**](https://peps.python.org/pep-0557/).
 

@@ -2,7 +2,7 @@
 
 **Trace memory allocations.**
 
-> Source code: [`Lib/tracemalloc.py`](https://github.com/python/cpython/tree/3.12/Lib/tracemalloc.py)
+> Source code: [`Lib/tracemalloc.py`](https://github.com/python/cpython/tree/3.13/Lib/tracemalloc.py)
 
 The tracemalloc module is a debug tool to trace memory blocks allocated by Python. It provides the following information:
 

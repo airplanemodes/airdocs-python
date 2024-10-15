@@ -2,7 +2,7 @@
 
 **Custom header objects.**
 
-> Source code: [`Lib/email/headerregistry.py`](https://github.com/python/cpython/tree/3.12/Lib/email/headerregistry.py)
+> Source code: [`Lib/email/headerregistry.py`](https://github.com/python/cpython/tree/3.13/Lib/email/headerregistry.py)
 
 Headers are represented by customized subclasses of [`str`](/built-in-types/str/). The particular class used to represent a given header is determined by the [`header_factory`](/modules/email/policy/EmailPolicy/header_factory.md) of the [`policy`](/modules/email/policy/) in effect when the headers are created. This section documents the particular header_factory implemented by the email package for handling [**RFC 5322**](https://datatracker.ietf.org/doc/html/rfc5322.html) compliant email messages, which not only provides customized header objects for various header types, but also provides an extension mechanism for applications to add their own custom header types.
 

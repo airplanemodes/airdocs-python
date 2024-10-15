@@ -2,7 +2,7 @@
 
 **Unix style pathname pattern expansion.**
 
-> Source code: [`Lib/glob.py`](https://github.com/python/cpython/tree/3.12/Lib/glob.py)
+> Source code: [`Lib/glob.py`](https://github.com/python/cpython/tree/3.13/Lib/glob.py)
 
 The `glob` module finds all the pathnames matching a specified pattern according to the rules used by the Unix shell, although results are returned in arbitrary order. No tilde expansion is done, but `*`, `?`, and character ranges expressed with `[]` will be correctly matched. This is done by using the [`os.scandir()`](/modules/os/scandir.md) and [`fnmatch.fnmatch()`](/modules/fnmatch/fnmatch.md) functions in concert, and not by actually invoking a subshell.
 

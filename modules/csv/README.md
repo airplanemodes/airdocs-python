@@ -2,7 +2,7 @@
 
 **CSV File Reading and Writing.**
 
-> Source code: [`Lib/csv.py`](https://github.com/python/cpython/tree/3.12/Lib/csv.py)
+> Source code: [`Lib/csv.py`](https://github.com/python/cpython/tree/3.13/Lib/csv.py)
 
 The so-called CSV (Comma Separated Values) format is the most common import and export format for spreadsheets and databases. CSV format was used for many years prior to attempts to describe the format in a standardized way in [**RFC 4180**](https://datatracker.ietf.org/doc/html/rfc4180.html). The lack of a well-defined standard means that subtle differences often exist in the data produced and consumed by different applications. These differences can make it annoying to process CSV files from multiple sources. Still, while the delimiters and quoting characters vary, the overall format is similar enough that it is possible to write a single module which can efficiently manipulate such data, hiding the details of reading and writing the data from the programmer.
 

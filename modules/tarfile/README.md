@@ -2,7 +2,7 @@
 
 **Read and write tar archive files.**
 
-> Source code: [`Lib/tarfile.py`](https://github.com/python/cpython/tree/3.12/Lib/tarfile.py).
+> Source code: [`Lib/tarfile.py`](https://github.com/python/cpython/tree/3.13/Lib/tarfile.py).
 
 The `tarfile` module makes it possible to read and write tar archives, including those using gzip, bz2 and lzma compression. Use the [`zipfile`](/modules/zipfile/) module to read or write `.zip` files, or the higher-level functions in [`shutil`](/modules/shutil/).
 

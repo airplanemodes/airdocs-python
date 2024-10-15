@@ -2,7 +2,7 @@
 
 **Generate pseudo-random numbers.**
 
-> Source code: [`Lib/random.py`](https://github.com/python/cpython/tree/3.12/Lib/random.py)
+> Source code: [`Lib/random.py`](https://github.com/python/cpython/tree/3.13/Lib/random.py)
 
 This module implements pseudo-random number generators for various distributions.
 

@@ -2,7 +2,7 @@
 
 **Creation of virtual environments.**
 
-> Source code: [`Lib/venv/`](https://github.com/python/cpython/tree/3.12/Lib/venv/)  
+> Source code: [`Lib/venv/`](https://github.com/python/cpython/tree/3.13/Lib/venv/)  
 > **Availability:** not Emscripten, not WASI.
 
 The `venv` module supports creating lightweight “virtual environments”, each with their own independent set of Python packages installed in their [`site`](/modules/site/) directories. A virtual environment is created on top of an existing Python installation, known as the virtual environment’s “base” Python, and may optionally be isolated from the packages in the base environment, so only those explicitly installed in the virtual environment are available.

@@ -2,7 +2,7 @@
 
 **Internet String Preparation.**
 
-> Source code: [`Lib/stringprep.py`](https://github.com/python/cpython/tree/3.12/Lib/stringprep.py)
+> Source code: [`Lib/stringprep.py`](https://github.com/python/cpython/tree/3.13/Lib/stringprep.py)
 
 When identifying things (such as host names) in the internet, it is often necessary to compare such identifications for “equality”. Exactly how this comparison is executed may depend on the application domain, e.g. whether it should be case-insensitive or not. It may be also necessary to restrict the possible identifications, to allow only identifications consisting of “printable” characters.
 

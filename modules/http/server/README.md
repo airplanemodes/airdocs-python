@@ -3,7 +3,7 @@
 **HTTP servers.**
 
 > **Availability:** not Emscripten, not WASI.  
-> Source code: [`Lib/http/server.py`](https://github.com/python/cpython/tree/3.12/Lib/http/server.py)
+> Source code: [`Lib/http/server.py`](https://github.com/python/cpython/tree/3.13/Lib/http/server.py)
 
 This module defines classes for implementing HTTP servers.
 

@@ -2,7 +2,7 @@
 
 **Terminal handling for character-cell displays.**
 
-> Source code: [`Lib/curses`](https://github.com/python/cpython/tree/3.12/Lib/curses)
+> Source code: [`Lib/curses`](https://github.com/python/cpython/tree/3.13/Lib/curses)
 
 The `curses` module provides an interface to the curses library, the de-facto standard for portable advanced terminal handling.
 

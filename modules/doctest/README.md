@@ -2,7 +2,7 @@
 
 **Test interactive Python examples.**
 
-> Source code: [`Lib/doctest.py`](https://github.com/python/cpython/tree/3.12/Lib/doctest.py)
+> Source code: [`Lib/doctest.py`](https://github.com/python/cpython/tree/3.13/Lib/doctest.py)
 
 The `doctest` module searches for pieces of text that look like interactive Python sessions, and then executes those sessions to verify that they work exactly as shown. There are several common ways to use doctest:
 

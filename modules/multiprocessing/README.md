@@ -2,7 +2,7 @@
 
 **Process-based parallelism.**
 
-> Source code: [`Lib/multiprocessing/`](https://github.com/python/cpython/tree/3.12/Lib/multiprocessing/)
+> Source code: [`Lib/multiprocessing/`](https://github.com/python/cpython/tree/3.13/Lib/multiprocessing/)
 
 > **Availability:** not Emscripten, not WASI.
 

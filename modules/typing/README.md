@@ -2,7 +2,7 @@
 
 **Support for type hints.**
 
-> Source code: [`Lib/typing.py`](https://github.com/python/cpython/tree/3.12/Lib/typing.py)
+> Source code: [`Lib/typing.py`](https://github.com/python/cpython/tree/3.13/Lib/typing.py)
 
 ?> The Python runtime does not enforce function and variable type annotations. They can be used by third party tools such as type checkers, IDEs, linters, etc.
 

@@ -2,7 +2,7 @@
 
 **Common pathname manipulations.**
 
-> Source code: [`Lib/posixpath.py`](https://github.com/python/cpython/tree/3.12/Lib/posixpath.py) (for POSIX) and [`Lib/ntpath.py`](https://github.com/python/cpython/tree/3.12/Lib/ntpath.py) (for Windows).
+> Source code: [`Lib/posixpath.py`](https://github.com/python/cpython/tree/3.13/Lib/posixpath.py) (for POSIX) and [`Lib/ntpath.py`](https://github.com/python/cpython/tree/3.13/Lib/ntpath.py) (for Windows).
 
 This module implements some useful functions on pathnames.
 

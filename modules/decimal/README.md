@@ -2,7 +2,7 @@
 
 **Decimal fixed point and floating point arithmetic.**
 
-> Source code: [`Lib/decimal.py`](https://github.com/python/cpython/tree/3.12/Lib/decimal.py)
+> Source code: [`Lib/decimal.py`](https://github.com/python/cpython/tree/3.13/Lib/decimal.py)
 
 The `decimal` module provides support for fast correctly rounded decimal floating point arithmetic. It offers several advantages over the [`float`](/built-in-types/float/) datatype:
 

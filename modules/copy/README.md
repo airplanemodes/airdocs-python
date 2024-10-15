@@ -2,7 +2,7 @@
 
 **Shallow and deep copy operations.**
 
-> Source code: [`Lib/copy.py`](https://github.com/python/cpython/tree/3.12/Lib/copy.py)
+> Source code: [`Lib/copy.py`](https://github.com/python/cpython/tree/3.13/Lib/copy.py)
 
 Assignment statements in Python do not copy objects, they create bindings between a target and an object. For collections that are mutable or contain mutable items, a copy is sometimes needed so one can change one copy without changing the other. This module provides generic shallow and deep copy operations.
 

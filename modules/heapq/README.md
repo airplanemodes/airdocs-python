@@ -2,7 +2,7 @@
 
 **Heap queue algorithm.**
 
-> Source code: [`Lib/heapq.py`](https://github.com/python/cpython/tree/3.12/Lib/heapq.py)
+> Source code: [`Lib/heapq.py`](https://github.com/python/cpython/tree/3.13/Lib/heapq.py)
 
 This module provides an implementation of the heap queue algorithm, also known as the priority queue algorithm.
 

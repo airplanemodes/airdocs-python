@@ -2,7 +2,7 @@
 
 **Base16, Base32, Base64, Base85 Data Encodings.**
 
-> Source code: [`Lib/base64.py`](https://github.com/python/cpython/tree/3.12/Lib/base64.py)
+> Source code: [`Lib/base64.py`](https://github.com/python/cpython/tree/3.13/Lib/base64.py)
 
 This module provides functions for encoding binary data to printable ASCII characters and decoding such encodings back to binary data. It provides encoding and decoding functions for the encodings specified in [**RFC 4648**](https://datatracker.ietf.org/doc/html/rfc4648.html), which defines the Base16, Base32, and Base64 algorithms, and for the de-facto standard Ascii85 and Base85 encodings.
 

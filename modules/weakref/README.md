@@ -2,7 +2,7 @@
 
 **Weak references.**
 
-> Source code: [`Lib/weakref.py`](https://github.com/python/cpython/tree/3.12/Lib/weakref.py)
+> Source code: [`Lib/weakref.py`](https://github.com/python/cpython/tree/3.13/Lib/weakref.py)
 
 The `weakref` module allows the Python programmer to create weak references to objects.
 
