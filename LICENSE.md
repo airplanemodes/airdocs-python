@@ -88,7 +88,8 @@ PERFORMANCE OF THIS SOFTWARE.
 **MIT LICENSE FOR DOCSIFY**
 
 ```
-Copyright (c) 2016 - present Docsify Contributors (https://github.com/docsifyjs/docsify/graphs/contributors)
+Copyright (c) 2016 - present Docsify Contributors
+(https://github.com/docsifyjs/docsify/graphs/contributors)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -112,8 +113,6 @@ SOFTWARE.
 **MIT LICENSE FOR DOCSIFY-THEMEABLE**
 
 ```
-MIT License
-
 Copyright (c) 2018 John Hildenbiddle
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -249,3 +248,4 @@ DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
 OTHER DEALINGS IN THE FONT SOFTWARE.
 ```
+

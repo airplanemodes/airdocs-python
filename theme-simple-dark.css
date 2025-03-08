@@ -333,23 +333,12 @@ pre[data-lang] {
 }
 
 pre[data-lang]::-moz-selection,
-pre[data-lang] ::-moz-selection,
-code[class*=lang-]::-moz-selection,
-code[class*=lang-] ::-moz-selection {
-    background: var(--code-theme-selection, var(--selection-color))
-}
-
-pre[data-lang]::-moz-selection,
-pre[data-lang] ::-moz-selection,
-code[class*=lang-]::-moz-selection,
-code[class*=lang-] ::-moz-selection {
+code[class*=lang-]::-moz-selection {
     background: var(--code-theme-selection, var(--selection-color))
 }
 
 pre[data-lang]::selection,
-pre[data-lang] ::selection,
-code[class*=lang-]::selection,
-code[class*=lang-] ::selection {
+code[class*=lang-]::selection {
     background: var(--code-theme-selection, var(--selection-color))
 }
 
@@ -491,17 +480,17 @@ pre[data-lang] {
 .markdown-section blockquote {
     overflow: visible;
     margin: 2em 0;
-    padding: var(--blockquote-padding);
+    padding: 1.5em;
     border-width: var(--blockquote-border-width, 0);
-    border-style: var(--blockquote-border-style);
+    border-style: solid;
     border-color: var(--blockquote-border-color);
-    border-radius: var(--blockquote-border-radius);
-    background: var(--blockquote-background);
+    border-radius: 0 var(--border-radius-m) var(--border-radius-m) 0;
+    background: var(--mono-tint3);
     color: var(--blockquote-color);
     font-family: var(--blockquote-font-family);
     font-size: var(--blockquote-font-size);
     font-style: var(--blockquote-font-style);
-    font-weight: var(--blockquote-font-weight);
+    font-weight: normal;
     quotes: "“" "”" "‘" "’"
 }
 
@@ -509,7 +498,7 @@ pre[data-lang] {
     font-family: var(--blockquote-em-font-family);
     font-size: var(--blockquote-em-font-size);
     font-style: var(--blockquote-em-font-style);
-    font-weight: var(--blockquote-em-font-weight)
+    font-weight: normal
 }
 
 .markdown-section blockquote p:first-child {
@@ -1981,13 +1970,7 @@ body .sidebar {
     /* horizontal ruler */
     --hr-border: 1px solid var(--mono-tint2);
     /* blockquote */
-    --blockquote-background: var(--mono-tint3);
-    --blockquote-border-style: solid;
-    --blockquote-em-font-weight: normal;
-    --blockquote-font-weight: normal;
-    --blockquote-padding: 1.5em;
     --blockquote-border-color: var(--theme-color);
-    --blockquote-border-radius: 0 var(--border-radius-m) var(--border-radius-m) 0;
     --blockquote-border-width: 0 0 0 4px;
     /* code */
     --code-theme-comment: #ababab;
