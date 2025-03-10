@@ -2022,7 +2022,7 @@ body .sidebar {
     --sidebar-border-color: var(--mono-tint2);
     --sidebar-background: var(--mono-shade1);
     --sidebar-transition-duration: var(--duration-fast);
-    --sidebar-width: 22rem;
+    --sidebar-width: 23rem;
     --sidebar-name-font-size: var(--font-size-xl);
     --sidebar-name-margin: 1.5rem 0 0;
     --sidebar-name-text-align: center;
