@@ -8,11 +8,11 @@
 <img alt="" border="0" src="https://www.paypal.com/en_IL/i/scr/pixel.gif" width="1" height="1" />
 </form>
 
-This is an alternative documentation with a focus on navigation and readability.
+This is an alternative, reorganized documentation with a focus on navigation and readability.
 
 ### Installation
 
-For viewing the website locally first install [`docsify`](https://docsify.js.org):
+To view the website locally, using Node.js, install [`docsify`](https://docsify.js.org):
 
 ```shell
 npm i docsify-cli -g
