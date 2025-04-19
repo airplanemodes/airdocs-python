@@ -1,6 +1,6 @@
 @font-face {
-    font-family: MapleMono-Regular;
-    src: url(MapleMono-Regular.woff2);
+    font-family: CommitMono;
+    src: url(CommitMonoV142-VF.woff2);
 }
 
 @font-face {
@@ -1982,7 +1982,7 @@ body .sidebar {
     --code-theme-text: #d0d0d0;
     --code-theme-variable: #ffcb6b;
     --code-theme-background: var(--mono-shade2);
-    --code-font-family: MapleMono-Regular;
+    --code-font-family: CommitMono;
     --code-font-size: var(--font-size-m);
     --code-font-weight: normal;
     --code-tab-size: 4;
