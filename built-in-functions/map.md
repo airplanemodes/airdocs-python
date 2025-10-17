@@ -10,3 +10,13 @@ If additional **iterables** arguments are passed, **function** must take that ma
 map(function, iterable)
 map(function, iterable, *iterables)
 ```
+
+### Example
+
+Convert numbers from string to integer type:
+
+```python
+numbers = ["1", "2", "3", "4", "5"]
+numbers = map(int, numbers)
+print(list(numbers)) # [1, 2, 3, 4, 5]
+```
