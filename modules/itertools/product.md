@@ -6,7 +6,7 @@ Roughly equivalent to nested for-loops in a generator expression. For example, `
 
 The nested loops cycle like an odometer with the rightmost element advancing on every iteration. This pattern creates a lexicographic ordering so that if the input’s iterables are sorted, the product tuples are emitted in sorted order.
 
-To compute the product of an iterable with itself, specify the number of repetitions with the optional *repeat* keyword argument. For example, `product(A, repeat=4)` means the same as `product(A, A, A, A)`.
+To compute the product of an iterable with itself, specify the number of repetitions with the optional **repeat** keyword argument. For example, `product(A, repeat=4)` means the same as `product(A, A, A, A)`.
 
 This function is roughly equivalent to the following code, except that the actual implementation does not build up intermediate results in memory:
 
